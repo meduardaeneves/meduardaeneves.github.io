@@ -22,7 +22,7 @@ repository               : "meduardaeneves/meduardaeneves.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto_cv.JPG"
+  avatar           : "foto_cv_02.JPG"
   name             : "Maria Eduarda E. Neves"
   pronouns         : # example: "she/her"  
   bio              : "Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning, em busca de uma vaga Junior em tecnologia."
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/mariaeduardaeneves/
+  linkedin         : mariaeduardaeneves
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
