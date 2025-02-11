@@ -16,6 +16,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+    children: 
+      - title: "Games"
+      url: /portfolio/games/
            
   - title: "Blog Posts"
     url: /year-archive/
