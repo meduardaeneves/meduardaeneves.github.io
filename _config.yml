@@ -223,6 +223,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  games:
+    output: true
+    permalink: /portfolio/games/:path/
   talks:
     output: true
     permalink: /:collection/:path/
