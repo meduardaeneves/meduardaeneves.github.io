@@ -1,0 +1,39 @@
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.games-item {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    text-align: center;
+}
+
+.games-item:hover {
+    transform: scale(1.05);
+}
+
+.games-item a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 15px;
+}
+
+.games-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-bottom: 2px solid #ddd;
+}
+
+.games-item h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
