@@ -1,6 +1,6 @@
 .games-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Aumentei para 250px */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Garante largura mínima */
     gap: 20px;
     padding: 20px;
     justify-content: center;
@@ -9,40 +9,28 @@
 }
 
 .games-item {
-    background-color: #f8f9fa;
+    background-color: #fff;
+    border: 2px solid black; /* Borda preta */
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease-in-out;
+    transition: all 0.3s ease-in-out;
     text-align: center;
-    display: flex;
-    flex-direction: column; /* Garantir que os elementos fiquem empilhados */
-    align-items: center; /* Centralizar o conteúdo */
-    padding: 15px;
-}
-
-.games-item:hover {
-    transform: scale(1.05);
-}
-
-.games-item a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-decoration: none;
-    color: #333;
-    width: 100%;
+    justify-content: space-between; /* Distribui a imagem e o texto */
+    padding: 15px;
+    height: 100%; /* Garante altura uniforme */
 }
 
-.games-item img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-    border-bottom: 2px solid #ddd;
+.games-item:hover {
+    background-color: black; /* Fundo preto no hover */
+    color: white; /* Texto branco no hover */
+    border-color: white; /* Borda branca no hover */
+    transform: scale(1.05);
 }
 
-.games-item h3 {
-    margin: 10px 0;
-    font-size: 1.2em;
-    text-align: center;
-}
+.game
+
+
