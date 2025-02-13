@@ -5,9 +5,16 @@
     padding: 15px;
     justify-content: center;
 }
-@media (min-width: 768px) {
+
+@media (min-width: 1024px) {
     .games-grid {
-        grid-template-columns: repeat(3, 1fr); /* 3 colunas para telas médias e maiores */
+        grid-template-columns: repeat(4, 1fr); /* 4 colunas para telas grandes */
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .games-grid {
+        grid-template-columns: repeat(3, 1fr); /* 3 colunas para telas médias */
     }
 }
 
@@ -22,6 +29,7 @@
         grid-template-columns: repeat(1, 1fr); /* 1 coluna para telas muito pequenas */
     }
 }
+
 .games-item {
     background-color: #f8f9fa;
     border-radius: 10px;
