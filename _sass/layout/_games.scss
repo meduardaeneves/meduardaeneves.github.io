@@ -1,16 +1,15 @@
 .games-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Garante largura mínima */
-    gap: 10px;
-    padding: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Ajustado para 3 itens */
+    gap: 15px;
+    padding: 15px;
     justify-content: center;
-    max-width: 1200px;
+    max-width: 1000px; /* Mantém uma largura máxima */
     margin: 0 auto;
 }
-
 .games-item {
     background-color: #fff;
-    border: 2px solid black; /* Borda preta */
+    border: 2px solid black;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -19,9 +18,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between; /* Distribui a imagem e o texto */
-    padding: 15px;
-    height: 100%; /* Garante altura uniforme */
+    justify-content: space-between;
+    padding: 10px;
+    height: auto; /* Ajusta dinamicamente */
+    max-width: 250px; /* Define um limite */
 }
 
 .games-item:hover {
@@ -42,7 +42,7 @@
 
 .games-item img {
     width: 100%;
-    height: 80px;
+    height: 100px;
     object-fit: cover;
     border-bottom: 2px solid #ddd;
 }
