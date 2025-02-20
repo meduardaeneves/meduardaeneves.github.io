@@ -21,21 +21,44 @@ categories: games
   </style>
 </head>
 <body>
-  <p>This is a BlackJack game versus the PC. Your goal is to beat the computer.   
-  The game is avaliable in engish and portuguese, before you start guessing you need to chose what language you want to play.</p>
-  <ul>
-    <li>Each time you click into "PORTUGUESE" or "ENGLISH" a new game starts</li>
-    <li>To try a letter you need to enter it in the proper writing space and click "TEST"</li>
-  </ul>
-  <p>For this game, exists 6 and 7 letters words, 500 units of each, for both languages. The exception is the group of 6 letters words in english, it contains 140 unis.</p>
-  <ul>
-    <li>The portuguese words were extracted from the <a href='https://www.dicio.com.br/exemplos-de-palavras/'>"Dicionário Online de Português"</a></li>
-    <li>The 6 letter words in english were extracted from the <a href='https://testbook.com/english-grammar/6-letter-words'>"Testbook"</a></li>
-    <li>The 7 letter words in english were extracted from the <a href='https://byjus.com/english/7-letter-words/'>"BYJU'S website"</a></li>
-  </ul>
-
+  <p>This is BlackJack game versus the PC. Your goal is to beat the computer.</p>
+  <p>To play the game you can scroll down into the "Play Here" section or download all the python files in the game <a href='https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/game_data/quiz_game'>RESPOSITORY</a> and execute it in your personal code editor.</p>
+  <h2>Game Rules</h2>
+  <p>
+    <ul>
+      <li>The dealer will give you 2 cards and will take 2.</li>
+      <li>You will know both your cards but only one of the computers.</li>
+      <li>The goal is to have the sum of your cads the closest (or equal) to 21, but not over it.</li>
+      <li>
+        Each card has it's own numerical value. Regarding the cards that are letters they have other values:
+        <ul>
+          <li>A = 1 or 11. Depending on the final Sum. Always avoiding getting over 21.</li>
+          <li>J = 10.</li>
+          <li>Q = 10.</li>
+          <li>K = 10.</li>
+        </ul>
+      </li>
+      <li>With your 2 cards in hand and knowing one of the dealers you can chose to get or not another card.</li>
+      <li>You can continue to pick cards until your hand exceeds 21 points</li>
+      <li>
+        How to win the game:
+        <ul>
+          <li>If the sum of your cards are 21 you win. If you have only two cards you will win with a blackjack</li>
+          <li>If comparing to the dealers cards your sum is closest to 21, withoud getting over.</li>
+        </ul>
+      </li>
+      <li>
+        How to lose the game:
+        <ul>
+          <li>If the sum of your cards are over 21.</li>
+          <li>If comparing to the dealers cards its sum is closest to 21 comparing to yours.</li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+  
   <h2>Play Here</h2>
   <script src="https://anvil.works/embed.js" async></script>
-  <iframe style="width:100%;" data-anvil-embed src="https://tepid-wary-single.anvil.app"></iframe>
+  <iframe style="width:100%;" data-anvil-embed src="https://reckless-candid-icterid.anvil.app"></iframe>
 </body>
 </html>
