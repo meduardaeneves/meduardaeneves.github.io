@@ -10,36 +10,42 @@ This is BlackJack game versus the PC. Your goal is to beat the computer.
 
 To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor.
 
+ <p>This Game collect its data from the Open Trivia DataBase: [Acess Website](https://opentdb.com/)</p>
+
 ## Game Rules
 
   <p>
     <ul>
-      <li>The dealer will give you 2 cards and will take 2.</li>
-      <li>You will know both your cards but only one of the computers.</li>
-      <li>The goal is to have the sum of your cads the closest (or equal) to 21, but not over it.</li>
       <li>
-        Each card has it's own numerical value. Regarding the cards that are letters they have other values:
+        The questions in this trivia game will vary in 3 aspects:
         <ul>
-          <li>A = 1 or 11. Depending on the final Sum. Always avoiding getting over 21.</li>
-          <li>J = 10.</li>
-          <li>Q = 10.</li>
-          <li>K = 10.</li>
+          <li>It's category</li>
+          <li>It's dificulty</li>
+          <li>
+            The type of the question
+            <li>True of False (boolean)</li>
+            <li>Multiple Choice (multiple)</li>
+            <li>Any (both multiple and boolean)</li>
+          </li>
         </ul>
       </li>
-      <li>With your 2 cards in hand and knowing one of the dealers you can chose to get or not another card.</li>
-      <li>You can continue to pick cards until your hand exceeds 21 points</li>
+      <li>You need to chose each one of those aspects to start the game. Once you have chosen them you need to press the "START GAME" key. Each time you press this key a new game begins</li>
+      <li>Each game will have a maximum phase of 5, with one question per phase</li>
+      <li>You have 3 lives. If you get a question wrong you remain in the same phasa but lose a life</li>
       <li>
-        How to win the game:
+        Your goal is to get the questions right and move the phases. To insert your answer you need to write its value in the "Value" box and then confirm it in the "CONFIRM ANSWER" key.
         <ul>
-          <li>If the sum of your cards are 21 you win. If you have only two cards you will win with a blackjack</li>
-          <li>If comparing to the dealers cards your sum is closest to 21, withoud getting over.</li>
+          <li>You will gain 2 points by each phase you win.</li>
+          <li>You will lose 1 point by each phase you lose.</li>
+          <li>If you achive the last phase and get it's question right, you will win the game.</li>
+          <li>If you ran out of lives you lose the game.</li>
         </ul>
       </li>
       <li>
-        How to lose the game:
+        Once the game has been finished it will be presented to you two parameters:
         <ul>
-          <li>If the sum of your cards are over 21.</li>
-          <li>If comparing to the dealers cards its sum is closest to 21 comparing to yours.</li>
+          <li>Your actual phase</li>
+          <li>Your total of points</li>
         </ul>
       </li>
     </ul>
