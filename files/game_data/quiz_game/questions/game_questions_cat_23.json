@@ -1,0 +1,2246 @@
+{
+    "[23, 'easy', 'any']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When did the Battle of the Somme begin?",
+            "correct_answer": "July 1st, 1916",
+            "incorrect_answers": [
+                "August 1st, 1916",
+                "July 2nd, 1916",
+                "June 30th, 1916"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+            "correct_answer": "Silver",
+            "incorrect_answers": [
+                "Gold",
+                "Juno",
+                "Sword"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year was the M1911 pistol designed?",
+            "correct_answer": "1911",
+            "incorrect_answers": [
+                "1907",
+                "1899",
+                "1917"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When was Google founded?",
+            "correct_answer": "September 4, 1998",
+            "incorrect_answers": [
+                "October 9, 1997",
+                "December 12, 1989",
+                "Feburary 7th, 2000"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "These two countries held a commonwealth from the 16th to 18th century.",
+            "correct_answer": "Poland and Lithuania",
+            "incorrect_answers": [
+                "Hutu and Rwanda",
+                "North Korea and South Korea",
+                "Bangladesh and Bhutan"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Cold War ended with Joseph Stalin's death.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What country joined the EU in 2013?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": [
+                "Bulgaria",
+                "Slovenia",
+                "Turkey"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How was Socrates executed?",
+            "correct_answer": "Poison",
+            "incorrect_answers": [
+                "Decapitation",
+                "Firing squad",
+                "Crucifixion "
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+            "correct_answer": "Silk Road",
+            "incorrect_answers": [
+                "Spice Road",
+                "Clay Road",
+                "Salt Road"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first prime minister of Canada?",
+            "correct_answer": "John Macdonald",
+            "incorrect_answers": [
+                "John Abbott",
+                "Alexander Mackenzie",
+                "Robert Borden"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which German field marshal was known as the `Desert Fox`?",
+            "correct_answer": "Erwin Rommel",
+            "incorrect_answers": [
+                "Ernst Busch",
+                "Wolfram Freiherr von Richthofen",
+                "Wilhelm List"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Ottoman Empire was dissolved after their loss in which war?",
+            "correct_answer": "World War I",
+            "incorrect_answers": [
+                "Crimean War",
+                "Serbian Revolution",
+                "Second Balkan War"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+            "correct_answer": "Paul Revere",
+            "incorrect_answers": [
+                "Thomas Paine",
+                "Henry Longfellow",
+                "Nathan Hale"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who discovered Penicillin?",
+            "correct_answer": "Alexander Flemming",
+            "incorrect_answers": [
+                "Marie Curie",
+                "Alfred Nobel",
+                "Louis Pasteur"
+            ]
+        },
+        "Question_18": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first president of the United States?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "James Madison",
+                "Thomas Jefferson",
+                "James K. Polk"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How old was Adolf Hitler when he died?",
+            "correct_answer": "56",
+            "incorrect_answers": [
+                "43",
+                "65",
+                "47"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the first sport to have been played on the moon?",
+            "correct_answer": "Golf",
+            "incorrect_answers": [
+                "Football",
+                "Tennis",
+                "Soccer"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following African countries was most successful in resisting colonization?",
+            "correct_answer": "Ethiopia",
+            "incorrect_answers": [
+                "C\u00f4te d\u2019Ivoire",
+                "Congo",
+                "Namibia"
+            ]
+        },
+        "Question_23": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States of America was the first country to launch a man into space.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who led the Communist Revolution of Russia?",
+            "correct_answer": "Vladimir Lenin",
+            "incorrect_answers": [
+                "Joseph Stalin",
+                "Vladimir Putin",
+                "Mikhail Gorbachev"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was Manfred von Richthofen's nickname?",
+            "correct_answer": "The Red Baron",
+            "incorrect_answers": [
+                "The High Flying Ace",
+                "The Blue Serpent ",
+                "The Germany Gunner"
+            ]
+        }
+    },
+    "[23, 'easy', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which famous world leader is famed for the saying, \"Let them eat cake\", yet is rumored that he/she never said it at all?",
+            "correct_answer": "Marie Antoinette",
+            "incorrect_answers": [
+                "Czar Nicholas II",
+                "Elizabeth I",
+                "Henry VIII"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first prime minister of Canada?",
+            "correct_answer": "John Macdonald",
+            "incorrect_answers": [
+                "John Abbott",
+                "Alexander Mackenzie",
+                "Robert Borden"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+            "correct_answer": "Poland",
+            "incorrect_answers": [
+                "Czechoslovakia",
+                "Austria",
+                "Hungary"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When was Google founded?",
+            "correct_answer": "September 4, 1998",
+            "incorrect_answers": [
+                "October 9, 1997",
+                "December 12, 1989",
+                "Feburary 7th, 2000"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which country was Josef Stalin born in?",
+            "correct_answer": "Georgia",
+            "incorrect_answers": [
+                "Russia",
+                "Germany",
+                "Poland"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+            "correct_answer": "Nagasaki",
+            "incorrect_answers": [
+                "Kawasaki",
+                "Tokyo",
+                "Kagoshima"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How long did World War II last?",
+            "correct_answer": "6 years",
+            "incorrect_answers": [
+                "4 years",
+                "5 years",
+                "7 years"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The idea of Socialism was articulated and advanced by whom?",
+            "correct_answer": "Karl Marx",
+            "incorrect_answers": [
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Vladimir Putin"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+            "correct_answer": "The Polish President",
+            "incorrect_answers": [
+                "Pope John Paul II",
+                "Bang-Ding Ow",
+                "Albert Putin"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was Manfred von Richthofen's nickname?",
+            "correct_answer": "The Red Baron",
+            "incorrect_answers": [
+                "The High Flying Ace",
+                "The Blue Serpent ",
+                "The Germany Gunner"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following was Brazil was a former colony under?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "Spain",
+                "The Netherlands",
+                "France"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+            "correct_answer": "1721",
+            "incorrect_answers": [
+                "1726",
+                "1727",
+                "1724"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+            "correct_answer": "Harper's Ferry",
+            "incorrect_answers": [
+                "Richmond",
+                "Harrisonburg",
+                "Martinsburg"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+            "correct_answer": "Tog II",
+            "incorrect_answers": [
+                "M4 Sherman",
+                "Tiger H1",
+                "T-34"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Ottoman Empire was dissolved after their loss in which war?",
+            "correct_answer": "World War I",
+            "incorrect_answers": [
+                "Crimean War",
+                "Serbian Revolution",
+                "Second Balkan War"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How was Socrates executed?",
+            "correct_answer": "Poison",
+            "incorrect_answers": [
+                "Decapitation",
+                "Firing squad",
+                "Crucifixion "
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+            "correct_answer": "Paul Revere",
+            "incorrect_answers": [
+                "Thomas Paine",
+                "Henry Longfellow",
+                "Nathan Hale"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The \"Trail of Tears\" was a result of which United States President's Indian Removal Policy?",
+            "correct_answer": "Andrew Jackson",
+            "incorrect_answers": [
+                "Harry S. Truman",
+                "Martin Van Buren",
+                "John Quincy Adams"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who led the Communist Revolution of Russia?",
+            "correct_answer": "Vladimir Lenin",
+            "incorrect_answers": [
+                "Joseph Stalin",
+                "Vladimir Putin",
+                "Mikhail Gorbachev"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+            "correct_answer": "Silver",
+            "incorrect_answers": [
+                "Gold",
+                "Juno",
+                "Sword"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When did the Battle of the Somme begin?",
+            "correct_answer": "July 1st, 1916",
+            "incorrect_answers": [
+                "August 1st, 1916",
+                "July 2nd, 1916",
+                "June 30th, 1916"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first president of the United States?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "James Madison",
+                "Thomas Jefferson",
+                "James K. Polk"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the Wall Street Crash take place?",
+            "correct_answer": "1929",
+            "incorrect_answers": [
+                "1932",
+                "1930",
+                "1925"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the first sport to have been played on the moon?",
+            "correct_answer": "Golf",
+            "incorrect_answers": [
+                "Football",
+                "Tennis",
+                "Soccer"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the nuclear power plant in Chernobyl melt down?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "1991",
+                "1975",
+                "1998"
+            ]
+        }
+    },
+    "[23, 'easy', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States of America was the first country to launch a man into space.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Adolf Hitler was a german soldier in World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States Department of Homeland Security was formed in response to the September 11th attacks.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Adolf Hitler was tried at the Nuremberg trials.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Cold War ended with Joseph Stalin's death.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States was a member of the League of Nations.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The majority of people that lived under the Byzantine Empire called themselves Romans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Kublai Khan is the grandchild of Genghis Khan?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_15": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_16": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Spitfire originated from a racing plane.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[23, 'medium', 'any']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
+            "correct_answer": "August 19",
+            "incorrect_answers": [
+                "August 21",
+                "December 26",
+                "December 24"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+            "correct_answer": "The Mayans",
+            "incorrect_answers": [
+                "The Incas",
+                "The Aztecs",
+                "The Navajos"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these founding fathers of the United States of America later became president?",
+            "correct_answer": "James Monroe",
+            "incorrect_answers": [
+                "Alexander Hamilton",
+                "Samuel Adams",
+                "Roger Sherman"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following Presidents of the United States was assassinated?",
+            "correct_answer": "William McKinley",
+            "incorrect_answers": [
+                "Lyndon Johnson",
+                "Chester Arthur",
+                "Franklin Roosevelt"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Assyrian king Sennacherib's destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In which year was Constantinople conquered by the Turks?",
+            "correct_answer": "1453",
+            "incorrect_answers": [
+                "1435",
+                "1454",
+                "1440"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Panama Canal was finished under the administration of which U.S. president?",
+            "correct_answer": "Woodrow Wilson",
+            "incorrect_answers": [
+                "Franklin Delano Roosevelt",
+                "Herbert Hoover",
+                "Theodore Roosevelt"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+            "correct_answer": "Agent Orange",
+            "incorrect_answers": [
+                "Phosgene",
+                "Mustard Gas",
+                "Hydrogen Cyanide"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What date was the first flight of the P-40 Warhawk?",
+            "correct_answer": "October 14 1938",
+            "incorrect_answers": [
+                "August 21 1939",
+                "January 12 1940",
+                "June 1 1939"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following is not in the Indo-European language family?",
+            "correct_answer": "Finnish",
+            "incorrect_answers": [
+                "English",
+                "Hindi",
+                "Russian"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Martin Luther King Jr. and Anne Frank were born the same year. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Franz Joseph I was the last emperor of Austria.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What nationality was sultan Saladin?",
+            "correct_answer": "Kurdish",
+            "incorrect_answers": [
+                "Arab",
+                "Egyptian",
+                "Syrian"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How many years did the Hundred Years' War last?",
+            "correct_answer": "116",
+            "incorrect_answers": [
+                "100",
+                "90",
+                "101"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The United States Army Air Corps became the United States Air Force on what date?",
+            "correct_answer": "September 18, 1947",
+            "incorrect_answers": [
+                "December 14, 1946",
+                "October 27, 1945",
+                "November 08, 1944"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+            "correct_answer": "The Central Powers",
+            "incorrect_answers": [
+                "The Axis Powers",
+                "The Federation of Empires",
+                "Authoritarian Alliance"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did the Battle of Agincourt take place?",
+            "correct_answer": "1415",
+            "incorrect_answers": [
+                "1463",
+                "1401",
+                "1422"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Where and when was the first cardboard box made for industrial use?",
+            "correct_answer": "England, 1817",
+            "incorrect_answers": [
+                "United States, 1817",
+                "England, 1917",
+                "United States, 1917"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Spitfire L.F. Mk IX had what engine?",
+            "correct_answer": "Merlin 66",
+            "incorrect_answers": [
+                "Griffon 65",
+                "Merlin 50",
+                "Merlin X"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did the Crisis of the Third Century begin?",
+            "correct_answer": "235 AD",
+            "incorrect_answers": [
+                "235 BC",
+                "242 AD",
+                "210 AD"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the oldest US state?",
+            "correct_answer": "Delaware",
+            "incorrect_answers": [
+                "Rhode Island",
+                "Maine",
+                "Virginia"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who assassinated Archduke Franz Ferdinand?",
+            "correct_answer": "Gavrilo Princip",
+            "incorrect_answers": [
+                "Nedeljko \u010cabrinovi\u0107",
+                "Oskar Potiorek",
+                "Ferdinand Cohen-Blind"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first president born in the independent United States?",
+            "correct_answer": "Martin Van Buren",
+            "incorrect_answers": [
+                "John Adams",
+                "George Washington",
+                "James Monroe "
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+            "correct_answer": "Irish Republican Army",
+            "incorrect_answers": [
+                "Irish Rebel Alliance",
+                "Irish Reformation Army",
+                "Irish-Royal Alliance"
+            ]
+        },
+        "Question_25": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[23, 'medium', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of his six wives was Henry VIII married to the longest?",
+            "correct_answer": "Catherine of Aragon",
+            "incorrect_answers": [
+                "Anne Boleyn",
+                "Jane Seymour",
+                "Catherine Parr"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What happened on June 6, 1944?",
+            "correct_answer": "D-Day",
+            "incorrect_answers": [
+                "Atomic bombings of Hiroshima and Nagasaki",
+                "Attack on Pearl Harbor",
+                "The Liberation of Paris"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Britain",
+                "Belgium",
+                "France"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Peru",
+                "Brazil",
+                "Argentina"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "During what war did the \"Cuban Missile Crisis\" occur?",
+            "correct_answer": "Cold War",
+            "incorrect_answers": [
+                "World War I",
+                "World War II",
+                "Revolutionary War"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the planned invasion of Japan towards the end of World War II?",
+            "correct_answer": "Operation Downfall",
+            "incorrect_answers": [
+                "Operation Boarding Party",
+                "Operation Ironclad",
+                "Operation Aflame"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What event marked the start of World War II?",
+            "correct_answer": "Invasion of Poland (1939)",
+            "incorrect_answers": [
+                "Invasion of Russia (1942)",
+                "Battle of Britain (1940)",
+                "Invasion of Normandy (1944)"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the bloodiest single-day battle during the American Civil War?",
+            "correct_answer": "The Battle of Antietam",
+            "incorrect_answers": [
+                "The Siege of Vicksburg",
+                "The Battle of Gettysburg",
+                "The Battles of Chancellorsville"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these founding fathers of the United States of America later became president?",
+            "correct_answer": "James Monroe",
+            "incorrect_answers": [
+                "Alexander Hamilton",
+                "Samuel Adams",
+                "Roger Sherman"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+            "correct_answer": "Hampton Court",
+            "incorrect_answers": [
+                "St James's Palace",
+                "Buckingham Palace",
+                "Coughton Court"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+            "correct_answer": "USS Pueblo",
+            "incorrect_answers": [
+                "USS North Carolina",
+                "USS Constitution",
+                "USS Indianapolis"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+            "correct_answer": "Shamshi-Adad III",
+            "incorrect_answers": [
+                "Shalmaneser V",
+                "Esharhaddon",
+                "Ashur-nasir-pal II"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did Australia become a federation?",
+            "correct_answer": "1901",
+            "incorrect_answers": [
+                "1910",
+                "1899",
+                "1911"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which building was set aflame on August 24th, 1812?",
+            "correct_answer": "The White House",
+            "incorrect_answers": [
+                "Parliament Building",
+                "Grand National Assembly Building",
+                "Palace of the Nation"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+            "correct_answer": "The Central Powers",
+            "incorrect_answers": [
+                "The Axis Powers",
+                "The Federation of Empires",
+                "Authoritarian Alliance"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who is believed to have been the first European to 'discover' the land of New Zealand?",
+            "correct_answer": "Abel Tasman",
+            "incorrect_answers": [
+                "Christopher Columbus",
+                "Jeanne Bar\u00e9",
+                "John Cabot "
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did O, Canada officially become the national anthem?",
+            "correct_answer": "1980",
+            "incorrect_answers": [
+                "1950",
+                "1920",
+                "1880"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did Vesuvius destroy the city of Pompeii? ",
+            "correct_answer": "79 AD",
+            "incorrect_answers": [
+                "62 AD",
+                "31 BC",
+                "54 BC"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "India",
+                "Mozambique",
+                "Madagascar"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+            "correct_answer": "Typhoons",
+            "incorrect_answers": [
+                "Tornados",
+                "Economic depression",
+                "Samurai"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was Genghis Khan's real name?",
+            "correct_answer": "Tem\u00fcjin",
+            "incorrect_answers": [
+                "M\u00f6ngke",
+                "\u00d6gedei",
+                "Tem\u00fcr"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+            "correct_answer": "100 Megatons",
+            "incorrect_answers": [
+                "200 Megatons",
+                "75 Megatons",
+                "150 Megatons"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+            "correct_answer": "M\u0101ori",
+            "incorrect_answers": [
+                "Papuans",
+                "Aborigines",
+                "Polynesians"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "On what day did Germany invade Poland?",
+            "correct_answer": "September 1, 1939",
+            "incorrect_answers": [
+                "December 7, 1941",
+                "June 22, 1941",
+                "July 7, 1937"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+            "correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+            "incorrect_answers": [
+                "Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+                "Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+                "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+            ]
+        }
+    },
+    "[23, 'medium', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Martin Luther King Jr. and Anne Frank were born the same year. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Oxford University is older than the Aztec Empire. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Assyrian king Sennacherib's destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Augustus was the cousin of Julius Caesar. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Adolf Hitler was accepted into the Vienna Academy of Fine Arts.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Brezhnev was the 5th leader of the USSR.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The two atomic bombs dropped on Japan by the United States in August 1945 were named 'Little Man' and 'Fat Boy'.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_15": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Hundred Years' War was fought for more than a hundred years.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_16": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "\"I disapprove of what you say, but I will defend to the death your right to say it\" is a quote from French philosopher Voltaire.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_17": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_18": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_19": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Korean War ended in 1953 without any ceasefire.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_20": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_21": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Franz Joseph I was the last emperor of Austria.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    },
+    "[23, 'hard', 'any']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+            "correct_answer": "Battle of Midway",
+            "incorrect_answers": [
+                "Attack on Truk Island",
+                "Attack on Pearl Harbor",
+                "Battle of the Coral Sea"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the aim of the \"Umbrella Revolution\" in Hong Kong in 2014?",
+            "correct_answer": "Genuine universal suffrage",
+            "incorrect_answers": [
+                "Gaining Independence",
+                "Go back under British Rule",
+                "Lower taxes"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+            "correct_answer": "Philip V",
+            "incorrect_answers": [
+                "Charles V",
+                "Philip II",
+                "Francis Joseph"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Toussaint Louverture led a successful slave revolt in which country?",
+            "correct_answer": "Haiti",
+            "incorrect_answers": [
+                "France",
+                "Cuba",
+                "United States"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+            "correct_answer": "March 25th",
+            "incorrect_answers": [
+                "June 1st",
+                "September 25th",
+                "December 1st"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the real name of the Albanian national leader Skanderbeg?",
+            "correct_answer": "Gjergj Kastrioti",
+            "incorrect_answers": [
+                "Diturak Zhulati",
+                "Iskander Bejko",
+                "Mirash Krasniki"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+            "correct_answer": "Brazzaville",
+            "incorrect_answers": [
+                "Algiers",
+                "Paris",
+                "Tunis"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "List the following Iranic empires in chronological order:",
+            "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+            "incorrect_answers": [
+                "Median, Achaemenid, Sassanid, Parthian",
+                "Achaemenid, Median, Parthian, Sassanid",
+                "Achaemenid, Median, Sassanid, Parthian"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which King of England was faced with the Peasants' Revolt in 1381?",
+            "correct_answer": "Richard II",
+            "incorrect_answers": [
+                "Edward III",
+                "Edward II",
+                "Henry IV"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who is the creator of the soft drink, Dr. Pepper?",
+            "correct_answer": "Charles Alderton",
+            "incorrect_answers": [
+                "James Wellington",
+                "Johnson Hinsin",
+                "Boris Heviltik"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
+            "correct_answer": "Enola Gay",
+            "incorrect_answers": [
+                "Necessary Evil",
+                "The Great Artiste",
+                "Full House"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During World War I, which nation's monarchs were blood related?",
+            "correct_answer": "England, Germany, Russia",
+            "incorrect_answers": [
+                "France, Russia, Germany",
+                "Serbia, Russia, Croatia",
+                "Germany, Spain, Austria"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did Lithuania declare independence from the Soviet Union?",
+            "correct_answer": "March 11th, 1990",
+            "incorrect_answers": [
+                "December 25th, 1991",
+                "December 5th, 1991",
+                "April 20th, 1989"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+            "correct_answer": "Justinian I",
+            "incorrect_answers": [
+                "Constantine IV",
+                "Arcadius",
+                "Theodosius the Great"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "With which Greek philosopher would you associate the phrase, \"I know that I know nothing\"?",
+            "correct_answer": "Socrates",
+            "incorrect_answers": [
+                "Aristotle",
+                "Plato",
+                "Pythagoras"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who invented the \"Flying Shuttle\" in 1738; one of the key developments in the industrialization of weaving?",
+            "correct_answer": "John Kay",
+            "incorrect_answers": [
+                "James Hargreaves",
+                "Richard Arkwright",
+                "John Deere"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+            "correct_answer": "Threw them out of a window",
+            "incorrect_answers": [
+                "Insulted their mothers",
+                "Locked them in stockades",
+                "Hung them."
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+            "correct_answer": "Nationalist Spain",
+            "incorrect_answers": [
+                "Republican Spain",
+                "Popular Front",
+                "Papal State"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
+            "correct_answer": "Anselm of Canterbury",
+            "incorrect_answers": [
+                "Ren\u00e9 Descartes",
+                "Immanuel Kant",
+                "Aristotle"
+            ]
+        },
+        "Question_21": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Joseph Stalin's real name was Ioseb Bessarionis dze Dzugashvili.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The son of which pope supposedly held a lecherous f\u00eate involving 50 courtesans in the papal palace?",
+            "correct_answer": "Alexander VI",
+            "incorrect_answers": [
+                "Innocent V",
+                "Urban II",
+                "Pius III"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What did the abbreviation \"RMS\" stand for in the RMS Titanic in 1912?",
+            "correct_answer": "Royal Mail Ship",
+            "incorrect_answers": [
+                "Royal Majesty Service",
+                "Regular Maritime Schedule ",
+                "Regulated Maelstrom Sensor"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the first man to travel into outer space twice?",
+            "correct_answer": "Gus Grissom",
+            "incorrect_answers": [
+                "Vladimir Komarov",
+                "Charles Conrad",
+                "Yuri Gagarin"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+            "correct_answer": "Mamluk",
+            "incorrect_answers": [
+                "Ayyubid",
+                "Ummayyad",
+                "Seljuq"
+            ]
+        }
+    },
+    "[23, 'hard', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "Abraham Lincoln",
+                "Thomas Jefferson",
+                "James Monroe"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the original name of New York City?",
+            "correct_answer": "New Amsterdam",
+            "incorrect_answers": [
+                "New London",
+                "New Paris",
+                "New Rome"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "How long did the Warsaw Uprising during World War II last?",
+            "correct_answer": "63 Days",
+            "incorrect_answers": [
+                "20 Days",
+                "55 Days",
+                "224 Days"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+            "correct_answer": "Battle of Midway",
+            "incorrect_answers": [
+                "Attack on Truk Island",
+                "Attack on Pearl Harbor",
+                "Battle of the Coral Sea"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Pianist Fr\u00e9d\u00e9ric Chopin was a composer of which musical era?",
+            "correct_answer": "Romantic",
+            "incorrect_answers": [
+                "Classic",
+                "Baroque",
+                "Renaissance"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which day did World War I begin?",
+            "correct_answer": "July 28",
+            "incorrect_answers": [
+                "January 28",
+                "June 28",
+                "April 28"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "How many women joined the United States Armed Services during World War II?",
+            "correct_answer": "350,000",
+            "incorrect_answers": [
+                "225,000",
+                "100,000",
+                "500,000"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the real name of the Albanian national leader Skanderbeg?",
+            "correct_answer": "Gjergj Kastrioti",
+            "incorrect_answers": [
+                "Diturak Zhulati",
+                "Iskander Bejko",
+                "Mirash Krasniki"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+            "correct_answer": "John and Mary",
+            "incorrect_answers": [
+                "Joseph and Catherine",
+                "William and Elizabeth",
+                "George and Anne"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+            "correct_answer": "Mamluk",
+            "incorrect_answers": [
+                "Ayyubid",
+                "Ummayyad",
+                "Seljuq"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+            "correct_answer": "March 25th",
+            "incorrect_answers": [
+                "June 1st",
+                "September 25th",
+                "December 1st"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "2001",
+                "2011",
+                "1991"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "List the following Iranic empires in chronological order:",
+            "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+            "incorrect_answers": [
+                "Median, Achaemenid, Sassanid, Parthian",
+                "Achaemenid, Median, Parthian, Sassanid",
+                "Achaemenid, Median, Sassanid, Parthian"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who invented the \"Flying Shuttle\" in 1738; one of the key developments in the industrialization of weaving?",
+            "correct_answer": "John Kay",
+            "incorrect_answers": [
+                "James Hargreaves",
+                "Richard Arkwright",
+                "John Deere"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+            "correct_answer": "Justinian I",
+            "incorrect_answers": [
+                "Constantine IV",
+                "Arcadius",
+                "Theodosius the Great"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+            "correct_answer": "Werner Heisenberg",
+            "incorrect_answers": [
+                "John von Neumann",
+                "Albert Einstein",
+                "Max Planck"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who is the creator of the soft drink, Dr. Pepper?",
+            "correct_answer": "Charles Alderton",
+            "incorrect_answers": [
+                "James Wellington",
+                "Johnson Hinsin",
+                "Boris Heviltik"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What did the abbreviation \"RMS\" stand for in the RMS Titanic in 1912?",
+            "correct_answer": "Royal Mail Ship",
+            "incorrect_answers": [
+                "Royal Majesty Service",
+                "Regular Maritime Schedule ",
+                "Regulated Maelstrom Sensor"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In 1547 who became the 1st Tsar of Russia",
+            "correct_answer": "Ivan the Terrible",
+            "incorrect_answers": [
+                "Alexis of Russia",
+                "Mikhail Romanov",
+                "Peter the Great"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The son of which pope supposedly held a lecherous f\u00eate involving 50 courtesans in the papal palace?",
+            "correct_answer": "Alexander VI",
+            "incorrect_answers": [
+                "Innocent V",
+                "Urban II",
+                "Pius III"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+            "correct_answer": "Surveyor to the City of London",
+            "incorrect_answers": [
+                "Professor of Mathematics",
+                "Warden of the Royal Mint",
+                "Member of Parliament"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was found in 1946 by two young shepards near a cave?",
+            "correct_answer": "Dead Sea Scrolls",
+            "incorrect_answers": [
+                "The Blackbeard Chest",
+                "Sheep",
+                "The First Oaxaca Cave Sleeper"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+            "correct_answer": "Franklin Pierce",
+            "incorrect_answers": [
+                "Andrew Johnson",
+                "Abraham Lincoln",
+                "James Polk"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Toussaint Louverture led a successful slave revolt in which country?",
+            "correct_answer": "Haiti",
+            "incorrect_answers": [
+                "France",
+                "Cuba",
+                "United States"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did Lithuania declare independence from the Soviet Union?",
+            "correct_answer": "March 11th, 1990",
+            "incorrect_answers": [
+                "December 25th, 1991",
+                "December 5th, 1991",
+                "April 20th, 1989"
+            ]
+        }
+    },
+    "[23, 'hard', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland's.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Kingdom of Prussia briefly held land in Estonia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Battle of Trafalgar took place on October 23rd, 1805",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Japan was part of the Allied Powers during World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Joseph Stalin's real name was Ioseb Bessarionis dze Dzugashvili.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The USS Missouri (BB-63) last served in the Korean War.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    }
+}

@@ -1,0 +1,2480 @@
+{
+    "[15, 'easy', 'any']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+            "correct_answer": "Pac-Man",
+            "incorrect_answers": [
+                "Gauntlet",
+                "Space Invaders",
+                "Street Fighter"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the leader of Team Valor in Pok\u00e9mon Go?",
+            "correct_answer": "Candela",
+            "incorrect_answers": [
+                "Willow",
+                "Blanche",
+                "Spark"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+            "correct_answer": "Souls ",
+            "incorrect_answers": [
+                "Final Fantasy ",
+                "Monster Hunter",
+                "The Legend of Zelda"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Space Station 13\",  the station has a clown aboard it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",
+            "correct_answer": "Will Stamper",
+            "incorrect_answers": [
+                "Steve Blum",
+                "Richard Epcar",
+                "Yuri Lowenthal"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a rival gang in the video game Saint's Row 2?",
+            "correct_answer": "The Zin Empire",
+            "incorrect_answers": [
+                "The Brotherhood",
+                "The Ronin",
+                "The Sons of Samedi"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the last boss in Night In The Woods' Demontower minigame?",
+            "correct_answer": "The Blood Thief",
+            "incorrect_answers": [
+                "Mega Hairball ",
+                "King Skellie ",
+                "Krampus "
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pokemon Red & Blue, what is the name of HM05?",
+            "correct_answer": "Flash",
+            "incorrect_answers": [
+                "Strength",
+                "Cut",
+                "Fly"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The name of the main character of the video game \"The Legend of Zelda\", is Zelda.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What type of Pok\u00e9mon is Charizard?",
+            "correct_answer": "Fire/Flying",
+            "incorrect_answers": [
+                "Fire",
+                "Dragon",
+                "Fire/Dragon"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who created the indie adventure game \"Night in the Woods\"?",
+            "correct_answer": "Alec Holowka",
+            "incorrect_answers": [
+                "Ron Gilbert",
+                "Tim Schafer",
+                " Tommy Refenes"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"Half-Life\" series, \"H.E.V\" stands for \"Hazardous Evasiveness Vest\"",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following names is the \"Mega Man\" Franchise known as in Japan?",
+            "correct_answer": "Rockman",
+            "incorrect_answers": [
+                "Paperman",
+                "Scissorsman",
+                "Mega Man"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon 2, who are the members of Off The Hook?",
+            "correct_answer": "Pearl & Marina",
+            "incorrect_answers": [
+                "Callie & Marie",
+                "Diamond & Aquamarina",
+                "DJ Octavio & Crusty Sean"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "10",
+                "13",
+                "12"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Five Nights at Freddy's 1, how can you make Golden Freddy disappear?",
+            "correct_answer": "Enable cameras",
+            "incorrect_answers": [
+                "Turn on the light",
+                "Shut the door",
+                "Do nothing"
+            ]
+        },
+        "Question_17": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The game \"Battlefield 1\" takes place during World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"Worms\" series of video games, which of these weapons is affected by wind?",
+            "correct_answer": "Bazooka",
+            "incorrect_answers": [
+                "Grenade",
+                "Air Strike",
+                "Mortar"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of the game Half-Life: Opposing Force?",
+            "correct_answer": "Adrian Shephard",
+            "incorrect_answers": [
+                "Gordon Freeman",
+                "Alyx Vance",
+                "Barney Calhoun"
+            ]
+        },
+        "Question_20": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"S.T.A.L.K.E.R.\" series, the Freedom faction wishes to destroy the supernatural area known as  \"the Zone\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_21": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pok\u00e9mon Sun and Moon, a male Salandit can evolve to a Salazzle.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist of Dead Space?",
+            "correct_answer": "Isaac Clarke",
+            "incorrect_answers": [
+                "Commander Shepard",
+                "Gordon Freeman",
+                "Master Chief"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the City in Saints Row The Third?",
+            "correct_answer": "Steelport",
+            "incorrect_answers": [
+                "Stilwater",
+                "Carcer",
+                "Liberty"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+            "correct_answer": "Thievius Raccoonus",
+            "incorrect_answers": [
+                "Raccoon Training 101",
+                "The Art of Sneak",
+                "Raccoonus Teachus"
+            ]
+        },
+        "Question_25": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Gordon Freeman, the protagonist of \"Half-Life\", is said to have once had a ponytail.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[15, 'easy', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of the game Half-Life: Opposing Force?",
+            "correct_answer": "Adrian Shephard",
+            "incorrect_answers": [
+                "Gordon Freeman",
+                "Alyx Vance",
+                "Barney Calhoun"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+            "correct_answer": "Skeleton",
+            "incorrect_answers": [
+                "Frog",
+                "Horror",
+                "Plant"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year was the game Team Fortress 2 released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2009",
+                "2005",
+                "2010"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2007",
+                "2004",
+                "2003"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a rival gang in the video game Saint's Row 2?",
+            "correct_answer": "The Zin Empire",
+            "incorrect_answers": [
+                "The Brotherhood",
+                "The Ronin",
+                "The Sons of Samedi"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Overwatch\", which hero is able to wallride?",
+            "correct_answer": "Lucio",
+            "incorrect_answers": [
+                "Reinhardt",
+                "Sombra",
+                "Mercy"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "\"The Potato Sack\" was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+            "correct_answer": "Portal 2",
+            "incorrect_answers": [
+                "Left 4 Dead 2",
+                "Half-Life 3",
+                "Dota 2"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Kirby game first introduced Copy Abilities?",
+            "correct_answer": "Kirby's Adventure",
+            "incorrect_answers": [
+                "Kirby Super Star",
+                "Kirby's Dream Land 2",
+                "Kirby's Dream Land"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What ingredient is NOT used to craft a cake in Minecraft?",
+            "correct_answer": "Bread",
+            "incorrect_answers": [
+                "Wheat",
+                "Milk",
+                "Egg"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon 2, who are the members of Off The Hook?",
+            "correct_answer": "Pearl & Marina",
+            "incorrect_answers": [
+                "Callie & Marie",
+                "Diamond & Aquamarina",
+                "DJ Octavio & Crusty Sean"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+            "correct_answer": "Charcoal",
+            "incorrect_answers": [
+                "Coal",
+                "Wheat",
+                "String"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Divinity: Original Sin II, what is the name of the skeletal origin character?",
+            "correct_answer": "Fane",
+            "incorrect_answers": [
+                "Lohse",
+                "The Red Prince",
+                "There are no skeletal origin characters"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is Gabe Newell's favorite class in Team Fortress 2?",
+            "correct_answer": "Spy",
+            "incorrect_answers": [
+                "Heavy",
+                "Medic",
+                "Pyro"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game \"Fire Emblem: Shadow Dragon\", what is the central protagonist's name?",
+            "correct_answer": "Marth",
+            "incorrect_answers": [
+                "Roy",
+                "Eliwood",
+                "Robin"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Night In The Woods, where does Gregg work?",
+            "correct_answer": "Snack Falcon",
+            "incorrect_answers": [
+                "Ol' Pickaxe",
+                "Video Outpost \"Too\"",
+                "Food Donkey"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the game \"FTL: Faster Than Light\" released?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2014",
+                "2013",
+                "2011"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these video game engines was made by the company Epic Games?",
+            "correct_answer": "Unreal",
+            "incorrect_answers": [
+                "Unity",
+                "Game Maker: Studio",
+                "Cry Engine"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game franchise \"Halo\", what is the UNSC's main opposing faction called?",
+            "correct_answer": "The Covenant",
+            "incorrect_answers": [
+                "The Reckoning",
+                "The Peoples",
+                "The Slaughterers"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
+            "correct_answer": "Wings Gaming",
+            "incorrect_answers": [
+                "Digital Chaos",
+                "Evil Geniuses",
+                "Fnatic"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist in Dead Rising (2006)?",
+            "correct_answer": "Frank West",
+            "incorrect_answers": [
+                "Chuck Greene",
+                "John North",
+                "Jason Grey"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What video game sparked controversy because of its hidden \"Hot Coffee\" minigame?",
+            "correct_answer": "Grand Theft Auto: San Andreas",
+            "incorrect_answers": [
+                "Grand Theft Auto: Vice City",
+                "Hitman: Blood Money",
+                "Cooking Mama"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the canceled projected by Blizzard Entertainment that would be later become Overwatch?",
+            "correct_answer": "Titan",
+            "incorrect_answers": [
+                "Omnic",
+                "Omega",
+                "Ghost"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What company develops the Rock Band series of rhythm games?",
+            "correct_answer": "Harmonix",
+            "incorrect_answers": [
+                "Activision",
+                "Konami",
+                "Electronic Arts"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Hearthstone released?",
+            "correct_answer": "2014",
+            "incorrect_answers": [
+                "2011",
+                "2013",
+                "2012"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Pok\u00e9mon can learn the move \"Secret Power\" by leveling up?",
+            "correct_answer": "Audino",
+            "incorrect_answers": [
+                "Type:Null",
+                "Arceus",
+                "Silvally"
+            ]
+        }
+    },
+    "[15, 'easy', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The main antagonist in the videogame Saints Row IV is an entity known as The Mastermind.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In RuneScape, one must complete the \"Dragon Slayer\" quest before equipping Rune Platelegs.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Super Mario 64\", collecting 100 coins on a level will give you a 1-UP.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"S.T.A.L.K.E.R.\" series, the Freedom faction wishes to destroy the supernatural area known as  \"the Zone\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Luigi is taller than Mario?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Niko Bellic is the protagonist of Grand Theft Auto IV.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Monster Hunter Series, G-Rank is the highest possible prestige a Hunter can recieve.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Mario Kart 64\", Waluigi is a playable character.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Doki Doki Literature Club was developed in Japan.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Activision created Battlefield 1.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pok\u00e9mon, Bulbasaur is the only starter pokemon that is a Grass/Poison type.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The names of Tom Nook's cousins in the Animal Crossing franchise are named \"Timmy\" and \"Jimmy\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_15": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game \"Splatoon\", the playable characters were originally going to be rabbits instead of squids.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_16": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game's plot.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_17": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Monster Hunter Series, it is possible to capture Elder Dragons.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_18": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series' history.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_19": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_20": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "\"Metal Gear Solid 3: Snake Eater\" was released in 2004.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_21": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Super Mario 3D World\", the Double Cherry power-up originated from a developer accidentally making two characters controllable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_22": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "\"Half-Life 2\" runs on the Source Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_23": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Tony Hawk's extreme sports videogames revolve around performing professional BMX tricks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_24": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Several characters in \"Super Mario 64\" blink their eyes, including Mario himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_25": {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Gordon Freeman, the protagonist of \"Half-Life\", is said to have once had a ponytail.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[15, 'medium', 'any']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft lore, Thrall is the original wielder of \"Doomhammer\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many different notes is the tune, \"Song of Healing\", comprised of in \"The Legend of Zelda: Majora's Mask\"?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "4",
+                "1",
+                "6"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game series \"The Legend of Zelda\", what was the first 3D game?",
+            "correct_answer": "Ocarina of Time",
+            "incorrect_answers": [
+                "Majora's Mask",
+                "A Link to the Past",
+                "The Wind Waker"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the English voice actor for Sora from the Kingdom Hearts series?",
+            "correct_answer": "Haley Joel Osment",
+            "incorrect_answers": [
+                "K\u014dki Uchiyama",
+                "Jesse McCartney",
+                "Miyu Irino"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+            "correct_answer": "Cicero",
+            "incorrect_answers": [
+                "Lucien Lachance",
+                "Archimedes",
+                "Astrid"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the creature that the main character befriends in \"The Last Guardian\"?",
+            "correct_answer": "Trico",
+            "incorrect_answers": [
+                "Nico",
+                "Wolf",
+                "Andazi"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",
+            "correct_answer": "Link",
+            "incorrect_answers": [
+                "Wario",
+                "Q*bert",
+                "Solid Snake"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
+            "correct_answer": "Six",
+            "incorrect_answers": [
+                "Seven",
+                "Five",
+                "Eight"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+            "correct_answer": "Danganronpa: Trigger Happy Havoc",
+            "incorrect_answers": [
+                "Danganronpa 2: Goodbye Despair",
+                "Danganronpa V3: Killing Harmony",
+                "Danganronpa 3: The End of Hope's Peak High School"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was \"System Shock\" released?",
+            "correct_answer": "1994",
+            "incorrect_answers": [
+                "1995",
+                "2000",
+                "1998"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Call Of Duty: Zombies\", which map introduced the perk \"PhD Flopper\"?",
+            "correct_answer": "Ascension",
+            "incorrect_answers": [
+                "Moon",
+                "Call Of The Dead",
+                "Die Rise"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What CS:GO case contains the Butterfly Knife?",
+            "correct_answer": "Breakout Case",
+            "incorrect_answers": [
+                "Shadow Case",
+                "Vanguard Case",
+                "Esports 2014 Case"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Dota 2, what is Earthshaker's real name?",
+            "correct_answer": "Raigor Stonehoof",
+            "incorrect_answers": [
+                "Banehallow Ambry",
+                "Carl",
+                "Barathrum"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the world's first video game console?",
+            "correct_answer": "Magnavox Odyssey",
+            "incorrect_answers": [
+                "Coleco Telstar",
+                "Nintendo Color TV Game",
+                "Atari 2600"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the character Kirby originally going to be named?",
+            "correct_answer": "Popopo",
+            "incorrect_answers": [
+                "Dedede",
+                "Waddle Dee",
+                "Prince Puff"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which pop singer was brought in by SEGA to produce the music for \"Sonic the Hedgehog 3\"?",
+            "correct_answer": "Michael Jackson ",
+            "incorrect_answers": [
+                "Prince",
+                "George Michael",
+                "Vanilla Ice "
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Kingdom Hearts\", what is the name of Sora's home world?",
+            "correct_answer": "Destiny Islands",
+            "incorrect_answers": [
+                "Agrabah",
+                "Land of Departure",
+                "Disney Town"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+            "correct_answer": "Emeralds",
+            "incorrect_answers": [
+                "Diamonds",
+                "Iron",
+                "Leather"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games was NOT a Nintendo Switch launch title in the United States? ",
+            "correct_answer": "Voez",
+            "incorrect_answers": [
+                "Just Dance 2017",
+                "Snipperclips",
+                "Fast RMX"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+            "correct_answer": "No Mercy",
+            "incorrect_answers": [
+                "Subway Sprint",
+                "Hospital Havoc",
+                "Blood Harvest"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The original mascot of the popular Nintendo game, \"Splatoon\" was going to be...",
+            "correct_answer": "Mario",
+            "incorrect_answers": [
+                "Inklings",
+                "Octolings",
+                "Zelda"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these nations was added to Civilization V with the \"Gods & Kings\" expansion?",
+            "correct_answer": "The Netherlands",
+            "incorrect_answers": [
+                "The Zulu",
+                "The Ottomans",
+                "The Kongo"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which game does a character say, \"Sometimes, I dream about cheese\"?",
+            "correct_answer": "Half Life 2",
+            "incorrect_answers": [
+                "Team Fortress 2",
+                "Dark Souls",
+                "Serious Sam: The Second Encounter"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Call Of Duty: Zombies\", completing which map's main easter egg will reward you with the achievement, \"Little Lost Girl\"?",
+            "correct_answer": "Origins",
+            "incorrect_answers": [
+                "Revelations",
+                "Moon",
+                "Tranzit"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Resident Evil 2\", which virus was William Birkin mutated by?",
+            "correct_answer": "G-Virus",
+            "incorrect_answers": [
+                "T-Virus",
+                "C-Virus",
+                "E-Virus"
+            ]
+        }
+    },
+    "[15, 'medium', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What name did \"Mario\", from \"Super Mario Brothers\", originally have?",
+            "correct_answer": "Ossan",
+            "incorrect_answers": [
+                "Jumpman",
+                "Mr. Video",
+                "Mario"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which company made the Japanese RPG \"Dragon Quest\"?",
+            "correct_answer": "Square Enix",
+            "incorrect_answers": [
+                "Capcom",
+                "Konami",
+                "Blizzard"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first .hack game?",
+            "correct_answer": ".hack//Infection",
+            "incorrect_answers": [
+                ".hack//Zero",
+                ".hack//Sign",
+                ".hack//Liminality"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"Call Of Duty: Zombies\" map \"Der Riese\", what is the name of the \"Pack-A-Punched PPSH-41\"?",
+            "correct_answer": "The Reaper",
+            "incorrect_answers": [
+                "Lamentation",
+                "The Grim Reaper",
+                "The Eviscerator  "
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+            "correct_answer": "Folklore",
+            "incorrect_answers": [
+                "Shadow of the Colossus",
+                "ICO",
+                "Beyond Good & Evil"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Monster Hunter Generations, which of the following monsters are a part of the \"Fated Four\"?",
+            "correct_answer": "Astalos",
+            "incorrect_answers": [
+                "Gore Magala",
+                "Malfestio",
+                "Arzuros"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which country's version of Half-Life are the HECU Marines replaced with robots?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Japan",
+                "China",
+                "France"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Resident Evil 2\", what is Leon Kennedy's middle name?",
+            "correct_answer": "Scott",
+            "incorrect_answers": [
+                "Shaun",
+                "Simon",
+                "Sam"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which country was Eliza \"Ash\" Cohen from \"Tom Clancy's Rainbow Six Siege\" born in?",
+            "correct_answer": "Israel",
+            "incorrect_answers": [
+                "United States of America",
+                "Mexico",
+                "Canada"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Hitman: Blood Money, what is the name of the target in the mission \"Death of a Showman\"?",
+            "correct_answer": "Joseph Clarence",
+            "incorrect_answers": [
+                "The Swing King",
+                "Maynard John",
+                "Manuel Delgado"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?",
+            "correct_answer": "Occultic; Nine",
+            "incorrect_answers": [
+                "Steins; Gate",
+                "Robotics; Notes",
+                "Chaos; Child"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?",
+            "correct_answer": "Heavy",
+            "incorrect_answers": [
+                "Medium",
+                "Light",
+                "Light-Medium"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the game \"Roblox\" released?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2003",
+                "2002",
+                "2007"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which Mario game did the Mega Mushroom make its debut?",
+            "correct_answer": "Mario Party 4",
+            "incorrect_answers": [
+                "New Super Mario Bros.",
+                "Mario Kart Wii",
+                "Super Mario 3D World"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Overwatch\", how much health does Roadhog's \"Take a Breather\" ability recover?",
+            "correct_answer": "300",
+            "incorrect_answers": [
+                "100",
+                "200",
+                "400"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",
+            "correct_answer": "Green Flu",
+            "incorrect_answers": [
+                "Yellow Fever",
+                "T-Virus",
+                "Raspberry Sniffles"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name the location-based augmented reality game developed by Niantic before Pok\u00e9mon GO?",
+            "correct_answer": "Ingress",
+            "incorrect_answers": [
+                "Aggress",
+                "Regress",
+                "Digress"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games has the most playable characters?",
+            "correct_answer": "Timesplitters: Future Perfect",
+            "incorrect_answers": [
+                "Mortal Kombat: Armageddon",
+                "Marvel Vs. Capcom 2",
+                "Dragon Ball Z: Budokai Tenkaichi 3"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2002 video game \"Kingdom Hearts\", how many playable worlds were there?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "11"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario series, which game introduced Mario's Backflip ability?",
+            "correct_answer": "Donkey Kong (Gameboy)",
+            "incorrect_answers": [
+                "Super Mario 64",
+                "Super Mario 3D Land",
+                "Super Mario Galaxy"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Fortnite emotes does NOT involve a sport in some way?",
+            "correct_answer": "Freestylin'",
+            "incorrect_answers": [
+                "Red Card",
+                "Kick Ups",
+                "Baller"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Killing Floor started as a mod for which Unreal Engine 2 game?",
+            "correct_answer": "Unreal Tournament 2004",
+            "incorrect_answers": [
+                "Deus Ex: Invisible War",
+                "Unreal Tournament 3",
+                "Postal"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first game ever released that ran on the Source engine?",
+            "correct_answer": "Counter-Strike: Source",
+            "incorrect_answers": [
+                "Half-Life 2",
+                "Garry's Mod",
+                "Team Fortress 2"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main villain of the Crash Bandicoot series?",
+            "correct_answer": "Dr. Neo Cortex",
+            "incorrect_answers": [
+                "Dr. Evo-Cortex",
+                "Dr. Cortox",
+                "Sir Cartex"
+            ]
+        }
+    },
+    "[15, 'medium', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The Ace Attorney trilogy was suppose to end with \"Phoenix Wright: Ace Attorney \u2212 Trials and Tribulations\" as its final game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In career mode of \"Need for Speed: Underground 2\", the first car the player can drive is the BMW M3 GTR.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "During pre-production of \"Super Mario Bros.\", Mario originally was meant to shoot bullets.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Fortnite was originally intended to be a horror game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The game Garry's Mod originally took assets and codes from the popular Half Life 2 mod JBmod.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Monster Hunter Generations, guild style is a type of hunting style.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Hidden in the files for \"Mario Kart Arcade GP\" is a picture of the Beslan school hostage crisis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "DragonForce's 'Through the Fire and Flames' is widely considered to be the hardest song in the Guitar Hero series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game \"Until Dawn\" Emily is the only playable character who can be killed by another playable character directly.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Super Mario Bros. was released in 1990.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Riot Games \"League of Legends\" the name of Halloween event is called \"The Reckoning\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Season One Championship of \"League of Legends\", the highest achievable rank was Diamond.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game \"Subnautica\", a \"Cave Crawler\" will attack you.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Overwatch,\" an allied McCree will say \"Step right up\" upon using his ultimate ability Deadeye.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_15": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Starbound\", the track played by the Decorated Music Box is named \"Atlas\".",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_16": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The Sniper's SMG in Team Fortress 2, was originally intended to be the Scout's primary weapon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_17": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Call Of Duty: Zombies\", you can upgrade the \"Apothicon Servant\" in the \"Shadows Of Evil\" map.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_18": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Tony Hawk's Pro Skater was released in 1999.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_19": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_20": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_21": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Super Mario World\", the rhino mini-boss, Reznor, is named after the lead singer of the band \"Nine Inch Nails\".",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_22": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Minecraft wasn\u2019t the original name to Minecraft.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_23": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "\"Metal Gear Solid 3: Snake Eater\" takes place on Shadow Moses Island.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_24": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Team Fortress 2\", the \"Bill's Hat\" is a reference to the game \"Dota 2\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_25": {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The character that would eventually become Dr. Eggman was considered for the role of Sega's new flagship mascot before Sonic was.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[15, 'hard', 'any']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"Call Of Duty: Zombies\" map \"Origins\", where is \"Stamin-Up\" located?",
+            "correct_answer": "Generator 5",
+            "incorrect_answers": [
+                "Generator 3",
+                "Generator 4",
+                "Excavation Site"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What vault in the video game \"Fallout 3\" is the home of multiple clones named Gary?",
+            "correct_answer": "Vault 108",
+            "incorrect_answers": [
+                "Vault 101",
+                "Vault 87",
+                "Vault 21"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?",
+            "correct_answer": "66",
+            "incorrect_answers": [
+                "91",
+                "45",
+                "39"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was the first \"Half-Life\" released?",
+            "correct_answer": "1998",
+            "incorrect_answers": [
+                "2004",
+                "1999",
+                "1997"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In TF2 Lore, what are the names of the Heavy's younger sisters?",
+            "correct_answer": "Yana and Bronislava",
+            "incorrect_answers": [
+                "Gaba and Anna",
+                "Yanna and Gaba",
+                "Anna and Bronislava"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What programming language does the Source Engine use?",
+            "correct_answer": "C++ ",
+            "incorrect_answers": [
+                "Python",
+                "Java",
+                "Lua"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?",
+            "correct_answer": "Quan Chi",
+            "incorrect_answers": [
+                "Sub-Zero",
+                "Sektor",
+                "Shang Tsung"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+            "correct_answer": "The Legend of Zelda: The Minish Cap",
+            "incorrect_answers": [
+                "The Legend of Zelda: Twilight Princess",
+                "The Legend of Zelda: Spirit Tracks",
+                "The Legend of Zelda: Four Swords"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+            "correct_answer": "Stairs",
+            "incorrect_answers": [
+                "Two-Story Building",
+                "Rocket Launcher",
+                "Stage Play"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many aces can be shot down through the entirety of \"Ace Combat Zero: The Belkan War\"?",
+            "correct_answer": "169",
+            "incorrect_answers": [
+                "100",
+                "132",
+                "245"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many voice channels does the Nintendo Entertainment System support natively?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "6",
+                "3"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Animal Crossing series, which flower is erroneously called the \"Jacob's Ladder\"?",
+            "correct_answer": "Lily of the Valley",
+            "incorrect_answers": [
+                "Hydrangea",
+                "Harebell",
+                "Yarrow"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"The Binding of Isaac\", which item instantly kills Mom and Mom's Heart?",
+            "correct_answer": "The Bible",
+            "incorrect_answers": [
+                "The Halo",
+                "Brimstone",
+                "Book of Shadows"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The names of Roxas's Keyblades in Kingdom Hearts are \"Oathkeeper\" and \"Oblivion\".",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Call Of Duty: Zombies\", which weapon does NOT deal any damage?",
+            "correct_answer": "31-79 JGb215",
+            "incorrect_answers": [
+                "Sliquifier",
+                "V-R11",
+                "Wunderwaffe DG-2"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Sonic the Hedgehog 2\" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
+            "correct_answer": "The Lead Programmer's birthday",
+            "incorrect_answers": [
+                "The first release date of \"Sonic the Hedgehog\"",
+                "The date Sonic Team was founded",
+                "The first release date of \"Sonic the Hedgehog 2\""
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which monster in \"Monster Hunter Tri\" was causing earthquakes in Moga Village?",
+            "correct_answer": "Ceadeus",
+            "incorrect_answers": [
+                "Alatreon",
+                "Rathalos",
+                "Lagiacrus"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Internet Meme \"All your base are belong to us\" is based on the poorly translated English Version of which Video Game?",
+            "correct_answer": "Zero Wing",
+            "incorrect_answers": [
+                "F-Zero",
+                "Wing Commander",
+                "Star Wars: X-Wing"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Sonic the Hedgehog 3\" for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+            "correct_answer": "Orange",
+            "incorrect_answers": [
+                "Blue",
+                "Green",
+                "Magenta"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
+            "correct_answer": "Venom",
+            "incorrect_answers": [
+                "Cursed",
+                "Bleeding",
+                "Slow"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Bracken from Lethal Company is also known as:",
+            "correct_answer": "The Flower Man",
+            "incorrect_answers": [
+                "The Phantom",
+                "The Shadow Demon",
+                "Larry"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Gamecube Version of \"Resident Evil\" what text document is open on the monitor of the computer in the Visual Data Room?",
+            "correct_answer": "A GDC Document",
+            "incorrect_answers": [
+                "Text Document on Herbs",
+                "Nothing",
+                "Document on B.O.Ws"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which day in \"Papers, Please\" does the man in red appear?",
+            "correct_answer": "Day 23",
+            "incorrect_answers": [
+                "Day 20",
+                "Day 17",
+                "Day 15"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of the following titles by Valve is not based on a Community Mod?",
+            "correct_answer": "Ricochet",
+            "incorrect_answers": [
+                "Day of Defeat",
+                "Counter-Strike",
+                "Alien Swarm"
+            ]
+        },
+        "Question_25": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Portal 2\", Cave Johnson started out Aperture Science as a shower curtain company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    },
+    "[15, 'hard', 'multiple']": {
+        "Question_1": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Pok\u00e9mon Sun and Moon\", Team Skull took over which town?",
+            "correct_answer": "Po Town",
+            "incorrect_answers": [
+                "Heahea City",
+                "Tapu Village",
+                "Iki Town"
+            ]
+        },
+        "Question_2": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main island in PLAYERUNKNOWN'S BATTLEGROUNDS?",
+            "correct_answer": "Erangel",
+            "incorrect_answers": [
+                "Marmara",
+                "Severny",
+                "Lastovo"
+            ]
+        },
+        "Question_3": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+            "correct_answer": "The Legend of Zelda: The Minish Cap",
+            "incorrect_answers": [
+                "The Legend of Zelda: Twilight Princess",
+                "The Legend of Zelda: Spirit Tracks",
+                "The Legend of Zelda: Four Swords"
+            ]
+        },
+        "Question_4": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario Kart series, which game introduced the \"Shield Drifting\" mechanic?",
+            "correct_answer": "Mario Kart Arcade GP DX",
+            "incorrect_answers": [
+                "Mario Kart: Double Dash",
+                "Mario Kart Super Circuit",
+                "Mario Kart DS"
+            ]
+        },
+        "Question_5": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"PAYDAY\" series, what is the real name of the character known as \"Dallas\"?",
+            "correct_answer": "Nathan Steele",
+            "incorrect_answers": [
+                "Nate Siemens",
+                "Nick Stamos",
+                "Nolan Stuhlinger"
+            ]
+        },
+        "Question_6": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Halo\", what is the name of the planet which Installation 04 orbits?",
+            "correct_answer": "Threshold",
+            "incorrect_answers": [
+                "Substance",
+                "Sanghelios",
+                "Te"
+            ]
+        },
+        "Question_7": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",
+            "correct_answer": "Racing Driver",
+            "incorrect_answers": [
+                "Taxi Driver",
+                "Delivery Driver",
+                "Getaway Driver"
+            ]
+        },
+        "Question_8": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the indie farming game \"Stardew Valley\", which NPC hates the \"prismatic shard\" item when received as a gift?",
+            "correct_answer": "Haley",
+            "incorrect_answers": [
+                "Abigail ",
+                "Elliott",
+                "Lewis"
+            ]
+        },
+        "Question_9": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Pok\u00e9mon series, what is Palkia's hidden ability?",
+            "correct_answer": "Telepathy",
+            "incorrect_answers": [
+                "Pressure",
+                "Water Bubble",
+                "Hydration"
+            ]
+        },
+        "Question_10": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+            "correct_answer": "Night Trap",
+            "incorrect_answers": [
+                "Sewer Shark",
+                "The Daedalus Encounter",
+                "Corpse Killer"
+            ]
+        },
+        "Question_11": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it's primary weapon?",
+            "correct_answer": "Partisan Eagle",
+            "incorrect_answers": [
+                "Blast Fencer",
+                "Winged Viper",
+                "Bastion Warrior"
+            ]
+        },
+        "Question_12": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game \"Metal Gear Solid\", what did Revolver Ocelot consider the greatest handgun ever made?",
+            "correct_answer": "Colt Single Action Army",
+            "incorrect_answers": [
+                "Colt Python",
+                "Colt M1892",
+                "Colt 1851 Navy Revolver"
+            ]
+        },
+        "Question_13": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in North America before Japan?",
+            "correct_answer": "The Legend of Zelda: Twilight Princess",
+            "incorrect_answers": [
+                "Zelda II: The Adventure of Link",
+                "The Legend of Zelda: Four Swords Adventures",
+                "The Legend of Zelda: Majora's Mask"
+            ]
+        },
+        "Question_14": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What animal is on Link's pajamas in The Legend of Zelda: The Wind Waker?",
+            "correct_answer": "Crawfish",
+            "incorrect_answers": [
+                "Lobster",
+                "Salmon",
+                "Swordfish"
+            ]
+        },
+        "Question_15": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "6",
+                "10",
+                "12"
+            ]
+        },
+        "Question_16": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?",
+            "correct_answer": "Steed",
+            "incorrect_answers": [
+                "Mule",
+                "Benson",
+                "Pony"
+            ]
+        },
+        "Question_17": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the SHMUP series, \"Darius\", what is the name of the antagonist faction you fight against?",
+            "correct_answer": "Belsar",
+            "incorrect_answers": [
+                "Bacterion",
+                "Bydo",
+                "Orn Empire"
+            ]
+        },
+        "Question_18": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Counting the Blood and Wine DLC, how many Hero Cards are there in total in The Witcher 3?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "30",
+                "20",
+                "15"
+            ]
+        },
+        "Question_19": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Geometry Dash, what is level 13?",
+            "correct_answer": "Electroman Adventures",
+            "incorrect_answers": [
+                "Theory of Everything",
+                "Clubstep ",
+                "Clutterfunk"
+            ]
+        },
+        "Question_20": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+            "correct_answer": "Limit Form",
+            "incorrect_answers": [
+                "Valor Form",
+                "Wisdom Form",
+                "Anti Form"
+            ]
+        },
+        "Question_21": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which artist composed the original soundtrack for \"Watch Dogs 2\"?",
+            "correct_answer": "Hudson Mohawke",
+            "incorrect_answers": [
+                "Rustie",
+                "Machinedrum",
+                "Flying Lotus"
+            ]
+        },
+        "Question_22": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
+            "correct_answer": "Dragon King: The Fighting Game",
+            "incorrect_answers": [
+                "Contest of Champions",
+                "Smash and Pummel",
+                "Fighter of the Ages: Conquest"
+            ]
+        },
+        "Question_23": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "\"Strangereal\" is a fictitious Earth-like world for which game series?",
+            "correct_answer": "Ace Combat",
+            "incorrect_answers": [
+                "Jet Set Radio",
+                "Deus Ex",
+                "Crimson Skies"
+            ]
+        },
+        "Question_24": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the plane of existence in MicroProse's 1997 \"Magic the Gathering\"?",
+            "correct_answer": "Shandalar",
+            "incorrect_answers": [
+                "Theros",
+                "Ravnica",
+                "Amonkhet"
+            ]
+        },
+        "Question_25": {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the \"Call Of Duty: Zombies\" map \"Origins\", where is \"Stamin-Up\" located?",
+            "correct_answer": "Generator 5",
+            "incorrect_answers": [
+                "Generator 3",
+                "Generator 4",
+                "Excavation Site"
+            ]
+        }
+    },
+    "[15, 'hard', 'boolean']": {
+        "Question_1": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "All of these maps were in \"Tom Clancy's Rainbow Six Siege\" on its initial release: House, Clubhouse, Border, Consulate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_2": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Grand Theft Auto V is the fifteenth installment of the Grand Theft Auto series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_3": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "McCree from Overwatch originally started as a character that was going to appear in a scrapped Starcraft game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_4": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The retail disc of Tony Hawk's Pro Skater 5 only comes with the tutorial.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_5": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Undertale, having a \"Fun Value\" set to 56-57 will play the \"Wrong Number Song Call\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_6": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man's Tree.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_7": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game \"Melty Blood Actress Again Current Code\", you can enter Blood Heat mode in Half Moon style.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_8": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Paradox Interactive game \"Stellaris\" was released in 2016.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_9": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Minecraft\", gold tools are faster than diamond tools.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_10": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_11": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The video game \"Fuel\" has an open world that is 5,560 square miles?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_12": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_13": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Unturned originally started as a Roblox game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_14": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Portal 2\", Cave Johnson started out Aperture Science as a shower curtain company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_15": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The names of Roxas's Keyblades in Kingdom Hearts are \"Oathkeeper\" and \"Oblivion\".",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        "Question_16": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The first \"Metal Gear\" game was released for the PlayStation 1.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_17": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"Call Of Duty: World At War\", the first appearance of the \"PPSH-41\" in \"Zombies\" was in the map \"Der Riese\".",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        "Question_18": {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In \"The Sims\" series, the most members in a household you can have is 8.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    }
+}
