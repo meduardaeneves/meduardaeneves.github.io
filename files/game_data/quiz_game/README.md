@@ -10,7 +10,7 @@ This is Trivia question game.
 
 To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor.
 
- <p>This Game collect its data from the Open Trivia DataBase: [Acess Website](https://opentdb.com/)</p>
+ <p>This Game collect its data from the Open Trivia DataBase: [Acess Website](https://opentdb.com/) using API to get the questions.</p>
 
 ## Game Rules
 
