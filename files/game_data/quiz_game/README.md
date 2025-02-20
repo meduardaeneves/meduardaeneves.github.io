@@ -6,7 +6,7 @@ Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/por
   <img src="files/quiz_game_playing.png" width="750">
 </p>
 
-This is BlackJack game versus the PC. Your goal is to beat the computer.
+This is Trivia question game. 
 
 To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor.
 
