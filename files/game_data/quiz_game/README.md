@@ -14,39 +14,43 @@ To play the game you can enter the game's Portfolio Link, for online acess, or d
 
 ## Game Rules
 
-  <p>
+<ul>
+  <li>
+    The questions in this trivia game will vary in three aspects:
     <ul>
+      <li>Its category</li>
+      <li>Its difficulty</li>
       <li>
-        The questions in this trivia game will vary in 3 aspects:
+        The type of question:
         <ul>
-          <li>It's category</li>
-          <li>It's dificulty</li>
-          <li>
-            The type of the question
-            <li>True of False (boolean)</li>
-            <li>Multiple Choice (multiple)</li>
-            <li>Any (both multiple and boolean)</li>
-          </li>
-        </ul>
-      </li>
-      <li>You need to chose each one of those aspects to start the game. Once you have chosen them you need to press the "START GAME" key. Each time you press this key a new game begins</li>
-      <li>Each game will have a maximum phase of 5, with one question per phase</li>
-      <li>You have 3 lives. If you get a question wrong you remain in the same phasa but lose a life</li>
-      <li>
-        Your goal is to get the questions right and move the phases. To insert your answer you need to write its value in the "Value" box and then confirm it in the "CONFIRM ANSWER" key.
-        <ul>
-          <li>You will gain 2 points by each phase you win.</li>
-          <li>You will lose 1 point by each phase you lose.</li>
-          <li>If you achive the last phase and get it's question right, you will win the game.</li>
-          <li>If you ran out of lives you lose the game.</li>
-        </ul>
-      </li>
-      <li>
-        Once the game has been finished it will be presented to you two parameters:
-        <ul>
-          <li>Your actual phase</li>
-          <li>Your total of points</li>
+          <li>True or False (boolean)</li>
+          <li>Multiple Choice (multiple)</li>
+          <li>Any (both multiple and boolean)</li>
         </ul>
       </li>
     </ul>
-  </p>
+  </li>
+  <li>
+    You need to choose each one of these aspects to start the game. Once you have chosen them, press the "START GAME" button. Each time you press this button, a new game begins.
+  </li>
+  <li>Each game consists of a maximum of 5 phases, with one question per phase.</li>
+  <li>
+    You have 3 lives. If you get a question wrong, you remain in the same phase but lose a life.
+  </li>
+  <li>
+    Your goal is to answer questions correctly and progress through the phases. To submit your answer, enter its value in the "Value" box and confirm it by pressing the "CONFIRM ANSWER" button.
+    <ul>
+      <li>You earn 2 points for each phase you win.</li>
+      <li>You lose 1 point for each phase you fail.</li>
+      <li>If you reach the last phase and answer correctly, you win the game.</li>
+      <li>If you run out of lives, you lose the game.</li>
+    </ul>
+  </li>
+  <li>
+    Once the game has ended, two parameters will be presented to you:
+    <ul>
+      <li>Your current phase</li>
+      <li>Your total points</li>
+    </ul>
+  </li>
+</ul>
