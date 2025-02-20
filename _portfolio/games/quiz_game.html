@@ -21,41 +21,50 @@ categories: games
   </style>
 </head>
 <body>
-  <p>This is BlackJack game versus the PC. Your goal is to beat the computer.</p>
+  <p>This is Trivia question game. </p>
   <p>To play the game you can scroll down into the "Play Here" section or download all the python files in the game <a href='https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/game_data/quiz_game'>RESPOSITORY</a> and execute it in your personal code editor.</p>
+  <p>This Game collected its data from the <a href='https://opentdb.com/'>Open Trivia DataBase</a> using API to get the questions.</p>
   <h2>Game Rules</h2>
-  <p>
-    <ul>
-      <li>The dealer will give you 2 cards and will take 2.</li>
-      <li>You will know both your cards but only one of the computers.</li>
-      <li>The goal is to have the sum of your cads the closest (or equal) to 21, but not over it.</li>
-      <li>
-        Each card has it's own numerical value. Regarding the cards that are letters they have other values:
-        <ul>
-          <li>A = 1 or 11. Depending on the final Sum. Always avoiding getting over 21.</li>
-          <li>J = 10.</li>
-          <li>Q = 10.</li>
-          <li>K = 10.</li>
-        </ul>
-      </li>
-      <li>With your 2 cards in hand and knowing one of the dealers you can chose to get or not another card.</li>
-      <li>You can continue to pick cards until your hand exceeds 21 points</li>
-      <li>
-        How to win the game:
-        <ul>
-          <li>If the sum of your cards are 21 you win. If you have only two cards you will win with a blackjack</li>
-          <li>If comparing to the dealers cards your sum is closest to 21, withoud getting over.</li>
-        </ul>
-      </li>
-      <li>
-        How to lose the game:
-        <ul>
-          <li>If the sum of your cards are over 21.</li>
-          <li>If comparing to the dealers cards its sum is closest to 21 comparing to yours.</li>
-        </ul>
-      </li>
-    </ul>
-  </p>
+  <ul>
+    <li>
+      The questions in this trivia game will vary in three aspects:
+      <ul>
+        <li>Its category</li>
+        <li>Its difficulty</li>
+        <li>
+          The type of question:
+          <ul>
+            <li>True or False (boolean)</li>
+            <li>Multiple Choice (multiple)</li>
+            <li>Any (both multiple and boolean)</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      You need to choose each one of these aspects to start the game. Once you have chosen them, press the "START GAME" button. Each time you press this button, a new game begins.
+    </li>
+    <li>Each game consists of a maximum of 5 phases, with one question per phase.</li>
+    <li>
+      You have 3 lives. If you get a question wrong, you remain in the same phase but lose a life.
+    </li>
+    <li>
+      Your goal is to answer questions correctly and progress through the phases. To submit your answer, enter its value in the "Value" box and confirm it by pressing the "CONFIRM ANSWER" button.
+      <ul>
+        <li>You earn 2 points for each phase you win.</li>
+        <li>You lose 1 point for each phase you fail.</li>
+        <li>If you reach the last phase and answer correctly, you win the game.</li>
+        <li>If you run out of lives, you lose the game.</li>
+      </ul>
+    </li>
+    <li>
+      Once the game has ended, two parameters will be presented to you:
+      <ul>
+        <li>Your current phase</li>
+        <li>Your total points</li>
+      </ul>
+    </li>
+  </ul>
   
   <h2>Play Here</h2>
   <script src="https://anvil.works/embed.js" async></script>
