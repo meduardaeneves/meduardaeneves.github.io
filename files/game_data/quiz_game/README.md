@@ -8,7 +8,7 @@ Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/por
 
 This is Trivia question game. 
 
-To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor.
+To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "game_play.py" file.
 
  <p>This Game collect its data from the Open Trivia DataBase: [Acess Website](https://opentdb.com/) using API to get the questions.</p>
 
