@@ -1,0 +1,21 @@
+rules = """
+- OBJETIVO: 
+    - Vão ser apresentadas duas cidades brasileiras para você. 
+    - Seu objetivo é dizer se a segunda cidade apresentada tem MAIS ou MENOS habitantes do que a primeira. 
+    - Caso você acerte, você ganha pontos e o jogo segue. 
+    - Caso erre, o jogo termina e sua pontuação final é apresentada.
+- REGRAS:
+    - De início, você será apresentado as seguintes informações:
+        - Nome das cidades, com a população da primeira
+        - O estado e as região às quais elas pertencem
+        - População da região pertencente.
+    - Caso queira, você poderá solicitar até duas dicas:
+        - DICAS:
+            - DICA 01: você receberá a população do estado onde aquela cidade está inserida.
+            - DICA 02: você receberá a extensão territorial daquela cidade em km².
+    - A pontuação segue a seguinte lógica:
+        - Acertar sem dica: 3 pontos
+        - Acertar com 1 dica: 2 ponto
+        - Acertar com 2 dicas: 1 ponto
+    - Tente alcançar o máximo de pontos possíveis. 
+"""
