@@ -17,11 +17,11 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
       <ul>
         <li>Espresso;</li>
         <li>Latte;</li>
-        <li>Capuccino</li>
+        <li>Cappuccino</li>
       </ul>
     </li>
-    <li>If you Click on the "Machine Report button it will present the remaining ingredients in the machine, alongside the amount of money that it received".</li>
-    <li>If you Click on the "Refil Machine" button it will refresh the Coffee Machine setting it's ingredients to the default amount value:
+    <li>If you Click on the "Machine Report button, it will present the remaining ingredients in the machine, alongside the amount of money that it received".</li>
+    <li>If you Click on the "Refill Machine" button, it will refresh the Coffee Machine setting it's ingredients to the default amount value:
       <ul>
         <li>Water: 300 ml;</li>
         <li>Milk: 200 ml;</li>
