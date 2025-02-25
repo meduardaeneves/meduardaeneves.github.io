@@ -31,15 +31,15 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
     </li>
     <li>Each beverage requires a certain amount of ingredients at a specific cost:
       <ul>
-        <li>Espresso  - 50ml  of Water | 18g of coffee | 0g  of coffee | Cost: $ 1.50;</li>
-        <li>Latte     - 200ml of Water | 150ml of Milk | 24g of coffee | Cost: $ 2.50;</li>
-        <li>Capuccino - 250ml of Water | 100ml of Milk | 24g of coffee | Cost: $ 3.00</li>
+        <li>Espresso   - 50ml  of Water | 18g of coffee | 0g  of coffee | Cost: $ 1.50;</li>
+        <li>Latte      - 200ml of Water | 150ml of Milk | 24g of coffee | Cost: $ 2.50;</li>
+        <li>Cappuccino - 250ml of Water | 100ml of Milk | 24g of coffee | Cost: $ 3.00</li>
       </ul>
     </li>
-    <li>Once you've chosen a beverage the machine will decide if it has sufficient ingredients to prepare it. If positive, you will proceed to payment. If negative, you will be asked to either chose another beverage or refresh the machine.</li>
+    <li>Once you've chosen a beverage, the machine will decide if it has sufficient ingredients to prepare it. If positive, you will proceed to payment. If negative, you will be asked to choose either another beverage or refresh the machine.</li>
     <li>
-      Once the payment is allowed you need to specify the amount of coins you're going to insert on it.
+      Once the payment is allowed, you need to specify the amount of coins you're going to insert on it.
       <ul>
-        <li>If the amount of money is not enouth, the beverage will be canceled and the money returned</li>
-        <li>If the amount of money isenouth, the beverage will be prepared, your change, if exits, will be given and the amount of ingredients needed to prepare the beverage will be removed from the machine</li>
+        <li>If the amount of money is not enough, the beverage will be canceled and the money returned</li>
+        <li>If the amount of money is enough, the beverage will be prepared, your change, if exits, will be given and the amount of ingredients needed to prepare the beverage will be removed from the machine</li>
   </ul>
