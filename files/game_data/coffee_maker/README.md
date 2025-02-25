@@ -6,9 +6,9 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/coffee_maker_playing.png" width="750">
 </p>
 
-This is a Coffee Machine Simulator. The idea is to simulate how a coffee machine works with all its aspects: Chosing a beverage, inserting coins, validate the amount of coints inserted and prepare or not the beverage.
+This is a Coffee Machine Simulator. The idea is to simulate how a coffee machine works with all its aspects: choosing a beverage, inserting coins, validate the amount of coins inserted and prepare or not the beverage.
 
-To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "sec016_mine_project_code.py" file.
+To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "sec016_mine_project_code. py" file.
 
 ## Game Rules
 
