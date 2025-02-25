@@ -21,21 +21,55 @@ categories: games
   </style>
 </head>
 <body>
-  <p>This is a BlackJack game versus the PC. Your goal is to beat the computer.   
-  The game is avaliable in engish and portuguese, before you start guessing you need to chose what language you want to play.</p>
+  <p>This is Population High or Lower game.</p>
+   <p>To play the game you can scroll down into the "Play Here" section or download all the python files in the game <a href='https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/game_data/coffee_maker'>RESPOSITORY</a> and execute it in your personal code editor.</p>
+  <p>This Game collect its data from the IBGE DataBase: 
+    <ul>
+      <li>Population estimation for Brazi's cities (from 01.07.2024):</li>
+      <ul>
+        <li>File's name: <a href='https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html'>"Estimativas de população publicadas no DOU"</a></li>
+      </ul>
+      <li>Brazil's cities area (2022 file):</li>
+      <ul>
+        <li>File's name: <a href='https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?=&t=downloads'>"AR_BR_RG_UF_RGINT_MES_MIC_MUN_2022.xls"</a>
+      </li>
+      </ul>
+    </ul>
+  </p>
+
+  <h2>Game Rules</h2>
   <ul>
-    <li>Each time you click into "PORTUGUESE" or "ENGLISH" a new game starts</li>
-    <li>To try a letter you need to enter it in the proper writing space and click "TEST"</li>
-  </ul>
-  <p>For this game, exists 6 and 7 letters words, 500 units of each, for both languages. The exception is the group of 6 letters words in english, it contains 140 unis.</p>
-  <ul>
-    <li>The portuguese words were extracted from the <a href='https://www.dicio.com.br/exemplos-de-palavras/'>"Dicionário Online de Português"</a></li>
-    <li>The 6 letter words in english were extracted from the <a href='https://testbook.com/english-grammar/6-letter-words'>"Testbook"</a></li>
-    <li>The 7 letter words in english were extracted from the <a href='https://byjus.com/english/7-letter-words/'>"BYJU'S website"</a></li>
+    <li>You will be presented with two Brazilian's cities.</li>
+    <li>To gain those cities you need to press the "Start Game - Pick Initial cities Button".</li>
+    <li>Your goal is to decide if the second city presented has a HIGHER or LOWER population compared to the first one.</li>
+    <li>If you get it right, you will gain points and the game will continue: The second city will turn into the first and you will receive another one for the second spot.</li>
+    <li>If you get it wrong, the game ends and your final points are presented.</li>
+    <li>
+      At the start of the game, you will be presented the following information:
+      <ul>
+        <li>City names, with the population of the first one.</li>
+        <li>The state and region they belong, alongside the region's population</li>
+      </ul>
+    </li>
+    <li>
+      If you desire, you can ask up to two clues:
+      <ul>
+        <li>CLUE 01: Population of the states</li>
+        <li>CLUE 02: Both cities territorial extension</li>
+      </ul>
+    </li>
+      Your points will follow a logic:
+      <ul>
+        <li>0 CLUE: 3 points</li>
+        <li>1 CLUE: 2 points</li>
+        <li>2 CLUE: 1 points</li>
+      </ul>
+    </li>
+    <li>Try to get the maximum amount of points you can.</li>
   </ul>
 
   <h2>Play Here</h2>
   <script src="https://anvil.works/embed.js" async></script>
-  <iframe style="width:100%;" data-anvil-embed src="https://tepid-wary-single.anvil.app"></iframe>
+  <iframe style="width:100%;" data-anvil-embed src="https://motherly-adored-parrot.anvil.app"></iframe>
 </body>
 </html>
