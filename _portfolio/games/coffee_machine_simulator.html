@@ -13,11 +13,25 @@ categories: games
   <title>Coffee Machine Simulator</title>
   <style>
     /* Aqui você pode adicionar o CSS para definir o tamanho do iframe */
+    .iframe-container {
+      width: 100%;
+      overflow-x: auto; /* Permite rolagem caso necessário */
+      text-align: center;
+    }
+    
     iframe {
+      min-width: 770px; /* Mantém o modo desktop no Anvil */
+      max-width: 100%;
+      height: 800px; /* Ajuste conforme necessário */
+      border: none;
+      display: block;
+      margin: 0 auto; /* Centraliza o iframe */
+    }
+/*     iframe {
       width: 100%;
       height: 100%;
       border: none;
-    }
+    } */
   </style>
 </head>
 <body>
