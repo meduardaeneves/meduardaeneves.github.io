@@ -1,6 +1,6 @@
 # Coffee Machine Simulator
 
-Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/coffee_machine_simulator/)
+Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/coffee_machine_simulator/)
 
 <p align="center">
   <img src="files/coffee_maker_playing.png" width="750">
