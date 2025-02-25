@@ -12,9 +12,9 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
 
 <p>This Game collect its data from the IBGE DataBase: 
   <ul>
-    <li>Population estimation for Brazi's cities (from 01.07.2024). File's name: ["Estimativas de população publicadas no DOU"](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html)
+    <li>Population estimation for Brazi's cities (from 01.07.2024). File's name: <a href='https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html'>"Estimativas de população publicadas no DOU"</a>
     </li>
-    <li>Brazil's cities area (2022 file). File's name: ["AR_BR_RG_UF_RGINT_MES_MIC_MUN_2022.xls"](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?=&t=downloads)
+    <li>Brazil's cities area (2022 file). File's name: <a href='https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?=&t=downloads'>"AR_BR_RG_UF_RGINT_MES_MIC_MUN_2022.xls"</a>
     </li>
   </ul>
 </p>
