@@ -1,6 +1,6 @@
 # Population Higher or Lower Game
 
-Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/population_higher_lower/)
+Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/population_higher_lower/)
 
 <p align="center">
   <img src="files/pop_high_lower_playing.png" width="750">
