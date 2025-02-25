@@ -3,7 +3,7 @@
 Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/coffee_machine_simulator/)
 
 <p align="center">
-  <img src="files/pop_high_lower_playing.png" width="750">
+  <img src="files/coffe_maker_playing.png" width="750">
 </p>
 
 This is a coffee Machine Simulator. 
