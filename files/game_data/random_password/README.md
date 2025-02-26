@@ -19,10 +19,10 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
 ## Game Rules
   <p>
     <ul>
-      <li>The Random Password Generator allows you to generate a random password by chosing different amount of elements it must contain.</li>
+      <li>The Random Password Generator allows you to generate a random password by choosing different amount of elements it must contain.</li>
       <li>The steps to use the app are really simple:
         <ol>
-          <li>Write the amount of letter you want (submit by clicking "confirm letters")</li>
+          <li>Write the amount of letters you want (submit by clicking "confirm letters")</li>
           <li>Write the amount of numbers you want (submit by clicking "confirm numbers")</li>
           <li>Write the amount of symbols you want (submit by clicking "confirm symbols")</li>
           <li>Enter "Click to Generate Password" to receive the result.</li>
