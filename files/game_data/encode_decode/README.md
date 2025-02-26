@@ -18,10 +18,9 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
       <li>The steps to use the app are really simple:
         <ul>
           <li>Write the message you want to encode/ decode</li>
-          <li>Chose a "shift" value that will allow each letter os the message to gain another value</li>
+          <li>Chose a "shift" value that will allow each letter of the message to gain another value</li>
           <li>Enter the Shift value chosen</li>
           <li>The result message will appear in the "Result of the encode/decode process" box area.</li>
-          <li>Cappuccino</li>
         </ul>
       </li>
     </ul>
