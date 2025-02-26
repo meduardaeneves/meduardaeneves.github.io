@@ -6,13 +6,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/cross_street_playing.png" width="300">
 </p>
 
-This is a Cross the Street Game App. Your goal is to move the turtle using the keyboard arrows in order to reach the other side of the road, avoiding the obstacles. 
-  - Each time you succeed, you gain a point and the turtle goes back to the start point so you can try again but with faster obstacles.
-  - The game ends once you bump into any obstacle.
-
-To play the game you can download the .exe file (located in "files" folder) or download all the python files in this repository and execute it in your personal code editor.
-
-<p>This is a turtle racing app. Your goal is to choose a colour of turtle and root for it to win.</p>
+<p>This is a Cross the Street Game App. Your goal is to move the turtle using the keyboard arrows in order to reach the other side of the road, avoiding the obstacles.</p>
 
 <p>To play the game you can download the .exe file (located in "files" folder) or download all the python files in this repository and execute it in your personal code editor.</p>
 
@@ -22,9 +16,8 @@ To play the game you can download the .exe file (located in "files" folder) or d
     <ul>
       <li>The rules for the game are very simple:
         <ul>
-          <li>The turtles will wall by random paces aiming the finish line (right wall).</li>
-          <li>The game ends once any turtle reaches the right wall.</li>
-          <li>If the turtle you chose arrived first you win, otherwise you lose.</li>
+          <li>Each time you succeed crossing the street, you gain a point and the turtle goes back to the start position so you can try again but with faster obstacles.</li>
+          <li>The game ends once you bump into any obstacle.</li>
         </ul>
       </li>
     </ul>
