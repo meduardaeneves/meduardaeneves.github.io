@@ -3,7 +3,7 @@
 Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/blackjack/)
 
 <p align="center">
-  <img src="files/blackjack_playing.png" width="650">
+  <img src="files/blackjack_playing.png" width="550">
 </p>
 
 This is BlackJack game versus the PC. Your goal is to beat the computer. 
