@@ -24,4 +24,3 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
     </ul>
   </div>
 
-
