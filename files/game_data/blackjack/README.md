@@ -1,6 +1,6 @@
 # The BlackJack Game
 
-Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/blackjack/)
+Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/blackjack/)
 
 <p align="center">
   <img src="files/blackjack_playing.png" width="750">
