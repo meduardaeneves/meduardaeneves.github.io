@@ -1,0 +1,65 @@
+---
+title: "Teste"
+excerpt: "Teste HTML PP.<br/>"
+image: "/images/logo/backjack_logo.png"
+collection: portfolio
+categories: personal-projects
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teste</title>
+  <style>
+    /* Aqui você pode adicionar o CSS para definir o tamanho do iframe */
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <p>This is BlackJack game versus the PC. Your goal is to beat the computer.</p>
+  <p>To play the game you can scroll down into the "Play Here" section or download all the python files in the game <a href='https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/game_data/blackjack'>RESPOSITORY</a> and execute it in your personal code editor.</p>
+  <h2>Game Rules</h2>
+  <p>
+    <ul>
+      <li>The dealer will give you 2 cards and will take 2.</li>
+      <li>You will know both your cards but only one of the computers.</li>
+      <li>The goal is to have the sum of your cards the closest (or equal) to 21, but not over it.</li>
+      <li>
+        Each card has it's own numerical value. Regarding the cards that are letters they have other values:
+        <ul>
+          <li>A = 1 or 11. Depending on the final Sum. Always avoiding getting over 21.</li>
+          <li>J = 10.</li>
+          <li>Q = 10.</li>
+          <li>K = 10.</li>
+        </ul>
+      </li>
+      <li>With your 2 cards in hand and knowing one of the dealers you can choose to get or not another card.</li>
+      <li>You can continue to pick cards until your hand exceeds 21 points</li>
+      <li>
+        How to win the game:
+        <ul>
+          <li>If the sum of your cards is 21. If you have only two cards you will win with a blackjack</li>
+          <li>If comparing to the dealers cards, your sum is closer to 21, without getting over.</li>
+        </ul>
+      </li>
+      <li>
+        How to lose the game:
+        <ul>
+          <li>If the sum of your cards is over 21.</li>
+          <li>If comparing to the dealers cards, its sum is closest to 21 comparing to yours.</li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+
+  
+  <h2>Play Here</h2>
+  <script src="https://anvil.works/embed.js" async></script>
+  <iframe style="width:100%;" data-anvil-embed src="https://humble-buoyant-gather.anvil.app"></iframe>
+</body>
+</html>
