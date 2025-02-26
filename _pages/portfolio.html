@@ -38,8 +38,13 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.portfolio %}
-  {% unless post.categories contains "games" %}
+  {% unless post.categories contains "games" or post.categories contains "personal-projects" %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
+<!-- {% for post in site.portfolio %}
+  {% unless post.categories contains "games" %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %} -->
 
