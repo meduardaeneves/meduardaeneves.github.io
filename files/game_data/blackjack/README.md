@@ -16,7 +16,7 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
     <ul>
       <li>The dealer will give you 2 cards and will take 2.</li>
       <li>You will know both your cards but only one of the computers.</li>
-      <li>The goal is to have the sum of your cads the closest (or equal) to 21, but not over it.</li>
+      <li>The goal is to have the sum of your cards the closest (or equal) to 21, but not over it.</li>
       <li>
         Each card has it's own numerical value. Regarding the cards that are letters they have other values:
         <ul>
