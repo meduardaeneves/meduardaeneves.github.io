@@ -6,7 +6,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/hangman_playing.png" width="750">
 </p>
 
-<p>This is a hangman game. Your goal is to guess the word chosen by the pc. The game is avaliable in engish and portuguese. Before you start guessing you need to chose what language you want to play.</p>
+<p>This is a hangman game. Your goal is to guess the word chosen by the pc. The game is available in engish and portuguese. Before you start guessing you need to choose what language you want to play.</p>
 
 <p>To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "sec007_my_finalproject.py" file.</p>
 
