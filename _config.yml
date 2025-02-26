@@ -226,6 +226,9 @@ collections:
   games:
     output: true
     permalink: /portfolio/games/:path/
+  personal-projects:
+    output: true
+    permalink: /portfolio/personal-projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -282,6 +285,15 @@ defaults:
   - scope:
       path: ""
       type: games
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio/personal-projects
+  - scope:
+      path: ""
+      type: personal-projects
     values:
       layout: single
       author_profile: true
