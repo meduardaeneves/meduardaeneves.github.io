@@ -1,4 +1,4 @@
-# Random Password Generator
+# Rock, Paper, Scissors
 
 Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/rock-paper-scissors/)
 
