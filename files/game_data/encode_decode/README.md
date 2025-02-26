@@ -6,7 +6,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/encode_decode_playing.png" width="1100">
 </p>
 
-This is a "Encode & Decode Message Game".
+This is an "Encode & Decode Message Game".
 
 To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "sec008_mine_final_project.py" file.
 
