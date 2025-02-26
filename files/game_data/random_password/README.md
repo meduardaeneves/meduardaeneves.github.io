@@ -6,7 +6,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/random_password_playing.png" width="750">
 </p>
 
-<p>This is a random password generator. You will have the PC´s help to decide a new password for yourself. The amount of elements avaliable for you are:
+<p>This is a random password generator. You will have the PC´s help to decide a new password for yourself. The amount of elements available for you are:
   <ul>
     <li>52 letters (26 lowercase and 26 uppercase)</li>
     <li>10 numbers (from 0 to 9)"</li>
