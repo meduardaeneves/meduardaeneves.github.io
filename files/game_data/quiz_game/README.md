@@ -6,11 +6,11 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/quiz_game_playing.png" width="750">
 </p>
 
-This is Trivia question game. 
+<p>This is the Trivia Question Game.</p> 
 
-To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "game_play.py" file.
+<p>To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "game_play.py" file.</p>
 
- <p>This Game collect its data from the Open Trivia DataBase: <a href='https://opentdb.com/'>Acess Website</a> using API to get the questions.</p>
+ <p>This Game collect its data from the Open Trivia DataBase: <a href='https://opentdb.com/'>""Click here to access the website"</a>. It was used an API to get the questions.</p>
 
 ## Game Rules
 
