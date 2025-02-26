@@ -20,7 +20,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
         </ul>
       </li>
       <li>You need to type a number and then check its value in the "Check Number" button</li>
-      <li>If the number is incorrect you will lose a life and the game will inform the new range the correct number is inserted, considering the number you tryed</li>
+      <li>If the number is incorrect you will lose a life and the game will inform the new range the correct number is inserted, considering the number you tried</li>
       <li>The game will end if you get the number correct or if you run out of lives. In both cases the correct number will be presented to you</li>
     </ul>
   </p>
