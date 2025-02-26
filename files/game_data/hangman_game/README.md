@@ -15,11 +15,11 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
     <ul>
       <li>Each time you click into "PORTUGUESE" or "ENGLISH" a new game starts</li>
       <li>To try a letter you need to enter it in the proper writing space and click "TEST LETTER"</li>
-      <li>For this game, exists 6 and 7 letters words, 500 units of each, for both languages. The exception is the group of 6 letters words in english, it contains 140 unis:
+      <li>For this game, exists 6 and 7 letter words, 500 units of each, for both languages. The exception is the group of 6 letters words in English, it contains 140 units::
         <ul>
-          <li>The portuguese words were extracted from the <a href='https://www.dicio.com.br/exemplos-de-palavras/'>"Dicionário Online de Português"</a></li>
-          <li>The 6 letter words in english were extracted from the <a href='https://testbook.com/english-grammar/6-letter-words'>"Testbook"</a></li>
-          <li>The 7 letter words in english were extracted from the <a href='https://byjus.com/english/7-letter-words/'>"BYJU'S website"</a></li>
+          <li>The Portuguese words were extracted from the <a href='https://www.dicio.com.br/exemplos-de-palavras/'>"Dicionário Online de Português"</a></li>
+          <li>The 6 letter words in English were extracted from the <a href='https://testbook.com/english-grammar/6-letter-words'>"Testbook"</a></li>
+          <li>The 7 letter words in English were extracted from the <a href='https://byjus.com/english/7-letter-words/'>"BYJU'S website"</a></li>
         </ul>
       </li>
       <li>You will have 8 chances to guess the correct word</li>
