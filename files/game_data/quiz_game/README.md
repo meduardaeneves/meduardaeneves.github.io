@@ -10,7 +10,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
 
 <p>To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "game_play.py" file.</p>
 
- <p>This Game collect its data from the Open Trivia DataBase: <a href='https://opentdb.com/'>"Click here to access the website"</a>. It was used an API to get the questions.</p>
+ <p>This Game collect its data from the Open Trivia DataBase, where it was used an API to get the questions. <a href='https://opentdb.com/'>"Click here to access the website"</a>.</p>
 
 ## Game Rules
 
