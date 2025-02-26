@@ -14,6 +14,7 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
 
 ## Game Rules
 
+<div>
   <ul>
     <li>
       The questions in this trivia game will vary in three aspects:
@@ -57,3 +58,4 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
       </ul>
     </li>
   </ul>
+</div>
