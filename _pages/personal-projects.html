@@ -10,15 +10,15 @@ author_profile: true
 {% include base_path %}
 
 <!-- {% for post in site.portfolio %}
-  {% if post.categories contains "games" %}
+  {% if post.categories contains "personalprojects" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %} -->
 
-<div class="games-grid">
+<div class="personalprojects-grid">
   {% for post in site.portfolio %}
     {% if post.categories contains "personal-projects" %}
-      <div class="games-item">
+      <div class="personalprojects-item">
         <a href="{{ post.url | relative_url }}">
           <img src="{{ post.image }}" alt="{{ post.title }}">
           <h3>{{ post.title }}</h3>
