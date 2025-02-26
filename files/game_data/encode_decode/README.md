@@ -3,7 +3,7 @@
 Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/portfolio/games/encode_decode/)
 
 <p align="center">
-  <img src="files/encode_decode_playing.png" width="900">
+  <img src="files/encode_decode_playing.png" width="1100">
 </p>
 
 This is a "Encode & Decode Message Game".
