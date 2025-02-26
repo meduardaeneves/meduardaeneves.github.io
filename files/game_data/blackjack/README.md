@@ -6,9 +6,9 @@ Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/por
   <img src="files/blackjack_playing.png" width="750">
 </p>
 
-This is BlackJack game versus the PC. Your goal is to beat the computer.
+This is BlackJack game versus the PC. Your goal is to beat the computer. 
 
-To play the game you can enter the game's Portfolio Link, for online acess, or download all the python files in this repository and execute it in your personal code editor.
+To play the game you can enter the game's Portfolio Link, for online access, or download all the python files in this repository and execute it in your personal code editor. To execute this second way you need to play the "sec014_mine_final_project_game.py" file.
 
 ## Game Rules
 
