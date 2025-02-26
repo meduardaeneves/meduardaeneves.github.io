@@ -26,20 +26,20 @@ To play the game you can enter the game's Portfolio Link, for online access, or 
           <li>K = 10.</li>
         </ul>
       </li>
-      <li>With your 2 cards in hand and knowing one of the dealers you can chose to get or not another card.</li>
+      <li>With your 2 cards in hand and knowing one of the dealers you can choose to get or not another card.</li>
       <li>You can continue to pick cards until your hand exceeds 21 points</li>
       <li>
         How to win the game:
         <ul>
-          <li>If the sum of your cards are 21 you win. If you have only two cards you will win with a blackjack</li>
-          <li>If comparing to the dealers cards your sum is closest to 21, withoud getting over.</li>
+          <li>If the sum of your cards is 21. If you have only two cards you will win with a blackjack</li>
+          <li>If comparing to the dealers cards, your sum is closer to 21, without getting over.</li>
         </ul>
       </li>
       <li>
         How to lose the game:
         <ul>
-          <li>If the sum of your cards are over 21.</li>
-          <li>If comparing to the dealers cards its sum is closest to 21 comparing to yours.</li>
+          <li>If the sum of your cards is over 21.</li>
+          <li>If comparing to the dealers cards, its sum is closest to 21 comparing to yours.</li>
         </ul>
       </li>
     </ul>
