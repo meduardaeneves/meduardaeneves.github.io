@@ -13,7 +13,7 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
 ## Game Rules
   <p>
     <ul>
-      <li>To play this game, the first thing you need to chose is decide the type of game you want to play:
+      <li>To play this game, the first thing you need to choose is the type of game you want to play:
         <ul>
           <li>EASY: 10 lives to guess the number</li>
           <li>HARD: 5 lives to guess the number</li>
