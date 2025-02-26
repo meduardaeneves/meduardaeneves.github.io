@@ -6,8 +6,8 @@ Portfolio Game page link: [Access Portfolio](https://meduardaeneves.github.io/po
   <img src="files/rock_paper_scissors_playing.png" width="750">
 </p>
 
-<p>This is a Rock, Paper, Scissors game you will play agains the PC.</p>
-<p>The game will happen with you chosing the element you want to enter:
+<p>This is a Rock, Paper, Scissors game you will play against the PC.</p>
+<p>The game will happen to you choosing the element you want to enter::
   <ul>
     <li>Rock</li>
     <li>Paper</li>
