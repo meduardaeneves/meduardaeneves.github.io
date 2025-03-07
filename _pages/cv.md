@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<p>To download the english version of the CV, CLICK HERE</p>
+<p>To download the portuguese version of the CV, CLICK HERE</p>
+
 Education
 ======
 **Postgraduate, specialization in Deep Learning, Recife - PE** 
