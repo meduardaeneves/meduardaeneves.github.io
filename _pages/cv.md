@@ -46,22 +46,55 @@ Work experience
 * TPF Engenharia, September 2019 - September 2021
   * **Infrastructure Team**
     * Assistant in the development of a feasibility study for a new railway to be deployed in Brazil.
+  * **Cartography Team**
+    * Assistant in a land regularization project;
+    * Use of QGIS software for mapping features and data editing;
+    * Development and creation of maps.
+  * **Quality Management Team**
+    * Research of virtual and augmented reality to be implanted in the company´s future.
+
+**Civil Engineering Intern, Recife - PE** 
+* Melo Gouveia Construção e Incorporação, August 2017 - January 2018
+  * Construction Management
+
+  
+Courses and Certificates
+======
+* Algorithm | BY: Curso em Vídeo | Certificate No. B3BC8-6297-9;  
+* AutoCAD module 1 (Essential)  | BY: StudioCAD | Certificate No. 1PNFTTBF4;  
+* Complete Course: SQL for Data Analisys with BigQuery | BY: Udemy; 
+* Python Journey | BY: Hashtag; 
+* Machine Learning: Clusterization with Python  | BY: Udemy; 
+* Advanced 2016 Microsoft Excel | BY: Fundação Bradesco | Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
+* Project101x: Introduction to Project Management | BY: AdelaideX | Certificate No. 5f52fa5a98114052a891645a59b49615;  
+* Working in agile teams | BY: DIO | Certificate No. 3A5A21A4  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced Microsoft Office: Excel, Power Point; Word
+* AutoCAD e AutoCAD Civil 3D
+* QGIS
+* Logical Thinking
+* Python and Librarys, such as Pandas and Plotly
+* Basic SQL
+  
+Languages
+======
+* Portuguese: Native
+* English: Fluent – ECPE C2 (Credential 336100006)
+* French: Intermediate 
+  
+Honors and Awards
+======
+* Academic Exchange Scholarship – Brafitec 2018
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -77,3 +110,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
