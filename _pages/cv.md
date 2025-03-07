@@ -63,14 +63,14 @@ Work experience
   
 Courses and Certificates
 ======
-* Algorithm | BY: Curso em Vídeo | Certificate No. B3BC8-6297-9;  
-* AutoCAD module 1 (Essential)  | BY: StudioCAD | Certificate No. 1PNFTTBF4;  
-* Complete Course: SQL for Data Analisys with BigQuery | BY: Udemy; 
-* Python Journey | BY: Hashtag; 
-* Machine Learning: Clusterization with Python  | BY: Udemy; 
-* Advanced 2016 Microsoft Excel | BY: Fundação Bradesco | Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
-* Project101x: Introduction to Project Management | BY: AdelaideX | Certificate No. 5f52fa5a98114052a891645a59b49615;  
-* Working in agile teams | BY: DIO | Certificate No. 3A5A21A4  
+* Algorithm ; BY: Curso em Vídeo ; Certificate No. B3BC8-6297-9;  
+* AutoCAD module 1 (Essential)  ; BY: StudioCAD ; Certificate No. 1PNFTTBF4;  
+* Complete Course: SQL for Data Analisys with BigQuery ; BY: Udemy; 
+* Python Journey ; BY: Hashtag; 
+* Machine Learning: Clusterization with Python  ; BY: Udemy; 
+* Advanced 2016 Microsoft Excel ; BY: Fundação Bradesco ; Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
+* Project101x: Introduction to Project Management ; BY: AdelaideX ; Certificate No. 5f52fa5a98114052a891645a59b49615;  
+* Working in agile teams ; BY: DIO ; Certificate No. 3A5A21A4  
   
 Skills
 ======
