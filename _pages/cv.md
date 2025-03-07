@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postgraduate, specialization in Deep Learning, Recife - PE 
+  * CIN - UFPE, November 2023 - Current   
+* Postgraduate, specialization in Transportation and Infrastructure, Minas Gerais - BH
+  * PUC - Minas, September 2022 - December 2023   
+* B.S. in Civil Engineering, Recife - PE
+  UFPE, March 2016 - June 2022
+  * GPA: 8.32 / 10.00
+* B.S. exchange program in Civil Engineering, Lille - France
+  Polytech Lille, September 2018 - June 2019
+  * Fourth year of the Civil Engineering B.S. program
+  * BRAFITEC excelence scholarship through a Brazilian coorporation called CAPES.
 
 Work experience
 ======
