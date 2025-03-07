@@ -28,20 +28,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Civil Engineering Assistant, Recife - PE** 
+* TPF Engenharia, August 2022 - August 2023
+  * Usage of softwares such as Civil 3D and Excel to develop infrastructure drainage projects;
+  * Project conception and dimensioning of drainage equipament devices  
   
 Skills
 ======
