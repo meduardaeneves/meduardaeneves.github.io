@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Sobre mim"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. 
-Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning, em busca de uma vaga Junior em tecnologia.
+Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.
 
 
