@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Perfil"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "foto_cv_02.JPG"
   name             : "Maria Eduarda E. Neves"
   pronouns         : # example: "she/her"  
-  bio              : "Pós Graduanda em Deep Learning, UFPE."
+  bio              : "Postgraduate, specialization in Deep Learning, UFPE."
   location         : "Recife, PE"
   phone            : "+55(81)99999-0424"
   # employer         : "Red Brick University"
