@@ -11,15 +11,15 @@ redirect_from:
 
 <p>Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning.</p>
 
-<p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//cv/'>"Clique aqui".</a></p>
-<p>É possível baixar o PDF do currículo em duas línguas: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral.pdf'>PORTUGUÊS</a> e <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral_en.pdf'>INGLÊS</a>. Click on the language you want to download it.</p>
+<p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//cv/'>"Clique aqui"</a>.</p>
+<p>É possível baixar o PDF do currículo em duas línguas: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral.pdf'>PORTUGUÊS</a> e <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral_en.pdf'>INGLÊS</a>. Clique na lingua que deseja baixar.</p>
 
-Education
+Formação Acadêmica
 ======
-**Postgraduate, specialization in Deep Learning, Recife - PE - Brazil** 
-* CIN - UFPE, November 2023 - Current
+**Pós-Graduação Lato Sensu (Especialização) em Deep Learning, Recife - PE - Brasil** 
+* CIN - UFPE, novembro 2023 – atual
 
-**Postgraduate, specialization in Transportation and Infrastructure, Minas Gerais - BH - Brazil**
+**MBA em infraestrutura de transporte, Minas Gerais - BH - Brazil**
 * PUC - Minas, September 2022 - December 2023
 
 **B.S. in Civil Engineering, Recife - PE - Brazil**
