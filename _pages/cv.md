@@ -27,7 +27,7 @@ Education
 **B.S. exchange program in Civil Engineering, Lille - France**
 * Polytech Lille, September 2018 - June 2019
   * Fourth year of the Civil Engineering B.S. program
-  * BRAFITEC excelence scholarship through a Brazilian coorporation called CAPES.
+  * BRAFITEC excellence scholarship granted by a Brazilian corporation called CAPES.
 
 Work experience
 ======
