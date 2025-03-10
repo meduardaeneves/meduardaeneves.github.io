@@ -90,7 +90,7 @@ Languages
   
 Honors and Awards
 ======
-* Academic Exchange Scholarship – Brafitec 2018
+* Academic Excellence Exchange Scholarship – Brafitec 2018
 
 Publications
 ======
