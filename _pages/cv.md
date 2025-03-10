@@ -48,9 +48,9 @@ Work experience
 **Civil Engineering Intern, Recife - PE** 
 * TPF Engenharia, September 2019 - September 2021
   * **Infrastructure Team**
-    * Assistant in the development of a feasibility study for a new railway to be deployed in Brazil.
+    * Assist in the development of a feasibility study for a new railway to be deployed in Brazil.
   * **Cartography Team**
-    * Assistant in a land regularization project;
+    * Assist in a land regularization project;
     * Use of QGIS software for mapping features and data editing;
     * Development and creation of maps.
   * **Quality Management Team**
