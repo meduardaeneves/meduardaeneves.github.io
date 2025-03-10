@@ -2,7 +2,7 @@
 title: "Análise da irregularidade longitudinal usando o aplicativo SMARTIRI em pontos de ocorrência de sinistros graves na BR-101 em Pernambuco"
 collection: publications
 <!-- category: manuscripts-->
-category: conferences
+category: congressos
 permalink: /publication_pt/2022-11-11-anpet-paper-pt
 excerpt: 'Este artigo foi escrito em portugês'
 date: 2022-11-11
