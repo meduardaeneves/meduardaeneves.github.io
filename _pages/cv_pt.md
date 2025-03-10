@@ -64,37 +64,37 @@ Experiência Profissional
   * Survaillance for a residential building construction
   * Construction Management
   
-Courses and Certificates
+Cursos e Certificados
 ======
-* Algorithm ; BY: Curso em Vídeo ; Certificate No. B3BC8-6297-9;  
-* AutoCAD module 1 (Essential)  ; BY: StudioCAD ; Certificate No. 1PNFTTBF4;  
-* Complete Course: SQL for Data Analisys with BigQuery ; BY: Udemy; 
-* Python Journey ; BY: Hashtag; 
-* Machine Learning: Clusterization with Python  ; BY: Udemy; 
-* Advanced 2016 Microsoft Excel ; BY: Fundação Bradesco ; Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
-* Project101x: Introduction to Project Management ; BY: AdelaideX ; Certificate No. 5f52fa5a98114052a891645a59b49615;  
-* Working on agile teams ; BY: DIO ; Certificate No. 3A5A21A4  
+* Algoritmo ; Por: Curso em Vídeo ; Certificado No. B3BC8-6297-9;  
+* AutoCAD módulo 1 (Essential) ; Por: StudioCAD ; Certificado No. 1PNFTTBF4;  
+* Curso Completo: SQL para Análise de Dados com BigQuery ; Por: Udemy; 
+* Jornada Python ; Por: Hashtag; 
+* Machine Learning: Clusterização com linguagem Python ; Por: Udemy; 
+* Microsoft Excel 2016 Avançado ; Por: Fundação Bradesco ; Certificado No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
+* Project101x: Introdução ao gerenciamento de projetos ; Por: AdelaideX ; Certificado No. 5f52fa5a98114052a891645a59b49615;  
+* Trabalhando em equipes ágeis ; Por: DIO ; Certificado No. 3A5A21A4  
   
-Skills
+Competências
 ======
-* Advanced Microsoft Office: Excel, Power Point, Word
-* AutoCAD and AutoCAD Civil 3D
+* Microsoft Office Avançado: Excel, Power Point; Word;
+* AutoCAD e AutoCAD Civil 3D;
 * QGIS
-* Logical Thinking
-* Python and Libraries, such as Pandas and Plotly
-* Basic SQL
+* Raciocínio Lógico
+* Python e bibliotecas relacionadas, como Pandas e Plotly
+* SQL Básico
   
-Languages
+Línguas
 ======
-* Portuguese: Native
-* English: Fluent – ECPE C2 (Credential 336100006)
-* French: Intermediate 
+* Português: Nativo
+* Inglês: Fluente – ECPE C2 (Credenciais 336100006)
+* Francês: Intermediário 
   
-Honors and Awards
+Reconhecimento e Prêmios
 ======
-* Academic Excellence Exchange Scholarship – Brafitec 2018
+* Bolsa de Estudo BRAFITEC para alunos de Excelência fornecida pela CAPES: Graduação sanduíche na França.
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
