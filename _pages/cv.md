@@ -11,7 +11,7 @@ redirect_from:
 
 <p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
 
-<p>It is possible to download the CV' PDF format in two languages: PORTUGUESE and ENGLISH. Click on the language you want to download it.</p>
+<p>It is possible to download the CV's PDF format in two languages: PORTUGUESE and ENGLISH. Click on the language you want to download it.</p>
 
 Education
 ======
