@@ -11,7 +11,7 @@ redirect_from:
 
 <p>Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning.</p>
 
-<p>Para acessar a versão em inglês neste site <a href='https://meduardaeneves.github.io//cv/'>"Clique aqui".</a></p>
+<p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//cv/'>"Clique aqui".</a></p>
 <p>É possível baixar o PDF do currículo em duas línguas: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral.pdf'>PORTUGUÊS</a> e <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral_en.pdf'>INGLÊS</a>. Click on the language you want to download it.</p>
 
 Education
