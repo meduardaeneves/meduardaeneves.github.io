@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
+<p>Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning.</p>
 
-<p>To access the portuguese version of this page <a href='https://meduardaeneves.github.io//about_pt/'>Click Here</a>.</p>
+<p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//'>Clique aqui</a>.</p>
