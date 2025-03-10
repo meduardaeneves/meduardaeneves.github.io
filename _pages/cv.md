@@ -76,7 +76,7 @@ Courses and Certificates
 Skills
 ======
 * Advanced Microsoft Office: Excel, Power Point, Word
-* AutoCAD e AutoCAD Civil 3D
+* AutoCAD and AutoCAD Civil 3D
 * QGIS
 * Logical Thinking
 * Python and Libraries, such as Pandas and Plotly
