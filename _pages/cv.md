@@ -44,6 +44,7 @@ Work experience
 **Teacher Assistant Internship, Recife - PE - Brazil** 
 * UFPE, August 2020 - April 2021
   * Teaching assistant of Tridimensional Graphic Geometry course;
+  * University’s period: 2020.3 and 2020.1.
 
 **Civil Engineering Intern, Recife - PE - Brazil** 
 * TPF Engenharia, September 2019 - September 2021
