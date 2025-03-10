@@ -1,5 +1,5 @@
 ---
-title: "Analysis of longitudinal irregularity using SMARTIRI App in points of serious road crash occurrences into br-101 in Pernambuco"
+title: "Analysis of longitudinal irregularity using SMARTIRI App in points of serious road crash occurrences into BR-101 in Pernambuco"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-anpet-paper
