@@ -97,9 +97,19 @@ Honors and Awards
 
 Publications
 ======
+<!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+  <ul>
+  {% assign allowed_categories = "livros,manuscritos,congressos" | split: "," %}
+  {% for post in site.publications reversed %}
+    {% if allowed_categories contains post.category and post.language == "port" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+  </ul>
 
 <!--
 Talks
