@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-anpet-paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper was written in Portuguese'
 date: 2022
 venue: 'Galoá'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
