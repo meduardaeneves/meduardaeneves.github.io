@@ -105,7 +105,7 @@ Publications
   <ul>
   {% assign allowed_categories = "books,manuscripts,conferences" | split: "," %}
   {% for post in site.publications reversed %}
-    {% if allowed_categories contains post.category and post.language == "port" %}
+    {% if allowed_categories contains post.category %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}
