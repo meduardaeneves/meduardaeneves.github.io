@@ -13,7 +13,6 @@ citation: 'Neves, M. E. E.; Freire, R. A. ANÁLISE DA IRREGULARIDADE LONGITUDINA
 ---
 
 Este artigo foi escrito em português, o que significa que os arquivos para download estão nesta mesma lingua.
-<p>DEBUG: Idioma detectado - {{ post.language }}</p>
 
 Abaixo é possível ler o seu resumo.
 
