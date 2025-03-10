@@ -7,7 +7,7 @@ permalink: /publication/2022-11-11-anpet-paper
 excerpt: 'This paper was written in Portuguese'
 date: 2022-11-11
 venue: 'Galoá'
-slidesurl: 'https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/publications/ANPET_2022_SLIDE_AGRAD.pdf'
+slidesurl: 'https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/publications/ANPET_2022_SLIDE_AGRAD.pdf'
 paperurl: 'https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/publications/ANPET_2022_ARTIGO_AGRAD.pdf'
 citation: 'Neves, M. E. E.; Freire, R. A. ANÁLISE DA IRREGULARIDADE LONGITUDINAL USANDO O APLICATIVO SMARTIRI EM PONTOS DE OCORRÊNCIA DE SINISTROS GRAVES NA BR-101 EM PERNAMBUCO. In: ANAIS DO CONGRESSO DE PESQUISA E ENSINO EM TRANSPORTES, 2022, Fortaleza. Anais eletrônicos..., Galoá, 2022. Avaliable in: https://proceedings.science/anpet-2022/trabalhos/analise-da-irregularidade-longitudinal-usando-o-aplicativo-smartiri-em-pontos-de?lang=pt-br .Access on: 10 Mar. 2025.'
 ---
