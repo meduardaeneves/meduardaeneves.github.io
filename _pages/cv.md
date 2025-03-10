@@ -34,7 +34,7 @@ Work experience
 **Civil Engineering Assistant, Recife - PE** 
 * TPF Engenharia, August 2022 - August 2023
   * Usage of softwares such as Civil 3D and Excel to develop infrastructure drainage projects;
-  * Project conception and dimensioning of drainage equipament devices
+  * Project conception and dimensioning of drainage equipment devices
 
 **Civil Engineering Assistant, Recife - PE** 
 * TPF Engenharia, September 2021 - August 2022
