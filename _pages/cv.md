@@ -78,7 +78,7 @@ Skills
 * AutoCAD e AutoCAD Civil 3D
 * QGIS
 * Logical Thinking
-* Python and Librarys, such as Pandas and Plotly
+* Python and Libraries, such as Pandas and Plotly
 * Basic SQL
   
 Languages
