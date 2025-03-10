@@ -3,9 +3,9 @@ title: "Analysis of longitudinal irregularity using SMARTIRI App in points of se
 collection: publications
 <!-- category: manuscripts-->
 category: conferences
-permalink: /publication/2022-anpet-paper
+permalink: /publication/2022-11-11-anpet-paper
 excerpt: 'This paper was written in Portuguese'
-date: 2022
+date: 2022-11-11
 venue: 'Galoá'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
