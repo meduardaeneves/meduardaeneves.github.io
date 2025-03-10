@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<p>To download the English version of the CV, CLICK HERE</p>
-<p>To download the Portuguese version of the CV, CLICK HERE</p>
+<p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
+
+<p>It is possible to download the CV' PDF format in two languages: PORTUGUESE and ENGLISH. Click on the language you want to download it.</p>
 
 Education
 ======
