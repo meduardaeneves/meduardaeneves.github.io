@@ -14,13 +14,13 @@ redirect_from:
 
 Education
 ======
-**Postgraduate, specialization in Deep Learning, Recife - PE** 
+**Postgraduate, specialization in Deep Learning, Recife - PE - Brazil** 
 * CIN - UFPE, November 2023 - Current
 
-**Postgraduate, specialization in Transportation and Infrastructure, Minas Gerais - BH**
+**Postgraduate, specialization in Transportation and Infrastructure, Minas Gerais - BH - Brazil**
 * PUC - Minas, September 2022 - December 2023
 
-**B.S. in Civil Engineering, Recife - PE**
+**B.S. in Civil Engineering, Recife - PE - Brazil**
 * UFPE, March 2016 - June 2022
   * GPA: 8.32 / 10.00
 
@@ -31,21 +31,21 @@ Education
 
 Work experience
 ======
-**Civil Engineering Assistant, Recife - PE** 
+**Civil Engineering Assistant, Recife - PE - Brazil** 
 * TPF Engenharia, August 2022 - August 2023
   * Usage of softwares such as Civil 3D and Excel to develop infrastructure drainage projects;
   * Project conception and dimensioning of drainage equipment devices
 
-**Civil Engineering Assistant, Recife - PE** 
+**Civil Engineering Assistant, Recife - PE - Brazil** 
 * TPF Engenharia, September 2021 - August 2022
   * Assistant in the final phase of a feasibility study for a new railway to be deployed;
   * Use of Civil 3D and QGIS softwares to develop a drainage system for infrastructure projects.
 
-**Teacher Assistant Internship, Recife - PE** 
+**Teacher Assistant Internship, Recife - PE - Brazil** 
 * UFPE, August 2020 - April 2021
   * Teaching assistant of Tridimensional Graphic Geometry course;
 
-**Civil Engineering Intern, Recife - PE** 
+**Civil Engineering Intern, Recife - PE - Brazil** 
 * TPF Engenharia, September 2019 - September 2021
   * **Infrastructure Team**
     * Assist in the development of a feasibility study for a new railway to be deployed in Brazil.
@@ -56,7 +56,7 @@ Work experience
   * **Quality Management Team**
     * Research of virtual and augmented reality to be implanted in the company´s future.
 
-**Civil Engineering Intern, Recife - PE** 
+**Civil Engineering Intern, Recife - PE - Brazil** 
 * Melo Gouveia Construção e Incorporação, August 2017 - January 2018
   * Construction Management
 
