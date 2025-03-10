@@ -5,6 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-11-11-anpet-paper
 excerpt: 'This paper was written in Portuguese'
+language: eng
 date: 2022-11-11
 venue: 'Galoá'
 slidesurl: 'https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/publications/ANPET_2022_SLIDE_AGRAD.pdf'
