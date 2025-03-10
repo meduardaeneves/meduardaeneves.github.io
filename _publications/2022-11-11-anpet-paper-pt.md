@@ -3,8 +3,8 @@ title: "Análise da irregularidade longitudinal usando o aplicativo SMARTIRI em 
 collection: publications
 category: congressos
 permalink: /publication_pt/2022-11-11-anpet-paper-pt
-excerpt: 'Este artigo foi escrito em portugês'
 language: port
+excerpt: 'Este artigo foi escrito em portugês'
 date: 2022-11-11
 venue: 'Galoá'
 slidesurl: 'https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/publications/ANPET_2022_SLIDE_AGRAD.pdf'
