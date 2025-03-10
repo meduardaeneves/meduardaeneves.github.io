@@ -1,10 +1,12 @@
 ---
 permalink: /about_pt/
-title: "About me"
+title: "Sobre mim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.
+<p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
+
+<p>To access the portuguese version of this page <a href='https://meduardaeneves.github.io//about_pt/'>Click Here</a>.</p>
