@@ -19,50 +19,50 @@ Formação Acadêmica
 **Pós-Graduação Lato Sensu (Especialização) em Deep Learning, Recife - PE - Brasil** 
 * CIN - UFPE, novembro 2023 – atual
 
-**MBA em infraestrutura de transporte, Minas Gerais - BH - Brazil**
-* PUC - Minas, September 2022 - December 2023
+**MBA em Infraestrutura de Transporte, Minas Gerais - BH - Brasil**
+* PUC - Minas, setembro 2022 – dezembro 2023
 
-**B.S. in Civil Engineering, Recife - PE - Brazil**
-* UFPE, March 2016 - June 2022
-  * GPA: 8.32 / 10.00
+**Graduação em Engenharia Civil, Recife – PE - Brasil**
+* UFPE, março 2016 – junho 2022
+  * Média Geral: 8.32 / 10.00
 
-**B.S. exchange program in Civil Engineering, Lille - France**
-* Polytech Lille, September 2018 - June 2019
-  * Fourth year of the Civil Engineering B.S. program
-  * BRAFITEC excellence scholarship granted by a Brazilian corporation called CAPES.
+**Graduação sanduíche em Engenharia Civil, Lille - France**
+* Polytech Lille, setembro 2018 – junho 2019
+  * Quarto ano do bacharelado de engenharia civil na Universidade Polytech Lille.
+  * Bolsista de excelência através do programa BRAFITEC, Capes.
 
-Work experience
+Experiência Profissional
 ======
-**Civil Engineering Assistant, Recife - PE - Brazil** 
-* TPF Engenharia, August 2022 - August 2023
-  * Usage of softwares such as Civil 3D and Excel to develop infrastructure drainage projects;
-  * Project conception and dimensioning of drainage equipment devices
+**Assistente de Engenharia Civil, Recife - PE - Brasil** 
+* TPF Engenharia, agosto 2022 – agosto 2023
+  * Utilização de softwares como Civil 3D e Excel para desenvolvimento de projeto de drenagem em infraestrutura.
+  * Concepção do projeto e dimensionamento dos dispositivos de drenagem a serem utilizados.
 
-**Civil Engineering Assistant, Recife - PE - Brazil** 
-* TPF Engenharia, September 2021 - August 2022
-  * Assistant in the final phase of a feasibility study for a new railway to be deployed;
-  * Use of Civil 3D and QGIS softwares to develop a drainage system for infrastructure projects.
+**Auxiliar de Engenharia Civil, Recife - PE - Brasil** 
+* TPF Engenharia, setembro 2021 – agosto 2022
+  * Assistente na fase final do estudo de viabilidade de uma nova ferrovia;
+  * Utilização de softwares como Civil 3D e QGIS para desenvolvimento de projeto de drenagem em infraestrutura.
 
-**Teacher Assistant Internship, Recife - PE - Brazil** 
-* UFPE, August 2020 - April 2021
-  * Teaching assistant of Tridimensional Graphic Geometry course;
-  * University’s period: 2020.3 and 2020.1.
+**Monitoria Universitária, Recife - PE - Brasil** 
+* UFPE, agosto 2020 – abril 2021
+  * Monitoria da disciplina de Geometria Gráfica Tridimensional;
+  * Períodos universitários: 2020.3 e 2020.1.
 
-**Civil Engineering Intern, Recife - PE - Brazil** 
-* TPF Engenharia, September 2019 - September 2021
-  * **Infrastructure Team**
-    * Assist in the development of a feasibility study for a new railway to be deployed in Brazil.
-  * **Cartography Team**
-    * Assist in a land regularization project;
-    * Use of QGIS software for mapping features and data editing;
-    * Development and creation of maps.
-  * **Quality Management Team**
-    * Research of virtual and augmented reality to be implanted in the company´s future.
+**Estagiária de Engenharia Civil, Recife - PE - Brasil** 
+* TPF Engenharia, setembro 2019 – setembro 2021
+  * **Equipe de Infraestrutura**
+    * Auxiliar no desenvolvimento de um estudo de viabilidade para uma nova ferrovia a ser implantada no Brasil.
+  * **Equipe de Cartografia**
+    * Auxiliar em um projeto de regularização fundiária;
+    * Utilização do Qgis para mapeamento de informações e edição de dados georreferenciados;
+    * Desenvolvimento atlas e de mapas cartográficos.
+  * **Equipe de Qualidade**
+    * Desenvolvimento de pesquisas sobre realidade virtual e realidade aumentada.
 
-**Civil Engineering Intern, Recife - PE - Brazil** 
-* Melo Gouveia Construção e Incorporação, August 2017 - January 2018
+**Estagiária de Engenharia Civil, Recife - PE - Brasil** 
+* Melo Gouveia Construção e Incorporação, agosto 2017 – agosto 2018
+  * Survaillance for a residential building construction
   * Construction Management
-
   
 Courses and Certificates
 ======
