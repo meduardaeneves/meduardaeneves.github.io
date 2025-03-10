@@ -61,6 +61,7 @@ Work experience
 
 **Civil Engineering Intern, Recife - PE - Brazil** 
 * Melo Gouveia Construção e Incorporação, August 2017 - January 2018
+  * Surveillance for a residential building construction
   * Construction Management
 
   
