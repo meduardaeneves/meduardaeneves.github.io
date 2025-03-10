@@ -84,6 +84,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  livros:
+    title: 'Livros'
+  manuscritos:
+    title: 'Manuscritos'
   congressos:
     title: 'Artigos de Congressos'
 
