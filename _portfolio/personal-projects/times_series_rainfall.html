@@ -68,8 +68,25 @@ categories: personal-projects
   <h3>Pre-processing data</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>In this phase, some modifications were made in the data, making it proper for model implementation</li>  
+      <li>There was a gap in time (1985 - 1993), therefore, the dataset was modified so that it would start only in 1994.</li>  
+      <li>The gaps in the dataset were completed with the "ffill" funcion.</li>  
+      <li>The log function was implemented in the values in order to remove data asymmetry</li>  
+      <li>The values were decomposed two times in order to remove data seasonality</li>  
+      <li>Finally, the data was normalized using the MIN-MAX logic.</li>  
+      <li>The graph bellow shows the rain distribution trough the years, starting from 1994 and before any other data modification.</li>  
     </ul>
+  </div>
+  <div style='display:grid; place-items:center'>
+    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/times_series_rainfall/rainfall_recife_over1994.png" alt="Final Mosaic" style="width: 110%; height: auto;">
+  </div>
+  <div>
+    <ul>
+      <li>This second graph shows the rain distribution trough the years, starting from 1994 after the data modification.</li>  
+    </ul>
+  </div>  
+  <div style='display:grid; place-items:center'>
+    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/times_series_rainfall/rainfall_recife_nosaz_norm.png" alt="Final Mosaic" style="width: 110%; height: auto;">
   </div>
  
   <h3>Model Development</h3>
