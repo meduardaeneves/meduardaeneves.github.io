@@ -112,21 +112,32 @@ categories: personal-projects
   <h4>ARIMA MODEL</h4>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The ARIMA model is an Autoregressive Integrated Moving Average</li>  
+      <li>It predicts future value based on:
+        <ul>
+          <li>Past Values (AR)</li>  
+          <li>Differentiation to achive stacionarity values (I)</li>  
+          <li>Past errors to improve predictions (MA)</li>  
+        </ul>
+      </li> 
+      <li>It recives three parameters for its calculation:
+        <ul>
+          <li>P - autoregressive parameter</li>  
+          <li>D - Differentiation Parameter</li>  
+          <li>Q - Moving Average Parameter</li>  
+        </ul>
+      </li> 
+      <li>The Box & Jenkins metodology was used to validate the parameters chosen</li>
     </ul>
   </div>
   
-  <h4>MLP MODEL</h4>
+  <h4>MLP and LSTM MODEL</h4>
   <div>
     <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-    
-  <h4>LSTM MODEL</h4>
-  <div>
-    <ul>
-      <li>X</li>  
+      <li>For both models, it was used a "sliding window" to create new data. This metodology choses X past values and add as new information to the actual rainfall data.</li>  
+      <li>Besides that, for both models it was used a Grid Search method to look for the model's parameters that presented the best results.</li>  
+      <li>MLP is a "Multilayer Perceptron" model. For this project, it was used "MLPRegressor" from "sklearn.neural_network"</li>  
+      <li>LSTM is a "Long Short-Term Memory Network". It is different from MLP by being a 2D model, therefore it is necessary to flatten its data. In this case, it was used a sequential model, followed by a LSTM layer, with the parameters that were chosen, and, for last, a dense layer.</li>  
     </ul>
   </div>
 
