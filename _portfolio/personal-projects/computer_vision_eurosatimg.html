@@ -113,6 +113,49 @@ categories: personal-projects
   </div>
   
   <h2>Results</h2>
-  <p>Here are the project results</p>
+  <h3>Accuracy and Loss Graph during training and validation</h3>
+  <div>
+    <ul>
+      <li>With those graphs it is possible to observe that the accuracy values have a tendency to grow withoud presenting overfitting.</li>
+      <li>We observe the values to top-1 and top-5 acurracy.
+        <ul>
+          <li>TOP-1 Considers the acurracy to the element that presents bigger prediction value</li>
+          <li>TOP-5 Considers the acurracy to the top 5 elements that presents bigger prediction value</li>
+        </ul>
+      </li>
+      <li>A difference regarding TOP-1 and TOP-5 is that, during the firsts Epochs the top-5 has a significant accuracy peak, reaching satisfactory values. If this was the main form of analysis, it would not be necessary so many epochs to achieve a good result.</li>
+    </ul>
+  </div>
+  <p><img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/computer_vision_eurosat/curvas_perda_acuracia.png" alt="Accuracy x Loss Graphs"></p>
+  
+  <h3>Accuracy, Recall and Precision in top-1 and top-5</h3>
+  <div>
+    <ul>
+      <li>As observed in the last topic, it is possible to conclude that in most of the cases, the real class in within the 5 that presents bigger probability of beeing it.</li>
+      <li>If only considered the TOP-1 accurary the project presented good results (not as good as the top-5).
+        <ul>
+          <li>TOP-1: the model classified correctly 1959 images out of 2700 in the test phase.</li>
+          <li>TOP-5: the model classified correctly 2676 images out of 2700 in the test phase.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  
+  <h3>Confusion Matrix to Analyse results</h3>
+  <div>
+    <ul>
+      <li>The confusion matrix was developed for the TOP-1 accuracy case.</li>
+      <li>Therefore, the cases in place are the ones where the image in result had the bigger probability to occure, regardint the real TARGET value</li>
+      <li>The confusion matrix presents True Label X Predicted Label
+        <ul>
+          <li>It is possible to analyse the predicted class distribution in compahison with its true label</li>
+          <li>The class that presented higher prediction difficulty was 3, beeing mostly confused as the classes 7 and 8.</li>
+          <li>The second class that presented higher prediction difficulty was 2, beeing mostly confused as class 6, wich was also confused with class 2.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <p><img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/computer_vision_eurosat/matriz_confusão.png" alt="Confusion Matrix"></p>
+
 </body>
 </html>
