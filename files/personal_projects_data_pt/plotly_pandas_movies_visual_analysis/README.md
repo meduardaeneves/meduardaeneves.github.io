@@ -44,6 +44,7 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 | 1       | 24  | M      | technician | 85711    |
 | 2       | 53  | F      | other      | 94043    |
 
+- Para melhor analisar os dados, nas seguintes etapas, os diferentes arquivos .csv serão unidos pelo ID do usuário ou filme
 
 ## Apresentação em formato visual (usando Plotly) dos arquivos de Minessota
 
