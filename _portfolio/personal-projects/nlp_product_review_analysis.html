@@ -29,8 +29,9 @@ categories: personal-projects
   <h2>Project Goal</h2>
   <div>
     <ul>
-      <li>The project has the goal to develop a Machine Learning Model that aims to predict rainfall in the city of Recife, Pernambuco - Brazil</li>
-      <li>The data was collected through <a href='http://old.apac.pe.gov.br/meteorologia/monitoramento-pluvio.php#'>APAC</a> and it returns the data for a rainfall station, called "Recife (Várzea)", located in the metropolitan region of Recife.</li>
+      <li>The project has the goal to use NLP to analyse a product review, to be able to relate the product text review with its rate.</li>
+      <li>The product chosen was a "Tablet Mirage 7 Pol 64gb 4gb ram Quad core wi-fi cor Preto", from <a href="https://www.mercadolivre.com.br/tablet-mirage-7-pol-64gb-4gb-ram-quad-core-wi-fi-cor-preto-2022/p/MLB28331783#polycard_client=search-nordic&wid=MLB4241052396&sid=search&searchVariation=MLB28331783&position=17&search_layout=grid&type=product&tracking_id=7d53f2f5-5c5f-47f6-b9aa-03c90ab38c71">Mercado Livre</a></li>
+      <li>The data was obtained through Mercado's Livre API. Product ID: MLB4241052396</li>
   </div>
  
   <h2>Project Development</h2>
@@ -40,7 +41,7 @@ categories: personal-projects
         The technical development of this project was divided into XXXX phases:
         <ul>
           <li>Data Load</li>
-          <li>Pre-processing data</li>
+          <li>Text Processing</li>
           <li>Model Development</li>
         </ul>
       </li>  
@@ -65,7 +66,7 @@ categories: personal-projects
     <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/times_series_rainfall/rainfall_recife.png" alt="Final Mosaic" style="width: 110%; height: auto;">
   </div>
  
-  <h3>Pre-processing data</h3>
+  <h3>Text Processing</h3>
   <div>
     <ul>
       <li>X</li>  
@@ -78,31 +79,30 @@ categories: personal-projects
       <li>X</li>  
     </ul>
   </div>
+ 
+  <h4>SVM + BOW</h4>
+  <div>
+    <ul>
+      <li>X</li>  
+    </ul>
+  </div>
+ 
+  <h4>SVM + EMBEDDINGS</h4>
+  <div>
+    <ul>
+      <li>X</li>  
+    </ul>
+  </div>
+ 
+  <h4>BERT</h4>
+  <div>
+    <ul>
+      <li>X</li>  
+    </ul>
+  </div>
 
   
   <h2>Results</h2>
-  
-  <h3>ARIMA MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  
-  <h3>MLP MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-    
-  <h3>LSTM MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  
   <h3>Compahison between three models</h3>
   <div>
     <ul>
@@ -112,26 +112,30 @@ categories: personal-projects
   <table>
     <thead>
         <tr>
-            <th>Metrics</th>
-            <th>TOP-1</th>
-            <th>TOP-5</th>
+            <th>Model</th>
+            <th>ACC</th>
+            <th>F1-MACRO</th>
+            <th>F1-AVG</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Total Accuracy</td>
-            <td>0.73</td>
-            <td>0.99</td>
+            <td>SVM + BOW</td>
+            <td>0.709163</td>
+            <td>0.589962</td>
+            <td>0.682820</td>
         </tr>
         <tr>
-            <td>Total Precision</td>
-            <td>0.69</td>
-            <td>0.99</td>
+            <td>SVM + EMBEDDINGS</td>
+            <td>0.657371</td>
+            <td>0.551792</td>
+            <td>0.653619</td>
         </tr>
         <tr>
-            <td>Total Recall</td>
-            <td>0.69</td>
-            <td>0.99</td>
+            <td>BERT</td>
+            <td>0.666667</td>
+            <td>0.402572</td>
+            <td>0.614899</td>
         </tr>
     </tbody>
   </table>
