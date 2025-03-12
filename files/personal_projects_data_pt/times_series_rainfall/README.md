@@ -5,7 +5,7 @@
 - Arquivo ".ipynb" para rodar o projeto: projeto_final_st_mariaEduardaNeves.ipynb
 - [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/times_series_rainfall/)
 
-# Descrição do Problema
+# Objetivos do Projeto
 
 - O projeto tem como objetivo desenvolver um Modelo de Aprendizado de Máquina que visa prever a precipitação na cidade do Recife, Pernambuco - Brasil
 - Os dados foram coletados através da [APAC](http://old.apac.pe.gov.br/meteorologia/monitoramento-pluvio.php#), que retorna os dados de uma estação pluviométrica, denominada "Recife (Várzea)", localizada na região metropolitana do Recife.
