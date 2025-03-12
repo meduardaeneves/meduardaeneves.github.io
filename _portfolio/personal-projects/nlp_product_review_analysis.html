@@ -186,8 +186,8 @@ categories: personal-projects
   <h4>SVM + BOW</h4>
   <div>
     <ul>
-      <li>Its a model that relies on the "weight" of and element. It considers how many times it appears in a sentence</li>  
-      <li>It does not keeps track of elements order</li>  
+      <li>It's a model that relies on the "weight" of and element. It considers how many times it appears in a sentence</li>  
+      <li>It does not keep track of elements order</li>  
       <li>The amount of columns in the dataframe is going to be equal to the vocabulary's size</li>  
       <li>Model chosen and its parameters (Found with GridSearch's help):
         <ul>
@@ -204,7 +204,7 @@ categories: personal-projects
     <ul>
       <li>In this model, each word is represented by a dense vector (for this project, the size chosen was 75)</li>  
       <li>It was used the "Word2Vec" python library to generate the vectors</li>  
-      <li>The senteces were standardized, with zero padding, so that all of them had the dimension equal the one with the most amount of words (108)</li>  
+      <li>The sentences were standardized, with zero padding, so that all of them had the dimension equal, the one with the most amount of words (108)</li>  
       <li>Model chosen and its parameters (Found with GridSearch's help):
         <ul>
           <li>SVC: Support Vector Classifier</li>
@@ -218,18 +218,18 @@ categories: personal-projects
   <h4>BERT</h4>
   <div>
     <ul>
-      <li>Keeps track of the sentence biderectional context. It aims to predict a word based on the one that comes before and after</li>  
+      <li>Keeps track of the sentence bidirectional context. It aims to predict a word based on the one that comes before and after</li>  
       <li>The data was divided into three: Training (0.70); Validation (0.20); Test (0.10)</li>  
       <li>It was imported though Transformers</li>  
       <li>BertTokenizer: will tokenize the words</li>  
       <li>Was used a pre-trained model: BertForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased’)</li>  
-      <li>For the application of this model, it was used a help from a <a href='https://www.youtube.com/watch?v=kRyOAapLpIo'>Youtube Video Tutorial</a>.</li>  
+      <li>For the application of this model, it was used a help from a <a href='https://www.youtube.com/watch?v=kRyOAapLpIo'>YouTube Video Tutorial</a>.</li>  
     </ul>
   </div>
 
   
   <h2>Results</h2>
-  <h3>Compahison between three models</h3>
+  <h3>Comparison between the three models</h3>
   <div>
     <ul>
       <li>The table below compares the results obtained from each model</li>  
@@ -269,9 +269,9 @@ categories: personal-projects
   <h2>Conclusion</h2>
   <div>
     <ul>
-      <li>Due to the classes unbalencement, all three classifiers encountered difficulties to analyse the reviews. BERT could not classify elements of rate 2, due to the small number os samples.</li>  
-      <li>A more balanced database, with higher amount os samples, could bring better results</li>  
-      <li>In all the classifiers, they had more acuracy in identifiying the extreme rates
+      <li>Due to the classes not having the same amount of reviews, all three classifiers encountered difficulties to analyse the reviews. BERT could not classify elements of rate 2, due to the small number of samples.</li>  
+      <li>A more balanced database, with higher amount of samples, could bring better results</li>  
+      <li>In all the classifiers, they had more accuracy in identifying the extreme rates
         <ul>
           <li>This aspect could be due to the high amount of examples or to the strong words presented in those cases</li>
         </ul>
