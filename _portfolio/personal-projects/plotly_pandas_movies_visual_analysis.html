@@ -279,7 +279,48 @@ categories: personal-projects
   <h2>DataFrame manipulation using Pandas</h2>
   <div>
     <ul>
-      <li>For the project, the only data necessary were the three mentined before in the "Project Goal" section</li>  
+      <li>This final phase focused on manipulate the dataframes by working with pandas elements</li>  
+      <li>The first manipulation made was the generation of a new dataframe with only "Male" "Student" users that are over 20
+        <ul>
+          <li>A function was applyed into the USER dataset: student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]</li>
+          <li>The table below presents a fraction of the new dataframe that was generated
+            <table>
+              <thead>
+                  <tr>
+                      <th>user_id</th>
+                      <th>age</th>
+                      <th>gender</th>
+                      <th>occupation</th>
+                      <th>zip_code</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>9</td>
+                      <td>29</td>
+                      <td>M</td>
+                      <td>student</td>
+                      <td>01002</td>
+                  </tr>
+                  <tr>
+                      <td>33</td>
+                      <td>23</td>
+                      <td>M</td>
+                      <td>student</td>
+                      <td>27510</td>
+                  </tr>
+                  <tr>
+                      <td>73</td>
+                      <td>24</td>
+                      <td>M</td>
+                      <td>student</td>
+                      <td>41850</td>
+                  </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+      </li>  
       <li>
         Data Description:
         <ul>
