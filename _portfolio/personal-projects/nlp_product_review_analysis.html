@@ -218,7 +218,12 @@ categories: personal-projects
   <h4>BERT</h4>
   <div>
     <ul>
-      <li>X</li>  
+      <li>Keeps track of the sentence biderectional context. It aims to predict a word based on the one that comes before and after</li>  
+      <li>The data was divided into three: Training (0.70); Validation (0.20); Test (0.10)</li>  
+      <li>It was imported though Transformers</li>  
+      <li>BertTokenizer: will tokenize the words</li>  
+      <li>Was used a pre-trained model: BertForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased’)</li>  
+      <li>For the application of this model, it was used a help from a <a href='https://www.youtube.com/watch?v=kRyOAapLpIo'>Youtube Video Tutorial</a>.</li>  
     </ul>
   </div>
 
@@ -227,7 +232,7 @@ categories: personal-projects
   <h3>Compahison between three models</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The table below compares the results obtained from each model</li>  
     </ul>
   </div>
   <table>
@@ -264,7 +269,14 @@ categories: personal-projects
   <h2>Conclusion</h2>
   <div>
     <ul>
-      <li>X</li>  
+      <li>Due to the classes unbalencement, all three classifiers encountered difficulties to analyse the reviews. BERT could not classify elements of rate 2, due to the small number os samples.</li>  
+      <li>A more balanced database, with higher amount os samples, could bring better results</li>  
+      <li>In all the classifiers, they had more acuracy in identifiying the extreme rates
+        <ul>
+          <li>This aspect could be due to the high amount of examples or to the strong words presented in those cases</li>
+        </ul>
+      </li>
+      <li>Finally, the model classifier that presented the best results was: SVM + BOW</li>
     </ul>
   </div>
 </body>
