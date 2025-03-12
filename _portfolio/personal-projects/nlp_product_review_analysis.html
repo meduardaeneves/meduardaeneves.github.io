@@ -41,6 +41,7 @@ categories: personal-projects
     <ul>
       <li>The project has the goal to use NLP to analyse a product review, to be able to relate the product text review with its rate.</li>
       <li>The product chosen was a "Tablet Mirage 7 Pol 64gb 4gb ram Quad core wi-fi cor Preto", from <a href="https://www.mercadolivre.com.br/tablet-mirage-7-pol-64gb-4gb-ram-quad-core-wi-fi-cor-preto-2022/p/MLB28331783#polycard_client=search-nordic&wid=MLB4241052396&sid=search&searchVariation=MLB28331783&position=17&search_layout=grid&type=product&tracking_id=7d53f2f5-5c5f-47f6-b9aa-03c90ab38c71">Mercado Livre</a></li>
+      <li>The revies are in Portuguese</li>
       <li>The data was obtained through Mercado's Livre API. Product ID: MLB4241052396</li>
   </div>
  
@@ -108,14 +109,76 @@ categories: personal-projects
   <h3>Text Processing</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>This phase is important to normalize the reviews, tokenize it and apply or not lemmatization to the words.</li>  
+      <li>Text Normalization:
+        <ul>
+          <li>The reviews are in Portuguese, therefore, to normalize the text it was used python's Spacy Portuguese package (!python -m spacy download pt_core_news_sm)</li>
+          <li>The text was transformed, turning captilized letters in lowercase</li>
+          <li>The text was transformed and special characters (such as punctuation) were removed</li>
+          <li>The text was transformed and stopwords were removed (‘a’, ‘o’, ‘de’, ‘e’). The ones removed were within the most frequent elements</li>
+        </ul>
+      </li>  
+      <li>Words Tokenization:
+        <ul>
+          <li>Tokenization is the process were each word in the phase is transformed into a single element (tokens)</li>
+          <li>For this phase it was used the NLTK Tokenizer</li>
+        </ul>
+      </li>  
+      <li>Words Lemmatization:
+        <ul>
+          <li>Lemmatization is the process that reduces each word to its base form</li>
+          <li>It was made a test, for the reviews, with and withoud lemmatization and it was chosen not to apply it</li>
+        </ul>
+      </li>
+      <li>After this process, the bigest word vector contained 108 elements.</li>
+      <li>The total of tokens presented in the whole dataframe was 14552 elements.</li>
+      <li>The vocabulary presented in the whole dataframe was 1832 elements.</li>
+      <li>The table below shows some exemples of the reviews before and after the Text Processing</li>
     </ul>
   </div>
- 
+  
+  <table>
+    <thead>
+        <tr>
+            <th>Rate</th>
+            <th>Review (Before Text Processing)</th>
+            <th>Review (After Text Processing)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>4</td>
+            <td>Comprei pro meu filho de 5 anos. Baixei netfli...	</td>
+            <td>comprei pro meu filho anos baixei netflix uns ...</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Gostei muito, fácil de manusear, serve para o ...</td>
+            <td>gostei muito fácil manusear serve para meu dia...</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>O produto é bom,,, o problema é a tela q deixa...	</td>
+            <td>produto é bom problema é tela q deixa desejar</td>
+        </tr>
+        <tr>
+            <td>1	</td>
+            <td>Fica desligado toda hora sozinho não gostei.</td>
+            <td>fica desligado toda hora sozinho não gostei</td>
+        </tr>
+    </tbody>
+  </table>
+  
   <h3>Model Development</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>For analysing the reviews three models were tested:
+        <ul>
+          <li>SVM + BOW</li>
+          <li>SVM + EMBEDDINGS</li>
+          <li>BERT</li>
+        </ul>
+      </li>  
     </ul>
   </div>
  
