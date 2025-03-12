@@ -40,18 +40,20 @@ categories: personal-projects
   <div>
     <ul>
       <li>The project has the goal to apply a descriptive analysis of a "Movie Lens Data"</li>
-      <li>The data was collected through <a href='http://files.grouplens.org/datasets/movielens/'>"Group Lens"</a> and its "movielens" "ml-100k/" file.</li>
+      <li>The data was collected through <a href='http://files.grouplens.org/datasets/movielens/'>"Group Lens"</a> and its "movielens" "ml-100k/" files.</li>
+      <li>The files used during the project were: u.data; u.item and u.user</li>
+      <li>This Project was developed during the Postgraduation in Deep Learning course and was developed as Question and Answer format.</li>
+      <li>Therefore, the project was developed to answer the questions that were made, using the PLOTLY and PANDAS python libraries</li>
   </div>
  
   <h2>Project Development</h2>
   <div>
     <ul>
       <li>
-        The technical development of this project was divided into XXXX phases:
+        The technical development of this project was divided into dataload, followed by it's 2 phases (2 main questions):
         <ul>
-          <li>Data Load</li>
-          <li>Pre-processing data</li>
-          <li>Model Development</li>
+          <li>Presentation in visual format (using Plotly) of Minessota's data files</li>
+          <li>DataFrame manipulation using Pandas</li>
         </ul>
       </li>  
     </ul>
@@ -60,65 +62,55 @@ categories: personal-projects
   <h3>Data Load</h3>
   <div>
     <ul>
-      <li>For the project, the only data necessary was the one collected from "APAC's" website.</li>  
+      <li>For the project, the only data necessary were the three mentined before in the "Project Goal" section</li>  
+      <li>The data contains users rating related to a specific type of movie. Which are included into the three .csv files</li>  
       <li>
         Data Description:
         <ul>
-          <li>Spreadsheet in ". csv" format that brings rainfall information, in the monthly style.</li>
-          <li>The first year observed is 1970 and the last, 2021</li>
+          <li>u.data: contains the relation between user, movie and the rate given, such as: user_id; movie_id; rating; timestamp</li>
+          <li>u.item: contains movies informations, such as: movie_id; movie_title; release_date; video_release_date; IMDb_URL; movie's genre</li>
+          <li>u.user: contains the users informations, such as: user_id; age; gender; occupation; zip_code</li>
         </ul>
       </li>
-      <li>Below is presented a graph showing in the rain distribution through the years</li>
-    </ul>
-  </div>
-  <div style='display:grid; place-items:center'>
-    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/times_series_rainfall/rainfall_recife.png" alt="Final Mosaic" style="width: 110%; height: auto;">
-  </div>
- 
-  <h3>Pre-processing data</h3>
-  <div>
-    <ul>
-      <li>X</li>  
     </ul>
   </div>
  
-  <h3>Model Development</h3>
+  <h3>Presentation in visual format (using Plotly) of Minessota's data files</h3>
+  <h4>Visual representation of every categorical information</h4>
   <div>
     <ul>
-      <li>X</li>  
+      <li>Each one of the three separated data (users, data and item) have different categorical items, therefore, it analysis was made separating one another</li>  
+    </ul>
+  </div>
+  
+  <div>
+    <ul>
+      <li>Users data:
+        <ul>
+          <li>The two categorical data found were: gender and occupation</li>
+          <li>The image below shows the visual information regarding those items</li>
+        </ul>
+      </li>  
+    </ul>
+  </div>
+ 
+ 
+  <h3>DataFrame manipulation using Pandas</h3>
+  <div>
+    <ul>
+      <li>For the project, the only data necessary were the three mentined before in the "Project Goal" section</li>  
+      <li>
+        Data Description:
+        <ul>
+          <li>u.data</li>
+          <li>u.item</li>
+          <li>u.user</li>
+        </ul>
+      </li>
     </ul>
   </div>
 
   
-  <h2>Results</h2>
-  
-  <h3>ARIMA MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  
-  <h3>MLP MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-    
-  <h3>LSTM MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  
-  <h3>Compahison between three models</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
   <table>
     <thead>
         <tr>
@@ -145,12 +137,3 @@ categories: personal-projects
         </tr>
     </tbody>
   </table>
-  
-  <h2>Conclusion</h2>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-</body>
-</html>
