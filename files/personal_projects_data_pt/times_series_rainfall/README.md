@@ -3,6 +3,7 @@
 # Links de acesso:
 - [Link de acesso para o Google Colab](https://colab.research.google.com/drive/1okAfjRb37y3Vv_tFgDdIwS0JD0KNr0mn?usp=sharing)
 - Arquivo ".ipynb" para rodar o projeto: projeto_final_st_mariaEduardaNeves.ipynb
+- [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/times_series_rainfall/)
 
 # Descrição do Problema
 
