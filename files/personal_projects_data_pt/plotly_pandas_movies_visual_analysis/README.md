@@ -24,18 +24,21 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - Em cada descrição, há um fragmento exemplificando cada um dos arquivos
 - Descrição dos dados:
   - u.data: contém a relação entre o usuário, filme e avaliação dada, como: user_id; movie_id; rating; timestamp
+
 | user_id | movie_id | rating | timestamp  |
 |---------|---------|--------|------------|
 | 22      | 377     | 1      | 878887116  |
 | 186     | 302     | 3      | 891717742  |
 
   - u.item: contém informações do filme, tais como: movie_id; movie_title; release_date; video_release_date; IMDb_URL; gênero do filme
+
 | movie_id | movie_title        | release_date | video_release_date | IMDb_URL                                      | unknown | Action | ... | Thriller | War | Western |
 |---------|--------------------|-------------|-------------------|----------------------------------------------|---------|--------|-----|----------|-----|---------|
 | 1       | Toy Story (1995)   | 01-Jan-1995 | NaN               | http://us.imdb.com/M/title-exact?Toy%20Story%2... | 0       | 0      | ... | 0        | 0   | 0       |
 | 2       | GoldenEye (1995)   | 01-Jan-1995 | NaN               | http://us.imdb.com/M/title-exact?GoldenEye%20(... | 0       | 1      | ... | 1        | 0   | 0       |
 
   - u.user: contém as informações do usuário, tais como: user_id; idade; sexo; ocupação; zip_code
+
 | user_id | age | gender | occupation  | zip_code |
 |---------|-----|--------|------------|----------|
 | 1       | 24  | M      | technician | 85711    |
