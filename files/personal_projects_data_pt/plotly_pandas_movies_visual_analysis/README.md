@@ -52,22 +52,26 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - u.user (usuários)
   - Os dois dados categóricos encontrados foram: sexo e ocupação
   - A imagem abaixo mostra as informações visuais sobre esses itens
+
 ![Variáveis categóricas - USER](users_categorical_pt.png)
 - u.data (Avaliação)
   - Os únicos dados categóricos considerados importantes para apresentar um gráfico neste momento foram: rating (avaliação)
   - Os IDs de usuários e filmes também são dados categóricos. Seria possível agrupá-los por filme ou por usuários. Isso permitiria uma observação como: Escolha um único usuário e veja os filmes que ele avaliou. Essa análise não foi feita no momento.
   - A imagem abaixo mostra as informações visuais sobre a classificação
+
 ![Variáveis categóricas - DATA](data_categorical_pt.png)
 - u.item (informações de filmes)
   - Para estes dados, os dados categóricos identificados de valor demonstrativo foram do gênero filme
   - Um único filme pode conter um ou mais gêneros
   - A imagem abaixo mostra as informações visuais referentes ao gênero
+
 ![Variáveis categóricas - ITEM](item_categorical_pt.png)
 
 ### Representação Visual das variáveis numéricas
 - Nesta fase, foram obtidos os dados estatísticos para variáveis numéricas.
 - Esses valores foram: máximo, mínimo, média, mediana e desvio padrão
 - A imagem abaixo mostra as informações estatísticas relativas para: idade (informação do usuário); classificação (informação dos dados)
+
 ![Variáveis numéricas](numerical_information_pt.png)
 
 ### Criação de gráficos temporais relacionados aos dados
@@ -75,6 +79,7 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - O primeiro gráfico representa o lançamento de filmes, começando em 1922 e terminando em 1998
 - O segundo gráfico representa o lançamento de filmes por gênero, começando em 1922 e terminando em 1998
 - A partir do segundo gráfico é possível visualizar um enorme aumento na seção Drama seguido pela Comédia, em comparação com as demais, principalmente após 1992
+
 ![Gráfico temporal - gênero usuário](time_graph_movies_pt.png)
 ![Gráfico temporal - gênero filme](time_graph_movies_genre_pt.png)
 
@@ -84,6 +89,7 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - O segundo gráfico analisou as avaliações dadas por gênero de filme
 - Em conclusão, a média de avaliações entre homens e mulheres foi muito semelhante, com as mulheres dando mais notas 1 e 5, sendo o homem o principal responsável pelas outras.
 - Em relação ao gênero de filme, as avaliações seguem um padrão relacionado à quantidade total de cada gênero que existe. Mesmo assim, alguns aspectos são interessantes: Há mais filmes de Drama do que de Comédia, entretanto há mais filmes de Comédia com 1 e 2 notas, em comparação com o Drama.
+
 ![Avaliações - gênero usuário](rating_gender_pt.png)
 ![Avaliações - gênero filme](rating_genre_pt.png)
 
