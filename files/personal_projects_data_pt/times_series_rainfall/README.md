@@ -15,7 +15,7 @@
 O desenvolvimento do projeto pode ser segmentado em três partes:
 1. Carregamento dos Dados
 2. Pré-Processamento dos Dados
-3. Desenvolvimento do Modelo
+3. Desenvolvimento dos Modelos
 
 ## Carregamento dos Dados
 - Para o projeto, os únicos dados necessários foram os coletados do site "APAC".
@@ -40,7 +40,7 @@ O desenvolvimento do projeto pode ser segmentado em três partes:
 
 ![Distribuição da Chuva depois de 1994, depois da modificação dos dados](rainfall_recife_nosaz_norm.png)
 
-## Desenvolvimento do Modelo
+## Desenvolvimento dos Modelos
 - Para este projeto, foram desenvolvidos três modelos, com a ideia de comparar os resultados entre eles e escolher o que melhor representasse os dados:
   1. Arima Model
   2. MLP Model
