@@ -23,3 +23,9 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 ## Apresentação em formato visual (usando Plotly) dos arquivos de Minessota
 
 ## Manipulação de DataFrame usando Pandas
+- Esta fase final focou em manipular os DataFrames trabalhando com os elementos da biblioteca Pandas
+- A primeira manipulação feita foi a geração de um novo DataFrame com apenas usuários "Masculino" (M) e "Estudante" (student), maiores de 20 anos.
+- Uma função foi aplicada no conjunto de dados USER:
+  -   student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]
+- A tabela abaixo apresenta um fragmento do novo DataFrame que foi gerado
+- A segunda manipulação foi feita para descobrir a quantidade de mulheres programadoras
