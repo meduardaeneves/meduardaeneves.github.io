@@ -1,7 +1,11 @@
-# Links de acesso:
-- [Link de acesso para o Google Colab](https://colab.research.google.com/drive/1cMTyBcTXk45QzPUiKYyYXvXIcCMlxvcX?usp=sharing)
+# Visão Computacional: Classificação de Imagens EUROSAT (Satélite Sentinel-2)
 
-# Descrição do Problema
+# Links de acesso:
+- [Link para acesso ao Google Colab](https://colab.research.google.com/drive/1cMTyBcTXk45QzPUiKYyYXvXIcCMlxvcX?usp=sharing)
+- Arquivo ".ipynb" para rodar o projeto: visao_computacional_projeto_final.ipynb
+- [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/computer_vision_eurosatimg/)
+
+# Objetivos do Projeto
 
 - O projeto tem como finalizade desenvolver um modelo de aprendizagem de máquina cujo objetivo é realizar classificação de imagens satélite do tipo RGB.
 - As imagens foram coletadas através de um [Link do Kaggle](https://www.kaggle.com/datasets/apollo2506/eurosat-dataset/data) que contém um conjunto de 27.000 imagens satélites, EuroSat Dataset,com um GSD de 10m, coletadas pelo Satélite Snetinel-2
@@ -13,12 +17,13 @@
     - Treinamento: Cerca de 19.000 imagens;
     - Validação/Teste: Cerca de 8.000 imagens.
 
-# Descrição da Técnica escolhida para a Solução do problema
+# Desenvolvimento do Projeto
 
-Para solucionar o problema em questão, este projeto optou por fragmentar a o desenvolvimento técnico em três partes:
+Para solucionar o problema em questão, este projeto optou por fragmentar o desenvolvimento técnico em três partes:
 1. Carregamento dos Dados: Carregados os Metadados e as Imagens
 2. Pré-Processamento dos Dados
-3. Modelagem do Modelo
+3. Desenvolvimento dos Modelos
+
 ## Carregamento dos Dados
 Depois de realizado o carregamento dos dados, observou-se que as 27000 imagens eram separadas em 10 classes:
 
