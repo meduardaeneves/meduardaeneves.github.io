@@ -64,10 +64,39 @@ categories: personal-projects
     <ul>
       <li>For the project, the only data necessary were the three mentined before in the "Project Goal" section</li>  
       <li>The data contains users rating related to a specific type of movie. Which are included into the three .csv files. The analysis made area related to the specification of each file and integration between them.</li>  
+      <li>In each description there is an example of the data</li>  
       <li>
         Data Description:
         <ul>
-          <li>u.data: contains the relation between user, movie and the rate given, such as: user_id; movie_id; rating; timestamp</li>
+          <li>u.data: contains the relation between user, movie and the rate given, such as: user_id; movie_id; rating; timestamp
+            <table>
+              <thead>
+                  <tr>
+                      <th>user_id</th>
+                      <th>age</th>
+                      <th>gender</th>
+                      <th>occupation</th>
+                      <th>zip_code</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>1</td>
+                      <td>24</td>
+                      <td>M</td>
+                      <td>technician</td>
+                      <td>85711</td>
+                  </tr>
+                  <tr>
+                      <td>2</td>
+                      <td>53</td>
+                      <td>F</td>
+                      <td>other</td>
+                      <td>94043</td>
+                  </tr>
+              </tbody>
+            </table>
+          </li>
           <li>u.item: contains movies informations, such as: movie_id; movie_title; release_date; video_release_date; IMDb_URL; movie's genre</li>
           <li>u.user: contains the users informations, such as: user_id; age; gender; occupation; zip_code</li>
         </ul>
@@ -194,26 +223,27 @@ categories: personal-projects
   <table>
     <thead>
         <tr>
-            <th>Metrics</th>
-            <th>TOP-1</th>
-            <th>TOP-5</th>
+            <th>user_id</th>
+            <th>age</th>
+            <th>gender</th>
+            <th>occupation</th>
+            <th>zip_code</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Total Accuracy</td>
-            <td>0.73</td>
-            <td>0.99</td>
+            <td>1</td>
+            <td>24</td>
+            <td>M</td>
+            <td>technician</td>
+            <td>85711</td>
         </tr>
         <tr>
-            <td>Total Precision</td>
-            <td>0.69</td>
-            <td>0.99</td>
-        </tr>
-        <tr>
-            <td>Total Recall</td>
-            <td>0.69</td>
-            <td>0.99</td>
+            <td>2</td>
+            <td>53</td>
+            <td>F</td>
+            <td>other</td>
+            <td>94043</td>
         </tr>
     </tbody>
   </table>
