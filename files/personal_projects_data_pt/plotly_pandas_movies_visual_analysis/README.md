@@ -27,7 +27,13 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - A primeira manipulação feita foi a geração de um novo DataFrame com apenas usuários "Masculino" (M) e "Estudante" (student), maiores de 20 anos.
   - Uma função foi aplicada no conjunto de dados USER:
     -   student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]
-  - A tabela abaixo apresenta um fragmento do novo DataFrame que foi gerado
+  - A tabela abaixo apresenta uma fração do novo DataFrame que foi gerado
+| user_id | age | gender | occupation | zip_code |
+|---------|-----|--------|------------|----------|
+| 9       | 29  | M      | student    | 01002    |
+| 33      | 23  | M      | student    | 27510    |
+| 73      | 24  | M      | student    | 41850    |
+
 - A segunda manipulação foi feita para descobrir a quantidade de mulheres programadoras que existem
   - Uma função foi aplicada no conjunto de dados USER:
     - programmer_F_users = users[(users.occupation == "programmer")&(users.gender == "F")]
