@@ -51,20 +51,49 @@ categories: personal-projects
   <h3>Data Load</h3>
   <div>
     <ul>
-      <li>For the project, the only data necessary was the one collected from "APAC's" website.</li>  
+      <li>For the project, the only data necessary was the one collected from "Mercado Livre" API.</li>  
+      <li>The data was then converted in a ".csv" format</li>  
       <li>
         Data Description:
         <ul>
-          <li>Spreadsheet in ". csv" format that brings rainfall information, in the monthly style.</li>
-          <li>The first year observed is 1970 and the last, 2021</li>
+          <li>The spreadsheet in ".csv" contains 1255 lines with two columns.</li>
+          <li>The column named "content" contains the person's opinion about the product in text format</li>
+          <li>The column named "rate" contains the person's rate given to the product. (It has a range form 1 - 5)</li>
         </ul>
       </li>
-      <li>Below is presented a graph showing in the rain distribution through the years</li>
+      <li>After that, it is possible to analyse the data and count the amount of different rate that exists. The table below presents this results and it is possible to observe that the data is not uniform distributed by rate, the extrem values (1 and 5) have higher presence.</li>
     </ul>
   </div>
-  <div style='display:grid; place-items:center'>
-    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/times_series_rainfall/rainfall_recife.png" alt="Final Mosaic" style="width: 110%; height: auto;">
-  </div>
+  <table>
+    <thead>
+        <tr>
+            <th>Rate</th>
+            <th>Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>234</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>160</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>181</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>595</td>
+        </tr>
+    </tbody>
+  </table>
  
   <h3>Text Processing</h3>
   <div>
