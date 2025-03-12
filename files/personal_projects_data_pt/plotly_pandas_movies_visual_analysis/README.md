@@ -72,6 +72,7 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
   - Uma função foi aplicada no conjunto de dados USER:
     -   student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]
   - A tabela abaixo apresenta uma fração do novo DataFrame que foi gerado
+
 | user_id | age | gender | occupation | zip_code |
 |---------|-----|--------|------------|----------|
 | 9       | 29  | M      | student    | 01002    |
