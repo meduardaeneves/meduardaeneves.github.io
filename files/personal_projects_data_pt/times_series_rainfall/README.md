@@ -71,6 +71,14 @@ O desenvolvimento do projeto pode ser segmentado em três partes:
 # Resultados
 ## Comparação entre os três modelos
 - Abaixo, apresenta-se uma tabela com os resultados das métricas obtidas pelos modelos
+
+| Models        | RMSE validation | RMSE test | MAE validation | MAE test | R2 validation | R2 test |
+|--------------|----------------|-----------|---------------|---------|--------------|---------|
+| ARIMA (0,0,2) | 113.89         | 104.12    | 75.79        | 72.08   | -0.0603      | 0.4723  |
+| MLP          | 108.53         | 100.38    | 71.96        | 69.80   | 0.1235       | 0.4550  |
+| LSTM         | 110.06         | 102.46    | 73.41        | 71.38   | 0.0591       | 0.4234  |
+
+
 - Abaixo, são apresentados, lado a lado, os gráficos gerados por cada modelo
   
 ![Gráficos de resultado](Complete_results_pt.png)
