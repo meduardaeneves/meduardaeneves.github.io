@@ -1,46 +1,29 @@
-# Projeto de Visão Computacional
-- Aluna: Maria Eduarda Esteves Neves
+#Séries Temporais: Previsão de Índices Pluviométricos na cidade do Recife
 
 # Links de acesso:
-- [Link de acesso para o Google Colab](https://colab.research.google.com/drive/1sbTFWKX99DELE1AqoaeNGn7PLoekt1GX?usp=sharing)
+- [Link de acesso para o Google Colab](https://colab.research.google.com/drive/1okAfjRb37y3Vv_tFgDdIwS0JD0KNr0mn?usp=sharing)
+- Arquivo ".ipynb" para rodar o projeto: projeto_final_st_mariaEduardaNeves.ipynb
 
 # Descrição do Problema
 
-- O projeto tem como finalizade desenvolver um modelo de aprendizagem de máquina cujo objetivo é realizar classificação de imagens satélite do tipo RGB.
-- As imagens foram coletadas através de um [Link do Kaggle](https://www.kaggle.com/datasets/apollo2506/eurosat-dataset/data) que contém um conjunto de 27.000 imagens satélites, EuroSat Dataset,com um GSD de 10m, coletadas pelo Satélite Snetinel-2
-- Descrição da base de dados:
-  - Dimensoes das imagens: 64x64 pixels com canais RGB;
-  - Numero de classes: 10 classes de cobertura e uso do
-  solo;
-  - Tamanho do conjunto de dados: 27.000 imagens:
-    - Treinamento: Cerca de 19.000 imagens;
-    - Validação/Teste: Cerca de 8.000 imagens.
+- O projeto tem como objetivo desenvolver um Modelo de Aprendizado de Máquina que visa prever a precipitação na cidade do Recife, Pernambuco - Brasil
+- Os dados foram coletados através da [APAC](http://old.apac.pe.gov.br/meteorologia/monitoramento-pluvio.php#), que retorna os dados de uma estação pluviométrica, denominada "Recife (Várzea)", localizada na região metropolitana do Recife.
 
-# Descrição da Técnica escolhida para a Solução do problema
+# Desenvolvimento do Projeto
 
-Para solucionar o problema em questão, este projeto optou por fragmentar a o desenvolvimento técnico em três partes:
-1. Carregamento dos Dados: Carregados os Metadados e as Imagens
+O desenvolvimento do projeto pode ser segmentado em três partes:
+1. Carregamento dos Dados
 2. Pré-Processamento dos Dados
-3. Modelagem do Modelo
+3. Desenvolvimento do Modelo
+
 ## Carregamento dos Dados
-Depois de realizado o carregamento dos dados, observou-se que as 27000 imagens eram separadas em 10 classes:
+- Para o projeto, os únicos dados necessários foram os coletados do site "APAC".
+- Descrição dos dados:
+  - Planilha em formato ". csv" que traz informações de chuvas, formato mensal.
+  - O primeiro ano observado é 1970 e o último, 2021
+- Abaixo é apresentado um gráfico mostrando a distribuição da chuva ao longo dos anos
 
-![Distribuição das Classes](distribuicao_classes.png)
-
-  - Classe: Pasture; Quantidade de Imagens: 2000
-  - Classe: Residential; Quantidade de Imagens: 3000
-  - Classe: Industrial; Quantidade de Imagens: 2500
-  - Classe: SeaLake; Quantidade de Imagens: 3000
-  - Classe: HerbaceousVegetation; Quantidade de Imagens: 3000
-  - Classe: PermanentCrop; Quantidade de Imagens: 2500
-  - Classe: Highway; Quantidade de Imagens: 2500
-  - Classe: River; Quantidade de Imagens: 2500
-  - Classe: Forest; Quantidade de Imagens: 3000
-  - Classe: AnnualCrop; Quantidade de Imagens: 3000
-
-Abaixo está apresentado um mosaíco com 4 exemplos para cada uma das classes.
-
-![Mosaico Com exemplo das diferentes imagens](mosaico_final.png)
+![Distribuição da Chuva](rainfall_recife.png)
 
 ## Pré-Processamento dos dados:
 O pré-processamento dos dados foi dividido em algumas etapas:
