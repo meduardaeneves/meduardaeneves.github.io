@@ -47,6 +47,14 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 - Para melhor analisar os dados, nas seguintes etapas, os diferentes arquivos .csv serão unidos pelo ID do usuário ou filme
 
 ## Apresentação em formato visual (usando Plotly) dos arquivos de Minessota
+### Representação Visual das variáveis categóricas
+
+### Representação Visual das variáveis numéricas
+
+### Criação de gráficos temporais relacionados aos dados
+
+### Análise das avaliações (por gênero do usuário e do filme)
+
 
 ## Manipulação de DataFrame usando Pandas
 - Esta fase final focou em manipular os DataFrames trabalhando com os elementos da biblioteca Pandas
