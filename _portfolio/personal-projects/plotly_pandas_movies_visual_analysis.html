@@ -322,41 +322,21 @@ categories: personal-projects
         </ul>
       </li>  
       <li>
-        Data Description:
+        The scond manipulation made was to discover the amount of female programmers
         <ul>
-          <li>u.data</li>
-          <li>u.item</li>
-          <li>u.user</li>
+          <li>A function was applyed into the USER dataset: programmer_F_users = users[(users.occupation == "programmer")&(users.gender == "F")]</li>
+          <li>It was found a total of 6 users that fit the criteria</li>
+        </ul>
+      </li>
+      <li>
+        The last manipulation made was to discover the amount of rating over 3
+        <ul>
+          <li>A function was applyed into the DATA dataset: over3_data = data[data.rating > 3]</li>
+          <li>Results per rating (4 and 5): Rating 4 with 34174 units; Rating 4 with 21201 units</li>
+          <li>It was found a total of 55375 ratings over 3</li>
         </ul>
       </li>
     </ul>
   </div>
 
-  
-  <table>
-    <thead>
-        <tr>
-            <th>user_id</th>
-            <th>age</th>
-            <th>gender</th>
-            <th>occupation</th>
-            <th>zip_code</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>24</td>
-            <td>M</td>
-            <td>technician</td>
-            <td>85711</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>53</td>
-            <td>F</td>
-            <td>other</td>
-            <td>94043</td>
-        </tr>
-    </tbody>
-  </table>
+
