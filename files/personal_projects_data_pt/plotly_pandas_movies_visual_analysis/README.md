@@ -48,14 +48,26 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 
 ## Apresentação em formato visual (usando Plotly) dos arquivos de Minessota
 ### Representação Visual das variáveis categóricas
+- Cada um dos três dados separados (usuários, dados e item) tem diferentes itens categóricos, portanto, foi feita uma análise separando uns dos outros
 - u.user (usuários)
+  - Os dois dados categóricos encontrados foram: sexo e ocupação
+  - A imagem abaixo mostra as informações visuais sobre esses itens
 ![Variáveis categóricas - USER](users_categorical_en.png)
 - u.data (Avaliação)
+  - Os únicos dados categóricos considerados importantes para apresentar um gráfico neste momento foram: rating (avaliação)
+  - Os IDs de usuários e filmes também são dados categóricos. Seria possível agrupá-los por filme ou por usuários. Isso permitiria uma observação como: Escolha um único usuário e veja os filmes que ele avaliou. Essa análise não foi feita no momento.
+  - A imagem abaixo mostra as informações visuais sobre a classificação
 ![Variáveis categóricas - DATA](data_categorical_en.png)
 - u.item (informações de filmes)
+  - Para estes dados, os dados categóricos identificados de valor demonstrativo foram do gênero filme
+  - Um único filme pode conter um ou mais gêneros
+  - A imagem abaixo mostra as informações visuais referentes ao gênero
 ![Variáveis categóricas - ITEM](item_categorical_en.png)
 
 ### Representação Visual das variáveis numéricas
+- Nesta fase, foram obtidos os dados estatísticos para variáveis numéricas.
+- Esses valores foram: máximo, mínimo, média, mediana e desvio padrão
+- A imagem abaixo mostra as informações estatísticas relativas para: idade (informação do usuário); classificação (informação dos dados)
 ![Variáveis numéricas](numerical_information_en.png)
 
 ### Criação de gráficos temporais relacionados aos dados
