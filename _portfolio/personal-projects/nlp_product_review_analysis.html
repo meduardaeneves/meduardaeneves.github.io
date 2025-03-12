@@ -202,13 +202,13 @@ categories: personal-projects
   <h4>SVM + EMBEDDINGS</h4>
   <div>
     <ul>
-      <li>Its a model that relies on the "weight" of and element. It considers how many times it appears in a sentence</li>  
-      <li>It does not keeps track of elements order</li>  
-      <li>The amount of columns in the dataframe is going to be equal to the vocabulary's size</li>  
+      <li>In this model, each word is represented by a dense vector (for this project, the size chosen was 75)</li>  
+      <li>It was used the "Word2Vec" python library to generate the vectors</li>  
+      <li>The senteces were standardized, with zero padding, so that all of them had the dimension equal the one with the most amount of words (108)</li>  
       <li>Model chosen and its parameters (Found with GridSearch's help):
         <ul>
           <li>SVC: Support Vector Classifier</li>
-          <li>Parameters -- C: 100; Gamma: 0.1; Kernel: RBF</li>
+          <li>Parameters -- C: 100; Gamma: scale; Kernel: Linear</li>
           <li>Test group represented 20% of the data</li>
         </ul>
       </li>  
