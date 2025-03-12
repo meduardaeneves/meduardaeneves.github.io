@@ -25,7 +25,15 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 ## Manipulação de DataFrame usando Pandas
 - Esta fase final focou em manipular os DataFrames trabalhando com os elementos da biblioteca Pandas
 - A primeira manipulação feita foi a geração de um novo DataFrame com apenas usuários "Masculino" (M) e "Estudante" (student), maiores de 20 anos.
-- Uma função foi aplicada no conjunto de dados USER:
-  -   student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]
-- A tabela abaixo apresenta um fragmento do novo DataFrame que foi gerado
-- A segunda manipulação foi feita para descobrir a quantidade de mulheres programadoras
+  - Uma função foi aplicada no conjunto de dados USER:
+    -   student_users = users[(users.age > 20)&(users.occupation == "student")&(users.gender == "M")]
+  - A tabela abaixo apresenta um fragmento do novo DataFrame que foi gerado
+- A segunda manipulação foi feita para descobrir a quantidade de mulheres programadoras que existem
+  - Uma função foi aplicada no conjunto de dados USER:
+    - programmer_F_users = users[(users.occupation == "programmer")&(users.gender == "F")]
+  -  Foi encontrado um total de 6 usuários que se encaixam nos critérios
+- A última manipulação foi feita para descobrir a quantidade de filmes com classificação acima de 3
+  - Uma função foi aplicada no conjunto de dados DATA:
+    - over3_data = data[data.rating > 3]
+  - Resultados por classificação (4 e 5): Classificação 4 com 34.174 unidades; Classificação 5 com 21.201 unidades
+  - Foram encontrados 55.375 filmes com avaliações acima de 3
