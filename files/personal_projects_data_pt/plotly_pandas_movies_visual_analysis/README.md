@@ -48,13 +48,23 @@ O desenvolvimento técnico deste projeto foi dividido em Carregamento dos Dados,
 
 ## Apresentação em formato visual (usando Plotly) dos arquivos de Minessota
 ### Representação Visual das variáveis categóricas
+- u.user (usuários)
+![Variáveis categóricas - USER](users_categorical_en.png)
+- u.data (Avaliação)
+![Variáveis categóricas - DATA](data_categorical_en.png)
+- u.item (informações de filmes)
+![Variáveis categóricas - ITEM](item_categorical_en.png)
 
 ### Representação Visual das variáveis numéricas
+![Variáveis numéricas](numerical_information_en.png)
 
 ### Criação de gráficos temporais relacionados aos dados
+![Gráfico temporal - gênero usuário](time_graph_movies_en.png)
+![Gráfico temporal - gênero filme](time_graph_movies_genre_en.png)
 
 ### Análise das avaliações (por gênero do usuário e do filme)
-
+![Avaliações - gênero usuário](rating_gender_en.png)
+![Avaliações - gênero filme](rating_genre_en.png)
 
 ## Manipulação de DataFrame usando Pandas
 - Esta fase final focou em manipular os DataFrames trabalhando com os elementos da biblioteca Pandas
