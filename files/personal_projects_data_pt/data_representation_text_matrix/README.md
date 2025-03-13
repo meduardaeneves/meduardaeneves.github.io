@@ -51,4 +51,16 @@
 &nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 1322 1322 ... 1322 1322 1322]]</p>
 
 ## Conversão da matriz numérica para texto 
+- O processo para converter a matriz numérica no texto original é o inverso do apresentado no último tópico
+- O "conversor texto-número" é usado para transformar os valores numéricos da matriz em palavras
+- Depois disso, uma matriz de texto é obtida juntando os elementos na mesma linha, adicionando espaços
+- Uma vez que cada linha nesta matriz é uma linha do texto, a conversão final é feita, juntando todas as linhas.
+- A fração do resultado final é apresentada abaixo. Observa-se que é igual ao texto demonstrado no início do projeto.
+
+"De motu Circulari Fluidorum.
+
+ Hypothesis.
+
+ Resistentiam, quæ oritur ex defectu lubricitatis partium Fluidi, cæteris paribus, proportionalem esse 
+ velocitati, qua partes Fluidi separantur ab invicem."
 
