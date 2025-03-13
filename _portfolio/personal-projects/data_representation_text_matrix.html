@@ -71,7 +71,23 @@ categories: personal-projects
   <h3>Text to matrix conversion</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The idea was to convert the text into matrix where its amount of lines and columns depends on the text structure.
+        <ul>
+          <li>Each line in the text is a line in the matrix</li>
+          <li>The amount of columns were defined by the line that has the most amount of words.</li>
+          <li>The lines that had fewer words, were be completed with the text "None", as many times as necessary, untill it had the same amount of words as the longest sentence.</li>
+          <li>After that, there was a text matrix, but still with words and not numbers</li>
+        </ul>
+      </li>
+      <li>Each word presented in the text vocabulary received a numerical value, creating a "conversion matrix"</li>
+      <li>In possesion of the conversion matrix and the text matrix it was possible to create a new numerical matrix, that represented the text</li>
+      <li>Below it is a representation of the matrix and some informations regarding the numbers used to convert the text and the words related to it:
+        <ul>
+          <li>Total of words found in the text: 3303</li>
+          <li>Total vocabulary found in the text: 1322</li>
+          <li>Example of text - number conversion: [(1, ''), (2, 'detur'), (3, 'quiescentibus,'), (4, 'motus'), ..., (1125, 'De'),...]</li>
+        </ul> 
+      </li>
     </ul>
   </div>
  
