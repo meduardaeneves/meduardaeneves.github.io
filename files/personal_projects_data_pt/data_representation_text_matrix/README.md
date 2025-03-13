@@ -17,6 +17,7 @@
 ## Carregamento dos Dados
 - O texto .txt foi fornecido durante o curso de Pós-graduação e pode ser visto no repositório do projeto.
 - Abaixo é possível ler suas frases iniciais:
+
 "De motu Circulari Fluidorum.
 
  Hypothesis.
