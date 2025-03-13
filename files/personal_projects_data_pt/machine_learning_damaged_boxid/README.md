@@ -1,14 +1,14 @@
 # Machine Learning: Identificação de Emabalagens Danificadas
 
 # Links de acesso:
-- [Link de acesso para o Google Colab](xx)
-- [Link de acesso para o Portfólio](xx)
-- Download do arquivo para conseguir executar o projeto:
+- [Link para acesso ao Google Colab](xx)
+- Arquivo ".ipynb" para rodar o projeto: XXX.Entretando, para conseguir executar o projeto, é necessário executar um pequeno processo:
     - Descompactar a pasta dataset-desafio
     - Adicionar o arquivo do colab na pasta dataset-desafio
     - adicionar a pasta dataset-desafio ao google drive, dentro da pasta:
         - gdrive/MyDrive/Colab Notebooks
     - Dentro da pasta detaset-desafioterá uma pasta chamada dataset-desafio-MEduarda que vai conter todos os resultados apresentados quando o programa foi rodado por mim, como por exemplo, as imagens geradas pelo augmentation, dentro de suas respectivas pastas e os checkpoints salvos.
+- [Link de acesso para o portfólio em Inglês](x)
 
 # Objetivos do projeto
 - O objetivo do projeto desenvolver modelos de aprendizado profundo cujo objetivo é identificar e classificar pacotes danificados
