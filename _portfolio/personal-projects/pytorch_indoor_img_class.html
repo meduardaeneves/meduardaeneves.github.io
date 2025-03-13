@@ -48,11 +48,11 @@ categories: personal-projects
   <div>
     <ul>
       <li>
-        The technical development of this project was divided into XXXX phases:
+        The technical development of this project was divided into three phases:
         <ul>
           <li>Data Load</li>
           <li>Pre-processing data</li>
-          <li>Model Development</li>
+          <li>Pytorch Model application</li>
         </ul>
       </li>  
     </ul>
@@ -61,7 +61,6 @@ categories: personal-projects
   <h3>Data Load</h3>
   <div>
     <ul>
-      <li></li>  
       <li>
         The data was donwloaded directly from the MIT website, using specific codes, withoud the need to download it in the computer:
         <ul>
@@ -81,11 +80,22 @@ categories: personal-projects
   <h3>Pre-processing data</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The model used to train the data is a pre-trained model, but before applying it, there was some pre-processing modifications applyed to the data.</li>  
+      <li>It was used pytorch transforms to implement DataAugmentation, in order to have more variations of images in a same category</li>  
+      <li>The dataset was fragmented into training and test, were the test received 25% of the total data.</li>  
+      <li>After that, it is possible to observe the amount of different categories that exists in each training and test phase</li>  
+    </ul>
+  </div>
+  <div style='display:grid; place-items:center'>
+    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/pytorch_indoor_img_class/categories_distribution.png" alt="Final Mosaic" style="width: 50%; height: auto;">
+  </div>
+  <div>
+    <ul>
+      <li>It is possible to observe that the categories are "unballenced, there are ones that have much more images, compared to others.It is possible that the ones with fewer images will present difficulty in the classification phase."</li>  
     </ul>
   </div>
  
-  <h3>Model Development</h3>
+  <h3>Pytorch Model application</h3>
   <div>
     <ul>
       <li>X</li>  
