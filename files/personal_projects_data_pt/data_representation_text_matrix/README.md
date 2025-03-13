@@ -42,13 +42,13 @@
 
 - Representação da matriz numérica criada:
 
-[[1125   434   297 ... 1322 1322 1322]<br>
- [1169 1322 1322 ... 1322 1322 1322]<br>
- [  861 1322 1322 ... 1322 1322 1322]<br>
- ...<br>
- [1040 1322 1322 ... 1322 1322 1322]<br>
- [    25   763   231 ... 1187   541 1171]<br>
- [      1 1322 1322 ... 1322 1322 1322]]<br>
+<p>[[1125 &nbsp;&nbsp;434 &nbsp;&nbsp;297 ... 1322 1322 1322]<br>
+&nbsp;[1169 1322 1322 ... 1322 1322 1322]<br>
+&nbsp;[&nbsp;&nbsp;861 1322 1322 ... 1322 1322 1322]<br>
+&nbsp;...<br>
+&nbsp;[1040 1322 1322 ... 1322 1322 1322]<br>
+&nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;25 &nbsp;&nbsp;763 &nbsp;&nbsp;231 ... 1187 &nbsp;&nbsp;541 1171]<br>
+&nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 1322 1322 ... 1322 1322 1322]]</p>
 
 ## Conversão da matriz numérica para texto 
 
