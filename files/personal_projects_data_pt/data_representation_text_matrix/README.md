@@ -5,3 +5,5 @@
 - [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/data_representation_text_matrix/)
 
 # Objetivos do Projeto
+- O projeto tem como objetivo desenvolver uma matriz numérica a partir de um texto em txt . 
+- Após o desenvolvimento da matriz, o projeto também a converte de volta para o formato do texto original
