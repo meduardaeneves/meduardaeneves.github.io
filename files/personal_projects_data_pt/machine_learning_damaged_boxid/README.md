@@ -29,8 +29,6 @@ Para solucionar o problema em questão, este projeto optou por fragmentar a o de
     - A pasta de "Interpretabilidade" é a pasta que contém os arquivos de teste. Contém um total de 20 imagens do tipo danificadas e 20 do tipo intactas, sendo metade do tipo "top" e metade do tipo "side"
     - As pastas "DAMAGE" e "INTACT" contém as imagens de treinamento referente às caixas danificadas e intactas, respectivamente. São 180 imagens de cada tipo, sendo 90 "top" e 90 "side" em ambos os casos.
 
-![Distribuição das classes](winecellar_example.png)
-
 ## Pré-Processamento dos Dados
 - Os modelos utilizados para treinar as imagens são pré-treinados, entretanto, antes de serem aplicados, é necessário realizar pré-processamento nas imagens
 - Foi utilizado o "Pytorch transformers" para aplicar DataAugmentation no DataSet, isso fez com que as imagens, dentro de uma mesma classe, tivessem uma maior variação, permitindo melhor classificação
