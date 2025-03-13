@@ -26,5 +26,26 @@
  velocitati, qua partes Fluidi separantur ab invicem."
 
 ## Conversão do texto para matriz numérica
+- A ideia é converter o texto em matriz onde sua quantidade de linhas e colunas depende da estrutura do texto.
+ - Cada linha no texto é uma linha na matriz
+ - A quantidade de colunas foi definida pela linha que tem a maior quantidade de palavras.
+ - As linhas que tinham menos palavras, foram completadas com o texto "None", quantas vezes fosse necessário, até que tivesse a mesma quantidade de palavras da frase mais longa.
+ - Depois disso, havia uma matriz de texto, mas ainda com palavras e não números
+- Cada palavra apresentada no vocabulário do texto recebeu um valor numérico, criando uma "matriz de conversão"
+- Na posse do elemento de conversão e da matriz de texto, foi possível criar uma nova matriz numérica, que representava o texto
+- Abaixo está uma representação da matriz e algumas informações sobre os números usados para converter o texto e as palavras relacionadas a ele:
+ - Total de palavras encontradas no texto: 3303
+ - Vocabulário total encontrado no texto: 1322
+ - Exemplo de texto - conversão de número:
+[..., (3, 'quiescentibus,'), (4, 'motus'), ...,(297, 'Circulari'),..., (434, 'motu'),..., (1125, 'De'),...]
+- Representação da matriz numérica criada:
+[[1125   434   297 ... 1322 1322 1322]
+ [1169 1322 1322 ... 1322 1322 1322]
+ [  861 1322 1322 ... 1322 1322 1322]
+ ...
+ [1040 1322 1322 ... 1322 1322 1322]
+ [    25   763   231 ... 1187   541 1171]
+ [      1 1322 1322 ... 1322 1322 1322]]
+
 ## Conversão da matriz numérica para texto 
 
