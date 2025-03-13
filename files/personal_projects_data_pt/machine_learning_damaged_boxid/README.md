@@ -16,7 +16,7 @@
 - Os dados foram disponibilizados durante o curso de pós-graduação e são imagens que foram geradas artificialmente
 
 # Descrição da Técnica escolhida para a Solução do problema
-Para solucionar o problema em questão, este projeto optou por fragmentar a o desenvolvimento técnico em XXX partes:
+Para solucionar o problema em questão, este projeto optou por fragmentar a o desenvolvimento técnico em quatro partes:
 1. Carregamento dos Dados:
 2. Pré-Processamento dos Dados
 3. Treinamento dos modelos
