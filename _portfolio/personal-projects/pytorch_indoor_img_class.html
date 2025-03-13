@@ -33,7 +33,7 @@ categories: personal-projects
 <body> 
   <p>This project was developed using ".ipynb" files that were written in Portuguese. Further versions in English will be updated soon.</p>
   <p>To access the project repository, with all it's files in Portuguese, click <a href='https://github.com/meduardaeneves/meduardaeneves.github.io/tree/master/files/personal_projects_data_pt/pytorch_indoor_img_class'>HERE</a></p>
-  <p>The ".ipynb" used to develop the project is called "projeto_final_st_mariaEduardaNeves.ipynb". You can also click onto the <a href='https://colab.research.google.com/drive/1UaoAY0KLnk6zYhZ-G_AA91OjfFtz4OZ-?usp=sharing'>Google Colaboratoy Link</a> for project visualization</p>
+  <p>The ".ipynb" used to develop the project is called "projeto_final_st_mariaEduardaNeves.ipynb". You can also click onto the <a href='https://colab.research.google.com/drive/1jj6spffyWsOssE5A6vTQb8d991EpFpRE?usp=sharing'>Google Colaboratoy Link</a> for project visualization</p>
   <p>This page will present, in English, the project's goal, the process used to develop it and the results.</p>
  
   <h2>Project Goal</h2>
@@ -83,6 +83,7 @@ categories: personal-projects
       <li>The model used to train the data is a pre-trained model, but before applying it, there was some pre-processing modifications applyed to the data.</li>  
       <li>It was used pytorch transforms to implement DataAugmentation, in order to have more variations of images in a same category</li>  
       <li>The dataset was fragmented into training and test, were the test received 25% of the total data.</li>  
+      <li>With the DataSet ready, it was created the train and test DataLoad items, they are the ones used by the model to execute the image classification.</li>  
       <li>After that, it is possible to observe, in the graph below, the amount of different categories that exists in each training and test phase</li>  
     </ul>
   </div>
@@ -98,71 +99,35 @@ categories: personal-projects
   <h3>Pytorch Model application</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>To start the process of classification it was used a pre-treined model called "Resnet 18D"</li>  
+      <li>This model was obtained through <a href='https://huggingface.co/docs/timm/index'>Timm's library</a></li>  
+      <li>After that, the model was trained for 10 epochs and each time the results were saved in order to obtain the best accuracy of all.</li>  
+      <li>The final model chosen was the one that presented the best accuracy of them all during the test phase</li>  
     </ul>
   </div>
 
   
   <h2>Results</h2>
-  
-  <h3>ARIMA MODEL</h3>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The best model presented the following results:
+        <ul>
+        <li>Training loss: 0.1856</li>  
+        <li>Test accuracy: 0.6804</li>  
+        <li>Test F1: 0.6758</li>  
+        </ul>
+      </li>
+      <li>The image below shows the confusion matrix for the results that were obtained</li>
     </ul>
   </div>
-  
-  <h3>MLP MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
+  <div style='display:grid; place-items:center'>
+    <img src="https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/personal_projects_data_pt/pytorch_indoor_img_class/confusion_matrix_pytorch.png" alt="Final Mosaic" style="width: 100%; height: auto;">
   </div>
-    
-  <h3>LSTM MODEL</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  
-  <h3>Compahison between three models</h3>
-  <div>
-    <ul>
-      <li>X</li>  
-    </ul>
-  </div>
-  <table>
-    <thead>
-        <tr>
-            <th>Metrics</th>
-            <th>TOP-1</th>
-            <th>TOP-5</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Total Accuracy</td>
-            <td>0.73</td>
-            <td>0.99</td>
-        </tr>
-        <tr>
-            <td>Total Precision</td>
-            <td>0.69</td>
-            <td>0.99</td>
-        </tr>
-        <tr>
-            <td>Total Recall</td>
-            <td>0.69</td>
-            <td>0.99</td>
-        </tr>
-    </tbody>
-  </table>
   
   <h2>Conclusion</h2>
   <div>
     <ul>
-      <li>X</li>  
+      <li>xxxxx</li>
     </ul>
   </div>
 </body>
