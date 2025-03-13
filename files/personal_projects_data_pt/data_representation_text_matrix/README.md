@@ -37,8 +37,11 @@
  - Total de palavras encontradas no texto: 3303
  - Vocabulário total encontrado no texto: 1322
  - Exemplo de texto - conversão de número:
+
 [..., (3, 'quiescentibus,'), (4, 'motus'), ...,(297, 'Circulari'),..., (434, 'motu'),..., (1125, 'De'),...]
+
 - Representação da matriz numérica criada:
+
 [[1125   434   297 ... 1322 1322 1322]
  [1169 1322 1322 ... 1322 1322 1322]
  [  861 1322 1322 ... 1322 1322 1322]
