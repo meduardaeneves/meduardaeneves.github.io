@@ -2,7 +2,7 @@
 
 # Links de acesso:
 - [Link para acesso ao Google Colab](xx)
-- Arquivo ".ipynb" para rodar o projeto: XXX.Entretando, para conseguir executar o projeto, é necessário executar um pequeno processo:
+- Arquivo ".ipynb" para rodar o projeto: XXX. Entretanto, para conseguir executar o projeto, é necessário executar um pequeno processo:
     - Descompactar a pasta dataset-desafio
     - Adicionar o arquivo do colab na pasta dataset-desafio
     - adicionar a pasta dataset-desafio ao google drive, dentro da pasta:
