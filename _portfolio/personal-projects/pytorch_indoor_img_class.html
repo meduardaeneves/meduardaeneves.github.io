@@ -40,7 +40,7 @@ categories: personal-projects
   <div>
     <ul>
       <li>The project has the goal to use Pytorch to the classification of indoor images. </li>
-      <li>The data was collected from a <a href='https://web.mit.edu/torralba/www/indoor.html'>MIT website</a></li>
+      <li>The data was collected from an <a href='https://web.mit.edu/torralba/www/indoor.html'>MIT website</a></li>
     </ul>
   </div>
  
@@ -62,14 +62,14 @@ categories: personal-projects
   <div>
     <ul>
       <li>
-        The data was donwloaded directly from the MIT website, using specific codes, withoud the need to download it in the computer:
+        The data was downloaded directly from the MIT website, using specific codes, without the need to download it on the computer:
         <ul>
-          <li>Download of the dataset: !wget http://groups.csail.mit.edu/vision/LabelMe/NewImages/indoorCVPR_09.tar</li>
+          <li>Code to download the dataset: !wget http://groups.csail.mit.edu/vision/LabelMe/NewImages/indoorCVPR_09.tar</li>
           <li>Images unpacking: !tar -xvf indoorCVPR_09.tar</li>
         </ul>
       </li>
-      <li>After this process the images were avaliable for download</li>
-      <li>The whole data contains 67 indoor categories and a total of 15620 images. The number of images varies across categories.</li>
+      <li>After this process, the images were available for download</li>
+      <li>The whole data contains 67 indoor categories, and a total of 15620 images. The number of images varies across categories.</li>
       <li>An example of the class "winecellar" can be seen below</li>
     </ul>
   </div>
@@ -80,10 +80,10 @@ categories: personal-projects
   <h3>Pre-processing data</h3>
   <div>
     <ul>
-      <li>The model used to train the data is a pre-trained model, but before applying it, there was some pre-processing modifications applyed to the data.</li>  
+      <li>The model used to train the data is a pre-trained model, but before applying it, there were some pre-processing modifications applied to the data.</li>  
       <li>It was used pytorch transforms to implement DataAugmentation, in order to have more variations of images in a same category</li>  
-      <li>The dataset was fragmented into training and test, were the test received 25% of the total data.</li>  
-      <li>With the DataSet ready, it was created the train and test DataLoad items, they are the ones used by the model to execute the image classification.</li>  
+      <li>The dataset was fragmented into training and test, where the test received 25% of the total data.</li>  
+      <li>Once the DataSet was ready, the train and test DataLoad items were created, they are the ones used by the model to execute the image classification.</li>  
       <li>After that, it is possible to observe, in the graph below, the amount of different categories that exists in each training and test phase</li>  
     </ul>
   </div>
@@ -92,14 +92,14 @@ categories: personal-projects
   </div>
   <div>
     <ul>
-      <li>It is possible to observe that the categories are "unballenced", there are ones that have much more images, compared to others.It is possible that the ones with fewer images will present difficulty in the classification phase.</li>  
+      <li>It is possible to observe that the categories are "unbalanced", there are ones that have many more images, compared to others. It is possible that the ones with fewer images will present difficulty in the classification phase.</li>
     </ul>
   </div>
  
   <h3>Pytorch Model application</h3>
   <div>
     <ul>
-      <li>To start the process of classification it was used a pre-treined model called "Resnet 18D"</li>  
+      <li>To start the process of classification it was used as a pre-trained model called "Resnet 18D"</li>  
       <li>This model was obtained through <a href='https://huggingface.co/docs/timm/index'>Timm's library</a></li>  
       <li>After that, the model was trained for 10 epochs and each time the results were saved in order to obtain the best accuracy of all.</li>  
       <li>The final model chosen was the one that presented the best accuracy of them all during the test phase</li>  
