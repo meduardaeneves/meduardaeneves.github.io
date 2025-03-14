@@ -79,7 +79,7 @@ Para solucionar o problema em questão, este projeto optou por fragmentar a o de
 ![bound-box damage top](bound_box_original_img_top_damage.png)
 ![bound-box intact top](bound_box_original_img_top_intact.png)
 
-- Foram feitos os mapadas de interpretabilidade para cada um dos casos existentes. Abaixo serão apresentados, para título de exemplo, somente aqueles do Modelo Resnet18 - top, damage e intact, respectivamente
+- Foram feitos os mapas de interpretabilidade para cada um dos casos existentes. Abaixo serão apresentados, para título de exemplo, somente aqueles do Modelo Resnet18 - top, damage e intact, respectivamente
 
 ![M.I resnet damage top](minterpret_resnet_img_top_damage.png)
 ![M.I resnet intact top](minterpret_resnet_img_top_intact.png)
