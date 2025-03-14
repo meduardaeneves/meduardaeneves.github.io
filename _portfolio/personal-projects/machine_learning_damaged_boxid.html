@@ -94,7 +94,14 @@ categories: personal-projects
     </ul>
   </div>
  
-  <h3>Model Development</h3>
+  <h3>Model Training</h3>
+  <div>
+    <ul>
+      <li>X</li>  
+    </ul>
+  </div>
+ 
+  <h3>Interpretability Map</h3>
   <div>
     <ul>
       <li>X</li>  
@@ -206,7 +213,21 @@ categories: personal-projects
   <h2>Conclusion</h2>
   <div>
     <ul>
-      <li>X</li>  
+      <li>The Resnet18 and SeresNet50 models presented better results for the classification of the data, obtaining greater accuracy and F1 value in the test phase, having greater ease to identify elements in the side position, compared to the top position elements</li>  
+      <li>Through the confusion matrix it is observed that, for the three models, it is easier to perform the classification when the element is in the side position. In addition, the greatest difficulty of classification occurred with the elements of label intact classifying them erroneously as damage</li>
+      <li>None of the models presented good results for top position images, as observed due to low accuracy. In addition, the Resnet and SeresNet models have a difficulty, in this case, to classify images of type damage, placing them as intact.</li>
+      <li> Regarding the Interpretability Map a similarity was observed between the models presented, in which the region of interest of the maps is closer to the bound-box in cases where the image is damaged. For the Intact ones, the region of interest if more different compared with the bound-box 
+        <ul>
+          <li>The models were consistent when presenting the results, regardless of the labels (damage or intact) or the seen side (top or side). While models 01 and 03 (ResNet18 and Se-ResNet50, respectively) were able to better identify the region of interest, fitting it better in the bound-box, model 02(DenseNet121) presented the worst result.</li>
+          <li>An error that was frequent in all models and even in the variation of side, top, was the influence of the background image, in some with a greater influence than anothers. Often the program has identified a region of interest outside the bound-box very strong, pointing out that it was giving some importance to the background of the image and not only to the box, as should be the ideal.</li>
+          <li> Those maps can be used to test new models in the future:
+            <ul>
+              <li>Those tests can be made with the exclusion of the images background, before the training, so that they will not have influence in the image's decision region</li>
+              <li>Besides that, DataAugmentation can be used to increase the amount of "INTACT" images since they were harder to identify</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </div>
 </body>
