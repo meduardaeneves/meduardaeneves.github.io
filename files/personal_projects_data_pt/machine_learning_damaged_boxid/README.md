@@ -3,7 +3,7 @@
 # Links de acesso:
 - [Link para acesso ao Google Colab](https://colab.research.google.com/drive/1HZ079HYk651VT-CmXUTyvnYFi3sfuTpk?usp=sharing)
 - Arquivo ".ipynb" para rodar o projeto: machine_learning_damaged_boxid.ipynb. Entretanto, para conseguir executar o projeto, é necessário executar um pequeno processo:
-    - Acessar o link do [Google Drive](x) para baixar o arquivo compactado "dataset-desafio"
+    - Acessar o link do [Google Drive](https://drive.google.com/drive/folders/1kZKwfRulBmuZpTAhdexpAxYxllFGRBKw?usp=sharing) para baixar o arquivo compactado "dataset-desafio"
     - Descompactar a pasta dataset-desafio
     - Adicionar o arquivo do colab na pasta dataset-desafio
     - adicionar a pasta dataset-desafio ao google drive, dentro da pasta:
