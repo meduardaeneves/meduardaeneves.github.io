@@ -7,7 +7,7 @@
     - Adicionar o arquivo do colab na pasta dataset-desafio
     - adicionar a pasta dataset-desafio ao google drive, dentro da pasta:
         - gdrive/MyDrive/Colab Notebooks
-    - Dentro da pasta detaset-desafioterá uma pasta chamada dataset-desafio-MEduarda que vai conter todos os resultados apresentados quando o programa foi rodado por mim, como por exemplo, as imagens geradas pelo augmentation, dentro de suas respectivas pastas e os checkpoints salvos.
+    - Dentro da pasta detaset-desafioterá uma pasta chamada dataset-desafio-MEduarda que vai conter todos os resultados apresentados quando o programa foi rodado por mim, como por exemplo, as imagens geradas pelo augmentation, dentro de suas respectivas pastas, e os checkpoints salvos.
 - [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/machine_learning_damaged_boxid/)
 
 # Objetivos do projeto
