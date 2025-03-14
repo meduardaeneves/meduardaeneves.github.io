@@ -11,7 +11,7 @@
 - [Link de acesso para o portfólio em Inglês](https://meduardaeneves.github.io/portfolio/personal-projects/machine_learning_damaged_boxid/)
 
 # Objetivos do projeto
-- O objetivo do projeto desenvolver modelos de aprendizado profundo cujo objetivo é identificar e classificar pacotes danificados
+- O objetivo do projeto desenvolver modelos de aprendizagem de máquina cujo objetivo é identificar e classificar pacotes danificados
 - Foram gerados três modelos e feita uma comparação entre eles, para identificar aquele que melhor atendeu o objetivo
 - Os dados foram disponibilizados durante o curso de pós-graduação e são imagens que foram geradas artificialmente
 
