@@ -80,7 +80,9 @@ Skills
 ======
 * Advanced Microsoft Office: Excel, Power Point, Word
 * AutoCAD and AutoCAD Civil 3D
+* GitHub
 * QGIS
+* Basic Front-End Knowledge: HTML and CSS 
 * Logical Thinking
 * Python and Libraries, such as Pandas and Plotly
 * Basic SQL
