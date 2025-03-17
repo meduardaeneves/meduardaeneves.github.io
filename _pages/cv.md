@@ -12,7 +12,7 @@ redirect_from:
 <p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
 
 <p>To access the portuguese version of this page <a href='https://meduardaeneves.github.io//cv_pt/'>Click Here</a>.</p>
-<p>It is possible to download the CV's PDF format in two languages: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral.pdf'>PORTUGUESE</a> and <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_Geral_en.pdf'>ENGLISH</a>. Click on the language you want to download.</p>
+<p>It is possible to download the CV's PDF format in two languages: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES.pdf'>PORTUGUESE</a> and <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_en.pdf'>ENGLISH</a>. Click on the language you want to download.</p>
 
 Education
 ======
