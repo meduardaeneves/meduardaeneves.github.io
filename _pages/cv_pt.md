@@ -79,7 +79,9 @@ Competências
 ======
 * Microsoft Office Avançado: Excel, Power Point; Word;
 * AutoCAD e AutoCAD Civil 3D;
+* GitHub
 * QGIS
+* Noções básicas de Front-End (HTML e CSS) 
 * Raciocínio Lógico
 * Python e bibliotecas relacionadas, como Pandas e Plotly
 * SQL Básico
