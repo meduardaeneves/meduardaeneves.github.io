@@ -83,6 +83,10 @@ Competências
 * QGIS
 * Noções básicas de Front-End (HTML e CSS) 
 * Raciocínio Lógico
+* Machine Learning
+  * Visão Computacional
+  * Desenvolvimento das habilidades durante a especialização em Deep Learning 
+
 * Python e bibliotecas relacionadas, como Pandas e Plotly
 * SQL Básico
   
