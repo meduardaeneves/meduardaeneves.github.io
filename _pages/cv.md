@@ -84,6 +84,9 @@ Skills
 * QGIS
 * Basic Front-End Knowledge: HTML and CSS 
 * Logical Thinking
+* Machine Learning
+  * Computer Vision
+  * Development of skills during the specialization in Deep Learning
 * Python and Libraries, such as Pandas and Plotly
 * Basic SQL
   
