@@ -73,8 +73,8 @@ Experiência Profissional
 
 **Estagiária de Engenharia Civil, Recife - PE - Brasil** 
 * Melo Gouveia Construção e Incorporação, agosto 2017 – agosto 2018
-  * Survaillance for a residential building construction
-  * Construction Management
+  * Monitoramento da construção de um imóvel residencial.
+  * Gerenciamento de pessoas e material da construção civil.
   
 Cursos e Certificados
 ======
