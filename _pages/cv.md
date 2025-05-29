@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
+<p>I am a Junior Developer transitioning from a career in Civil Engineering, where I built a strong analytical foundation. I am currently pursuing a specialization in Deep Learning at CIN‑UFPE, deepening my knowledge in artificial intelligence and programming. I have hands‑on experience developing projects with Python, including integrating external APIs for data collection and processing. Additionally, I have completed courses that provided me with knowledge of JavaScript, HTML, CSS, and SQL, expanding my capabilities in web development and data analysis.</p>
 
 <p>To access the portuguese version of this page <a href='https://meduardaeneves.github.io//cv_pt/'>Click Here</a>.</p>
 <p>It is possible to download the CV's PDF format in two languages: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES.pdf'>PORTUGUESE</a> and <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_en.pdf'>ENGLISH</a>. Click on the language you want to download.</p>
@@ -30,6 +30,20 @@ Education
 * Polytech Lille, September 2018 - June 2019
   * Fourth year of the Civil Engineering B.S. program
   * BRAFITEC excellence scholarship granted by a Brazilian corporation called CAPES.
+
+Skills
+======
+* Advanced Microsoft Office: Excel, Power Point, Word
+* AutoCAD and AutoCAD Civil 3D
+* GitHub
+* QGIS
+* Basic Front-End Knowledge: HTML and CSS 
+* Logical Thinking
+* Machine Learning
+  * Computer Vision
+  * Development of skills during the specialization in Deep Learning
+* Python and Libraries, such as Pandas and Plotly
+* Basic SQL
 
 Work experience
 ======
@@ -75,20 +89,6 @@ Courses and Certificates
 * Advanced 2016 Microsoft Excel ; BY: Fundação Bradesco ; Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
 * Project101x: Introduction to Project Management ; BY: AdelaideX ; Certificate No. 5f52fa5a98114052a891645a59b49615;  
 * Working on agile teams ; BY: DIO ; Certificate No. 3A5A21A4  
-  
-Skills
-======
-* Advanced Microsoft Office: Excel, Power Point, Word
-* AutoCAD and AutoCAD Civil 3D
-* GitHub
-* QGIS
-* Basic Front-End Knowledge: HTML and CSS 
-* Logical Thinking
-* Machine Learning
-  * Computer Vision
-  * Development of skills during the specialization in Deep Learning
-* Python and Libraries, such as Pandas and Plotly
-* Basic SQL
   
 Languages
 ======
