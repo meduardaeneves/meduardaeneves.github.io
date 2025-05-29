@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning.</p>
+<p>Sou Desenvolvedora Jr. em transição de carreira, com sólida base analítica adquirida na graduação em Engenharia Civil. Atualmente, curso especialização em Deep Learning pelo CIN‑UFPE, onde aprofundomeus conhecimentos em inteligência artificial e programação. Tenho experiência prática no desenvolvimento de projetos com Python, incluindo a integração com APIs para coleta e tratamento de dados externos. Além disso, realizei cursos complementares que me proporcionaram conhecimentos básicos em JavaScript, HTML, CSS e SQL, ampliando minha atuação no desenvolvimento web e na análise de dados.</p>
 
 <p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//cv/'>Clique aqui</a>.</p>
 <p>É possível baixar o PDF do currículo em duas línguas: <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES.pdf'>PORTUGUÊS</a> e <a href='https://raw.githubusercontent.com/meduardaeneves/meduardaeneves.github.io/master/files/cv_models/CV_Maria_Eduarda_ESTEVES_NEVES_en.pdf'>INGLÊS</a>. Clique na lingua que deseja baixar.</p>
@@ -30,6 +30,18 @@ Formação Acadêmica
 * Polytech Lille, setembro 2018 – junho 2019
   * Quarto ano do bacharelado de engenharia civil na Universidade Polytech Lille.
   * Bolsista de excelência através do programa BRAFITEC, Capes.
+
+Habilidades
+======
+* **Banco de Dados:** SQL Básico;
+* **Deep Learning:** Machine Learning; Visão Computacional
+* **Front‑End (Noção Básica):** JavaScript; HTML; CSS
+* **Linguagem Back‑end:** Python e bibliotecas relacionadas (Pandas; Plotly)
+* **Microsoft Office Avançado:** Excel, Power Point; Word
+* **Raciocínio Lógico:**
+* **Softwares de Engenharia:** AutoCAD; AutoCAD Civil 3D; QGIS
+* **Versionamento e colaboração de código:** Git e GitHub
+
 
 Experiência Profissional
 ======
@@ -74,22 +86,7 @@ Cursos e Certificados
 * Microsoft Excel 2016 Avançado ; Por: Fundação Bradesco ; Certificado No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
 * Project101x: Introdução ao gerenciamento de projetos ; Por: AdelaideX ; Certificado No. 5f52fa5a98114052a891645a59b49615;  
 * Trabalhando em equipes ágeis ; Por: DIO ; Certificado No. 3A5A21A4  
-  
-Competências
-======
-* Microsoft Office Avançado: Excel, Power Point; Word;
-* AutoCAD e AutoCAD Civil 3D;
-* GitHub
-* QGIS
-* Noções básicas de Front-End (HTML e CSS) 
-* Raciocínio Lógico
-* Machine Learning
-  * Visão Computacional
-  * Desenvolvimento das habilidades durante a especialização em Deep Learning 
 
-* Python e bibliotecas relacionadas, como Pandas e Plotly
-* SQL Básico
-  
 Línguas
 ======
 * Português: Nativo
