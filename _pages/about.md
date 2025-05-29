@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>Civil engineer graduated from the Federal University of Pernambuco (UFPE), in career transition to the field of Information Technology (IT). Currently a postgraduate student at CIN-UFPE in the area of Deep Learning.</p>
+<p>I am a Junior Developer transitioning from a career in Civil Engineering, where I built a strong analytical foundation. I am currently pursuing a specialization in Deep Learning at CIN‑UFPE, deepening my knowledge in artificial intelligence and programming. I have hands‑on experience developing projects with Python, including integrating external APIs for data collection and processing. Additionally, I have completed courses that provided me with knowledge of JavaScript, HTML, CSS, and SQL, expanding my capabilities in web development and data analysis.</p>
 
 <p>To access the portuguese version of this page <a href='https://meduardaeneves.github.io//about_pt/'>Click Here</a>.</p>
 
