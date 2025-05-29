@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<p>Engenheira Civil formada pela Universidade Federal de Pernambuco (UFPE), em transição de carreira para a área de Tecnologia da Informação. Atualmente estudante de Pós-Graduação pelo CIN-UFPE na área de Deep Learning.</p>
+<p>Sou Desenvolvedora Jr. em transição de carreira, com sólida base analítica adquirida na graduação em Engenharia Civil. Atualmente, curso especialização em Deep Learning pelo CIN‑UFPE, onde aprofundomeus conhecimentos em inteligência artificial e programação. Tenho experiência prática no desenvolvimento de projetos com Python, incluindo a integração com APIs para coleta e tratamento de dados externos. Além disso, realizei cursos complementares que me proporcionaram conhecimentos básicos em JavaScript, HTML, CSS e SQL, ampliando minha atuação no desenvolvimento web e na análise de dados</p>
 
 <p>Para acessar a versão em inglês desta página <a href='https://meduardaeneves.github.io//'>Clique aqui</a>.</p>
