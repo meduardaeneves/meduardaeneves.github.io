@@ -9,25 +9,21 @@ author_profile: true
   All of them have connections to a GitHub repository, allowing access to the raw codes.<br>
   They are divided into two categories:
 </p>
-<div>
-  <ul>
+<ul>
     <li><a href="#games">Games</a></li>
     <li><a href="#projects">Personal Projects</a></li>
-  </ul>
-</div>
+</ul>
 
 <h2 id="games">GAMES</h2>
 
 <!-- <p>To access all the games created, click <a href="{{ site.baseurl }}/portfolio/games/">HERE</a>.</p>-->
 <p>Some games, to be displayed in the website, were deployed with the help of a low-code platform (<a href='https://anvil.works/open-source'>Anvil Framework</a>)</p>
 <p>Other games created required a GUI interface to work. Because of that, those games will not be able to be played on this website, but it will be provided and ".exe" to allow you to download it.</p>
-<div>
-  <ul>
+<ul>
     <li>The executable file was created with "Pyinstaller Library"</li>
     <li>In some cases, your PC provides protection for the apps created like this. If that is the case, you need to exclude the file from the "Real-Time Scanning" section in your PCs firewall protection.</li>
     <li>If you don't want to modify your PCs protection, you can access the github repository with all the codes that were used to create the app, download them and then play them on your own code editor.</li>
-  </ul>  
-</div>
+</ul>  
 <div class="games-grid">
   {% for post in site.portfolio %}
     {% if post.categories contains "games" %}
