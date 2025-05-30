@@ -22,7 +22,8 @@ repository               : "meduardaeneves/meduardaeneves.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto_cv_02.JPG"
+  avatar           : "foto_cv_portfolio.JPG"
+  # avatar           : "foto_cv_02.JPG"
   name             : "Maria Eduarda E. Neves"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate, specialization in Deep Learning, UFPE."
