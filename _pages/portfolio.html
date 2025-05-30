@@ -52,7 +52,7 @@ author_profile: true
 <!-- <p>To access all the personal projects created, click <a href="{{ site.baseurl }}/portfolio/personal-projects/">HERE</a>.</p>-->
 <p>The projects in this section were developed using ".ipynb" extension and some techniques of Deep and Machine Learning.</p>
 <p>For the present moment the projects are written in Portugues, but there is an English summary available for them.</p>
-<div class="personalprojects-grid">
+<!-- <div class="personalprojects-grid">
   {% for post in site.portfolio %}
     {% if post.categories contains "personal-projects" %}
       <div class="personalprojects-item">
@@ -60,6 +60,22 @@ author_profile: true
           <img src="{{ post.image }}" alt="{{ post.title }}">
           <h3>{{ post.title }}</h3>
         </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>-->
+<div class="personalprojects-grid">
+  {% for post in site.portfolio %}
+    {% if post.categories contains "personal-projects" %}
+      <div class="personalprojects-item">
+        {% if post.external_url %}
+          <a href="{{ post.external_url }}" target="_blank" rel="noopener">
+        {% else %}
+          <a href="{{ post.url | relative_url }}">
+        {% endif %}
+            <img src="{{ post.image }}" alt="{{ post.title }}">
+            <h3>{{ post.title }}</h3>
+          </a>
       </div>
     {% endif %}
   {% endfor %}
