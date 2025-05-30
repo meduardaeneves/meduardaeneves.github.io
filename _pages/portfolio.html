@@ -20,7 +20,7 @@ author_profile: true
 <div>
   <ul>
     <li>The website used to achieve this was the <a href='https://anvil.works/open-source'>low-code Anvil Framework website;</a>.</li>
-    <li>Despite the modification of the code on Anvil, each game page will provide a Github link to the raw code.</a>.</li>
+    <li>Despite the modification of the code on Anvil, each game page will provide a Github link to the raw code.</a></li>
   </ul>  
 </div>
 
@@ -52,6 +52,18 @@ author_profile: true
 <p>To access all the personal projects created, click <a href="{{ site.baseurl }}/portfolio/personal-projects/">HERE</a>.</p>
 <p>The projects in this section were developed using ".ipynb" extension and some techniques of Deep and Machine Learning.</p>
 <p>For the present moment the projects are written in Portugues, but there is an English summary available for them.</p>
+<div class="personalprojects-grid">
+  {% for post in site.portfolio %}
+    {% if post.categories contains "personal-projects" %}
+      <div class="personalprojects-item">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+          <h3>{{ post.title }}</h3>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
 {% include base_path %}
 
