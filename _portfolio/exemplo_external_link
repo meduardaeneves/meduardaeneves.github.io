@@ -1,21 +1,8 @@
 ---
-title: "Nome do Projeto"
-excerpt: "Descrição breve"
-image: "/images/logo/img.png"
+title: "Teste External Link"
+excerpt: "Teste External Link"
+image: "/images/logo/computer_vision_eurosat_logo.png"
 collection: portfolio
 categories: personal-projects
-permalink: /portfolio/meu-projeto/
-layout: null
+external_url: "https://www.google.com/"
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://linkexterno.com" />
-    <script>
-      window.location.href = "https://linkexterno.com";
-    </script>
-  </head>
-  <body>
-    <p>Redirecionando para <a href="https://linkexterno.com">https://linkexterno.com</a>...</p>
-  </body>
-</html>
