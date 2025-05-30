@@ -1,0 +1,21 @@
+---
+title: "Nome do Projeto"
+excerpt: "Descrição breve"
+image: "/images/logo/img.png"
+collection: portfolio
+categories: personal-projects
+permalink: /portfolio/meu-projeto/
+layout: null
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://linkexterno.com" />
+    <script>
+      window.location.href = "https://linkexterno.com";
+    </script>
+  </head>
+  <body>
+    <p>Redirecionando para <a href="https://linkexterno.com">https://linkexterno.com</a>...</p>
+  </body>
+</html>
