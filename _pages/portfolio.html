@@ -25,6 +25,13 @@ author_profile: true
         {% endif %}
             <img src="{{ post.image }}" alt="{{ post.title }}">
             <h3>{{ post.title }}</h3>
+            {% if post.features %}
+              <div class="project-features">
+                {% for feature in post.features %}
+                  <span class="feature-tag">{{ feature }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
           </a>
       </div>
     {% endif %}
