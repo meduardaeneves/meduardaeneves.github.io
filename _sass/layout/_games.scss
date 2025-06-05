@@ -42,6 +42,16 @@
 //     margin: 0 auto;
 // }
 
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Aumenta largura mínima */
+    gap: 15px;
+    padding: 15px;
+    justify-content: center;
+    max-width: 900px; /* Controla quebra para 3 colunas */
+    margin: 0 auto;
+}
+
 .games-item {
     background-color: #fff;
     border: 2px solid black;
