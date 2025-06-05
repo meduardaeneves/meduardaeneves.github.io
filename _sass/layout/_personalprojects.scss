@@ -22,13 +22,14 @@
     background-color: #fff;
     color: #000;
     border-color: white;
+    text-decoration: none;
 }
 
 .personalprojects-item a,
 .personalprojects-item a:hover,
 .personalprojects-item h3,
 .personalprojects-item h3:hover {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 // Para o Layout:
@@ -77,6 +78,7 @@
     transform: scale(1.05);
     text-decoration: none;
 }
+
 
 .personalprojects-item a {
     display: flex;
