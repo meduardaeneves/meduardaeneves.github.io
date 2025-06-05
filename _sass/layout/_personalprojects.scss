@@ -1,12 +1,50 @@
+// Para as TAGS:
+.project-features {
+    margin-top: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+}
+
+.feature-tag {
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border: 1px solid #444;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+    transition: all 0.3s ease-in-out;
+}
+
+.personalprojects-item:hover .feature-tag {
+    background-color: #fff;
+    color: #000;
+    border-color: white;
+}
+
+// Para o Layout:
+
+// .personalprojects-grid {
+//     display: grid;
+//     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Ajustado para 3 itens */
+//     gap: 15px;
+//     padding: 15px;
+//     justify-content: center;
+//     max-width: 1000px; /* Mantém uma largura máxima */
+//     margin: 0 auto;
+// }
+
 .personalprojects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Ajustado para 3 itens */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Aumenta largura mínima */
     gap: 15px;
     padding: 15px;
     justify-content: center;
-    max-width: 1000px; /* Mantém uma largura máxima */
+    max-width: 900px; /* Controla quebra para 3 colunas */
     margin: 0 auto;
 }
+
 .personalprojects-item {
     background-color: #fff;
     border: 2px solid black;
