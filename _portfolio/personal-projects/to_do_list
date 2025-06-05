@@ -5,4 +5,5 @@ image: "/images/logo/to_do_list_logo.png"
 collection: portfolio
 categories: personal-projects
 external_url: "https://to-do-list-js-dusky.vercel.app/"
+features: ["JavaScript", "HTML", "CSS"]
 ---
