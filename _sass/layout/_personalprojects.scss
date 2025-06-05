@@ -75,6 +75,7 @@
     color: white; /* Texto branco no hover */
     border-color: white; /* Borda branca no hover */
     transform: scale(1.05);
+    text-decoration: none;
 }
 
 .personalprojects-item a {
@@ -106,4 +107,5 @@
 /* Faz o título mudar de cor no hover */
 .personalprojects-item:hover h3 {
     color: white;
+    text-decoration: none;
 }
