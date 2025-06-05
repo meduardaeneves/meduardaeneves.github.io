@@ -84,7 +84,8 @@ Cursos e Certificados
 * Jornada Python ; Por: Hashtag; 
 * Machine Learning: Clusterização com linguagem Python ; Por: Udemy; 
 * Microsoft Excel 2016 Avançado ; Por: Fundação Bradesco ; Certificado No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
-* Project101x: Introdução ao gerenciamento de projetos ; Por: AdelaideX ; Certificado No. 5f52fa5a98114052a891645a59b49615;  
+* Project101x: Introdução ao gerenciamento de projetos ; Por: AdelaideX ; Certificado No. 5f52fa5a98114052a891645a59b49615;
+* Orientação a Objetos com JavaScript (Projetos e TypeScript);
 * Trabalhando em equipes ágeis ; Por: DIO ; Certificado No. 3A5A21A4  
 
 Línguas
