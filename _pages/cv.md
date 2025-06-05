@@ -84,7 +84,8 @@ Courses and Certificates
 * Python Journey ; BY: Hashtag; 
 * Machine Learning: Clusterization with Python  ; BY: Udemy; 
 * Advanced 2016 Microsoft Excel ; BY: Fundação Bradesco ; Certificate No. DCE9877D-34D8-4CEF-84E1-562F388CC7E0;  
-* Project101x: Introduction to Project Management ; BY: AdelaideX ; Certificate No. 5f52fa5a98114052a891645a59b49615;  
+* Project101x: Introduction to Project Management ; BY: AdelaideX ; Certificate No. 5f52fa5a98114052a891645a59b49615;
+* Object‑Oriented Programming with JavaScript (Projects and TypeScript)  ; BY: Udemy; 
 * Working on agile teams ; BY: DIO ; Certificate No. 3A5A21A4  
   
 Languages
