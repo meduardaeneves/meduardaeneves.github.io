@@ -1,7 +1,7 @@
 ---
 title: "Dark and Light Web Page"
 excerpt: "Dark and Light Web Page"
-image: "/images/logo/dark_light_logo.png.png"
+image: "/images/logo/dark_light_logo.png"
 collection: portfolio
 categories: personal-projects
 external_url: "https://dark-mode-web-page.vercel.app/"
