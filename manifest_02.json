@@ -1,0 +1,15 @@
+{
+	"name": "OOjs UI icon academic-progressive",
+	"icons": [
+		{
+			"src": "/images/foto_cv_02.JPG",
+			"sizes": "192x192",
+			"type": "image/jpg"
+		},
+		{
+			"src": "/images/foto_cv_02.JPG",
+			"sizes": "512x512",
+			"type": "image/jpg"
+		}
+	]
+}
