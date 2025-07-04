@@ -1,9 +1,9 @@
 ---
-title: "Bank Simulator"
-excerpt: "Bank Simulator"
-image: "/images/logo/shopping_cart_logo.png"
+title: "Shopping Cart"
+excerpt: "Shopping Cart"
+image: "/images/logo/shopping_cart2_logo.png"
 collection: portfolio
 categories: personal-projects
-external_url: "https://bank-simulator-six.vercel.app/"
+external_url: "https://shopping-cart-simulator.vercel.app/"
 features: ["JavaScript", "HTML", "CSS"]
 ---
